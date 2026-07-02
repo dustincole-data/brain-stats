@@ -1,0 +1,2999 @@
+{
+ "generated_at": "2026-07-02T20:04:03Z",
+ "nodes": [
+  {
+   "id": "Brain Index",
+   "group": "root",
+   "links": 0,
+   "shell": true
+  },
+  {
+   "id": "Brain Wiki Operating Rules",
+   "group": "root",
+   "links": 1,
+   "shell": true
+  },
+  {
+   "id": "AI Automation Agency",
+   "group": "knowledge",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "AI Era Skill Stack",
+   "group": "knowledge",
+   "links": 10,
+   "shell": false
+  },
+  {
+   "id": "AI Evaluation And Reliability",
+   "group": "knowledge",
+   "links": 41,
+   "shell": false
+  },
+  {
+   "id": "AI Industry Economics",
+   "group": "knowledge",
+   "links": 11,
+   "shell": false
+  },
+  {
+   "id": "AI Media And Model Governance",
+   "group": "knowledge",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "AI Product Design Workflow",
+   "group": "knowledge",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "AI Safety And Security",
+   "group": "knowledge",
+   "links": 23,
+   "shell": false
+  },
+  {
+   "id": "AI Second Brain",
+   "group": "knowledge",
+   "links": 21,
+   "shell": false
+  },
+  {
+   "id": "AI Work Transformation",
+   "group": "knowledge",
+   "links": 11,
+   "shell": false
+  },
+  {
+   "id": "Agent And AI Protocols",
+   "group": "knowledge",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "Agent Coding Workflow",
+   "group": "knowledge",
+   "links": 42,
+   "shell": false
+  },
+  {
+   "id": "Agent Memory & Context Engineering",
+   "group": "knowledge",
+   "links": 28,
+   "shell": false
+  },
+  {
+   "id": "Agent Research Methods",
+   "group": "knowledge",
+   "links": 15,
+   "shell": false
+  },
+  {
+   "id": "Agent Scheduling & Background Automation",
+   "group": "knowledge",
+   "links": 16,
+   "shell": false
+  },
+  {
+   "id": "Agent Security In Practice",
+   "group": "knowledge",
+   "links": 16,
+   "shell": false
+  },
+  {
+   "id": "Agent Skill Engineering",
+   "group": "knowledge",
+   "links": 21,
+   "shell": false
+  },
+  {
+   "id": "Agentic OS",
+   "group": "knowledge",
+   "links": 23,
+   "shell": false
+  },
+  {
+   "id": "Agentic System Patterns",
+   "group": "knowledge",
+   "links": 20,
+   "shell": false
+  },
+  {
+   "id": "Approval-Gated Autonomy",
+   "group": "knowledge",
+   "links": 22,
+   "shell": false
+  },
+  {
+   "id": "Brain Security Eval Suite",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Coding Agent Project Templates",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Coding Agents for Non-Engineers",
+   "group": "knowledge",
+   "links": 6,
+   "shell": false
+  },
+  {
+   "id": "Cross-Tool Orchestration",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Fine-Tuning And Preference Optimization",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Harness & Loop Engineering",
+   "group": "knowledge",
+   "links": 24,
+   "shell": false
+  },
+  {
+   "id": "LLM Research And Architecture",
+   "group": "knowledge",
+   "links": 14,
+   "shell": false
+  },
+  {
+   "id": "LLM Wiki",
+   "group": "knowledge",
+   "links": 19,
+   "shell": false
+  },
+  {
+   "id": "Local & Self-Hosted Agent Stacks",
+   "group": "knowledge",
+   "links": 19,
+   "shell": false
+  },
+  {
+   "id": "MCP & Tool Interfaces",
+   "group": "knowledge",
+   "links": 30,
+   "shell": false
+  },
+  {
+   "id": "Mechanistic Interpretability And Steering",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Multi-Agent Debate & Adversarial Dev",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Multi-Agent Orchestration",
+   "group": "knowledge",
+   "links": 20,
+   "shell": false
+  },
+  {
+   "id": "Newsletter Visual Generation",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Open Questions",
+   "group": "knowledge",
+   "links": 60,
+   "shell": false
+  },
+  {
+   "id": "Prompt And Context Engineering",
+   "group": "knowledge",
+   "links": 11,
+   "shell": false
+  },
+  {
+   "id": "RAG & Long-Context Retrieval",
+   "group": "knowledge",
+   "links": 21,
+   "shell": false
+  },
+  {
+   "id": "Signal Digest",
+   "group": "knowledge",
+   "links": 36,
+   "shell": false
+  },
+  {
+   "id": "Software Engineering Career",
+   "group": "knowledge",
+   "links": 5,
+   "shell": false
+  },
+  {
+   "id": "Source Scoring Rubric",
+   "group": "knowledge",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "AI App Builders",
+   "group": "knowledge",
+   "links": 6,
+   "shell": false
+  },
+  {
+   "id": "AI Model And Tooling Landscape",
+   "group": "knowledge",
+   "links": 20,
+   "shell": false
+  },
+  {
+   "id": "Agent Frameworks Compared",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Agent Reach",
+   "group": "knowledge",
+   "links": 5,
+   "shell": false
+  },
+  {
+   "id": "Basic Memory",
+   "group": "knowledge",
+   "links": 14,
+   "shell": false
+  },
+  {
+   "id": "Browser And Computer-Use Automation",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Claude Code",
+   "group": "knowledge",
+   "links": 25,
+   "shell": false
+  },
+  {
+   "id": "Codex",
+   "group": "knowledge",
+   "links": 24,
+   "shell": false
+  },
+  {
+   "id": "Coding-Assistant Landscape",
+   "group": "knowledge",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Datasette Apps",
+   "group": "knowledge",
+   "links": 2,
+   "shell": false
+  },
+  {
+   "id": "Frontier Model Landscape",
+   "group": "knowledge",
+   "links": 13,
+   "shell": false
+  },
+  {
+   "id": "Hermes Agent Ecosystem",
+   "group": "knowledge",
+   "links": 15,
+   "shell": false
+  },
+  {
+   "id": "LlamaIndex Vs LangChain",
+   "group": "knowledge",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "Notion",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Open-Source Coding Agents",
+   "group": "knowledge",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "OpenAI Agent Stack",
+   "group": "knowledge",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "OpenClaw",
+   "group": "knowledge",
+   "links": 14,
+   "shell": false
+  },
+  {
+   "id": "OpenRouter",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Pi Coding Agent",
+   "group": "knowledge",
+   "links": 14,
+   "shell": false
+  },
+  {
+   "id": "SQLite Utils",
+   "group": "knowledge",
+   "links": 4,
+   "shell": false
+  },
+  {
+   "id": "Vector Databases & Retrieval Stack",
+   "group": "knowledge",
+   "links": 10,
+   "shell": false
+  },
+  {
+   "id": "Voice And Transcription Stack",
+   "group": "knowledge",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "n8n",
+   "group": "knowledge",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "Agentic OS Project",
+   "group": "projects",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "AI Radar Discovery Lane",
+   "group": "projects",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Brain Advisor",
+   "group": "projects",
+   "links": 6,
+   "shell": false
+  },
+  {
+   "id": "Brain Briefing Loop",
+   "group": "projects",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Brain Concept Discovery",
+   "group": "projects",
+   "links": 20,
+   "shell": false
+  },
+  {
+   "id": "Brain Process And Obsidian Setup",
+   "group": "projects",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "Brain Research OS",
+   "group": "projects",
+   "links": 15,
+   "shell": false
+  },
+  {
+   "id": "Brain Roadmap",
+   "group": "projects",
+   "links": 18,
+   "shell": false
+  },
+  {
+   "id": "Brain State",
+   "group": "projects",
+   "links": 22,
+   "shell": false
+  },
+  {
+   "id": "Brain Sync Process",
+   "group": "projects",
+   "links": 4,
+   "shell": false
+  },
+  {
+   "id": "Dustin Agent System",
+   "group": "projects",
+   "links": 16,
+   "shell": false
+  },
+  {
+   "id": "Hermes Agent Cost Routing",
+   "group": "projects",
+   "links": 17,
+   "shell": false
+  },
+  {
+   "id": "News Ingestion Pipeline",
+   "group": "projects",
+   "links": 9,
+   "shell": false
+  },
+  {
+   "id": "YouTube Ingestion Pipeline",
+   "group": "projects",
+   "links": 13,
+   "shell": false
+  },
+  {
+   "id": "Data Nerve Brand System",
+   "group": "projects",
+   "links": 5,
+   "shell": false
+  },
+  {
+   "id": "Data Nerve Classroom Edition",
+   "group": "projects",
+   "links": 7,
+   "shell": false
+  },
+  {
+   "id": "Data Nerve Content Engine",
+   "group": "projects",
+   "links": 12,
+   "shell": false
+  },
+  {
+   "id": "Data Nerve Growth Partners",
+   "group": "projects",
+   "links": 4,
+   "shell": false
+  },
+  {
+   "id": "Data Nerve Newsletter",
+   "group": "projects",
+   "links": 11,
+   "shell": false
+  },
+  {
+   "id": "Dustin Brand Research OS",
+   "group": "projects",
+   "links": 8,
+   "shell": false
+  },
+  {
+   "id": "Learning News Field Notes Workflow",
+   "group": "projects",
+   "links": 5,
+   "shell": false
+  },
+  {
+   "id": "Practical AI Brand",
+   "group": "projects",
+   "links": 13,
+   "shell": false
+  },
+  {
+   "id": "Fanbase Weather Content Playbook",
+   "group": "projects",
+   "links": 3,
+   "shell": false
+  },
+  {
+   "id": "Fanbase Weather Fan Comment Source Pipeline",
+   "group": "projects",
+   "links": 4,
+   "shell": false
+  },
+  {
+   "id": "Fanbase Weather Growth",
+   "group": "projects",
+   "links": 3,
+   "shell": false
+  },
+  {
+   "id": "Fanbase Weather Technical Architecture",
+   "group": "projects",
+   "links": 5,
+   "shell": false
+  },
+  {
+   "id": "Fanbase Weather",
+   "group": "projects",
+   "links": 6,
+   "shell": false
+  },
+  {
+   "id": "Mission Control",
+   "group": "projects",
+   "links": 9,
+   "shell": false
+  }
+ ],
+ "edges": [
+  [
+   1,
+   28
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   2,
+   10
+  ],
+  [
+   2,
+   12
+  ],
+  [
+   2,
+   15
+  ],
+  [
+   2,
+   18
+  ],
+  [
+   2,
+   20
+  ],
+  [
+   2,
+   63
+  ],
+  [
+   3,
+   5
+  ],
+  [
+   3,
+   10
+  ],
+  [
+   3,
+   17
+  ],
+  [
+   3,
+   18
+  ],
+  [
+   3,
+   39
+  ],
+  [
+   3,
+   74
+  ],
+  [
+   3,
+   79
+  ],
+  [
+   3,
+   83
+  ],
+  [
+   3,
+   85
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   4,
+   6
+  ],
+  [
+   4,
+   8
+  ],
+  [
+   4,
+   9
+  ],
+  [
+   4,
+   10
+  ],
+  [
+   4,
+   11
+  ],
+  [
+   4,
+   12
+  ],
+  [
+   4,
+   13
+  ],
+  [
+   4,
+   14
+  ],
+  [
+   4,
+   15
+  ],
+  [
+   4,
+   16
+  ],
+  [
+   4,
+   17
+  ],
+  [
+   4,
+   19
+  ],
+  [
+   4,
+   20
+  ],
+  [
+   4,
+   21
+  ],
+  [
+   4,
+   22
+  ],
+  [
+   4,
+   25
+  ],
+  [
+   4,
+   26
+  ],
+  [
+   4,
+   27
+  ],
+  [
+   4,
+   28
+  ],
+  [
+   4,
+   29
+  ],
+  [
+   4,
+   31
+  ],
+  [
+   4,
+   32
+  ],
+  [
+   4,
+   33
+  ],
+  [
+   4,
+   35
+  ],
+  [
+   4,
+   36
+  ],
+  [
+   4,
+   37
+  ],
+  [
+   4,
+   38
+  ],
+  [
+   4,
+   40
+  ],
+  [
+   4,
+   41
+  ],
+  [
+   4,
+   42
+  ],
+  [
+   4,
+   46
+  ],
+  [
+   4,
+   48
+  ],
+  [
+   4,
+   51
+  ],
+  [
+   4,
+   55
+  ],
+  [
+   4,
+   58
+  ],
+  [
+   4,
+   59
+  ],
+  [
+   4,
+   61
+  ],
+  [
+   4,
+   70
+  ],
+  [
+   4,
+   71
+  ],
+  [
+   4,
+   75
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   5,
+   10
+  ],
+  [
+   5,
+   12
+  ],
+  [
+   5,
+   27
+  ],
+  [
+   5,
+   29
+  ],
+  [
+   5,
+   38
+  ],
+  [
+   5,
+   39
+  ],
+  [
+   5,
+   42
+  ],
+  [
+   5,
+   85
+  ],
+  [
+   6,
+   8
+  ],
+  [
+   6,
+   10
+  ],
+  [
+   6,
+   20
+  ],
+  [
+   6,
+   42
+  ],
+  [
+   6,
+   85
+  ],
+  [
+   7,
+   12
+  ],
+  [
+   7,
+   34
+  ],
+  [
+   7,
+   35
+  ],
+  [
+   7,
+   38
+  ],
+  [
+   7,
+   41
+  ],
+  [
+   7,
+   42
+  ],
+  [
+   7,
+   85
+  ],
+  [
+   7,
+   90
+  ],
+  [
+   7,
+   91
+  ],
+  [
+   8,
+   9
+  ],
+  [
+   8,
+   11
+  ],
+  [
+   8,
+   12
+  ],
+  [
+   8,
+   13
+  ],
+  [
+   8,
+   14
+  ],
+  [
+   8,
+   15
+  ],
+  [
+   8,
+   16
+  ],
+  [
+   8,
+   17
+  ],
+  [
+   8,
+   19
+  ],
+  [
+   8,
+   20
+  ],
+  [
+   8,
+   21
+  ],
+  [
+   8,
+   22
+  ],
+  [
+   8,
+   25
+  ],
+  [
+   8,
+   27
+  ],
+  [
+   8,
+   29
+  ],
+  [
+   8,
+   30
+  ],
+  [
+   8,
+   31
+  ],
+  [
+   8,
+   32
+  ],
+  [
+   8,
+   35
+  ],
+  [
+   8,
+   38
+  ],
+  [
+   8,
+   42
+  ],
+  [
+   9,
+   13
+  ],
+  [
+   9,
+   16
+  ],
+  [
+   9,
+   18
+  ],
+  [
+   9,
+   21
+  ],
+  [
+   9,
+   28
+  ],
+  [
+   9,
+   30
+  ],
+  [
+   9,
+   35
+  ],
+  [
+   9,
+   37
+  ],
+  [
+   9,
+   38
+  ],
+  [
+   9,
+   40
+  ],
+  [
+   9,
+   45
+  ],
+  [
+   9,
+   53
+  ],
+  [
+   9,
+   54
+  ],
+  [
+   9,
+   61
+  ],
+  [
+   9,
+   68
+  ],
+  [
+   9,
+   69
+  ],
+  [
+   9,
+   70
+  ],
+  [
+   9,
+   71
+  ],
+  [
+   9,
+   72
+  ],
+  [
+   10,
+   12
+  ],
+  [
+   10,
+   20
+  ],
+  [
+   10,
+   38
+  ],
+  [
+   10,
+   39
+  ],
+  [
+   10,
+   48
+  ],
+  [
+   10,
+   85
+  ],
+  [
+   11,
+   13
+  ],
+  [
+   11,
+   19
+  ],
+  [
+   11,
+   26
+  ],
+  [
+   11,
+   30
+  ],
+  [
+   11,
+   33
+  ],
+  [
+   12,
+   13
+  ],
+  [
+   12,
+   15
+  ],
+  [
+   12,
+   17
+  ],
+  [
+   12,
+   18
+  ],
+  [
+   12,
+   19
+  ],
+  [
+   12,
+   22
+  ],
+  [
+   12,
+   23
+  ],
+  [
+   12,
+   24
+  ],
+  [
+   12,
+   26
+  ],
+  [
+   12,
+   27
+  ],
+  [
+   12,
+   29
+  ],
+  [
+   12,
+   30
+  ],
+  [
+   12,
+   32
+  ],
+  [
+   12,
+   33
+  ],
+  [
+   12,
+   35
+  ],
+  [
+   12,
+   38
+  ],
+  [
+   12,
+   39
+  ],
+  [
+   12,
+   41
+  ],
+  [
+   12,
+   42
+  ],
+  [
+   12,
+   47
+  ],
+  [
+   12,
+   48
+  ],
+  [
+   12,
+   49
+  ],
+  [
+   12,
+   50
+  ],
+  [
+   12,
+   51
+  ],
+  [
+   12,
+   52
+  ],
+  [
+   12,
+   55
+  ],
+  [
+   12,
+   57
+  ],
+  [
+   12,
+   58
+  ],
+  [
+   12,
+   59
+  ],
+  [
+   12,
+   60
+  ],
+  [
+   12,
+   68
+  ],
+  [
+   12,
+   74
+  ],
+  [
+   12,
+   75
+  ],
+  [
+   12,
+   77
+  ],
+  [
+   12,
+   79
+  ],
+  [
+   12,
+   91
+  ],
+  [
+   13,
+   14
+  ],
+  [
+   13,
+   16
+  ],
+  [
+   13,
+   17
+  ],
+  [
+   13,
+   18
+  ],
+  [
+   13,
+   22
+  ],
+  [
+   13,
+   26
+  ],
+  [
+   13,
+   28
+  ],
+  [
+   13,
+   29
+  ],
+  [
+   13,
+   30
+  ],
+  [
+   13,
+   33
+  ],
+  [
+   13,
+   35
+  ],
+  [
+   13,
+   36
+  ],
+  [
+   13,
+   37
+  ],
+  [
+   13,
+   38
+  ],
+  [
+   13,
+   43
+  ],
+  [
+   13,
+   45
+  ],
+  [
+   13,
+   47
+  ],
+  [
+   13,
+   48
+  ],
+  [
+   13,
+   49
+  ],
+  [
+   13,
+   53
+  ],
+  [
+   13,
+   61
+  ],
+  [
+   13,
+   68
+  ],
+  [
+   13,
+   70
+  ],
+  [
+   14,
+   19
+  ],
+  [
+   14,
+   26
+  ],
+  [
+   14,
+   28
+  ],
+  [
+   14,
+   30
+  ],
+  [
+   14,
+   31
+  ],
+  [
+   14,
+   33
+  ],
+  [
+   14,
+   35
+  ],
+  [
+   14,
+   37
+  ],
+  [
+   14,
+   38
+  ],
+  [
+   14,
+   40
+  ],
+  [
+   14,
+   70
+  ],
+  [
+   14,
+   71
+  ],
+  [
+   15,
+   16
+  ],
+  [
+   15,
+   18
+  ],
+  [
+   15,
+   20
+  ],
+  [
+   15,
+   30
+  ],
+  [
+   15,
+   35
+  ],
+  [
+   15,
+   54
+  ],
+  [
+   15,
+   63
+  ],
+  [
+   15,
+   65
+  ],
+  [
+   15,
+   67
+  ],
+  [
+   15,
+   68
+  ],
+  [
+   15,
+   76
+  ],
+  [
+   15,
+   77
+  ],
+  [
+   16,
+   20
+  ],
+  [
+   16,
+   21
+  ],
+  [
+   16,
+   30
+  ],
+  [
+   16,
+   35
+  ],
+  [
+   16,
+   37
+  ],
+  [
+   16,
+   38
+  ],
+  [
+   16,
+   40
+  ],
+  [
+   16,
+   46
+  ],
+  [
+   16,
+   65
+  ],
+  [
+   16,
+   76
+  ],
+  [
+   16,
+   77
+  ],
+  [
+   17,
+   18
+  ],
+  [
+   17,
+   22
+  ],
+  [
+   17,
+   24
+  ],
+  [
+   17,
+   26
+  ],
+  [
+   17,
+   30
+  ],
+  [
+   17,
+   35
+  ],
+  [
+   17,
+   36
+  ],
+  [
+   17,
+   38
+  ],
+  [
+   17,
+   47
+  ],
+  [
+   17,
+   48
+  ],
+  [
+   17,
+   55
+  ],
+  [
+   17,
+   56
+  ],
+  [
+   17,
+   67
+  ],
+  [
+   17,
+   68
+  ],
+  [
+   17,
+   70
+  ],
+  [
+   17,
+   82
+  ],
+  [
+   18,
+   19
+  ],
+  [
+   18,
+   24
+  ],
+  [
+   18,
+   28
+  ],
+  [
+   18,
+   38
+  ],
+  [
+   18,
+   43
+  ],
+  [
+   18,
+   47
+  ],
+  [
+   18,
+   52
+  ],
+  [
+   18,
+   57
+  ],
+  [
+   18,
+   64
+  ],
+  [
+   18,
+   65
+  ],
+  [
+   18,
+   69
+  ],
+  [
+   18,
+   72
+  ],
+  [
+   18,
+   74
+  ],
+  [
+   18,
+   76
+  ],
+  [
+   18,
+   77
+  ],
+  [
+   18,
+   91
+  ],
+  [
+   19,
+   20
+  ],
+  [
+   19,
+   25
+  ],
+  [
+   19,
+   27
+  ],
+  [
+   19,
+   30
+  ],
+  [
+   19,
+   31
+  ],
+  [
+   19,
+   32
+  ],
+  [
+   19,
+   33
+  ],
+  [
+   19,
+   36
+  ],
+  [
+   19,
+   38
+  ],
+  [
+   19,
+   43
+  ],
+  [
+   19,
+   46
+  ],
+  [
+   19,
+   47
+  ],
+  [
+   19,
+   68
+  ],
+  [
+   19,
+   79
+  ],
+  [
+   20,
+   21
+  ],
+  [
+   20,
+   23
+  ],
+  [
+   20,
+   24
+  ],
+  [
+   20,
+   26
+  ],
+  [
+   20,
+   30
+  ],
+  [
+   20,
+   32
+  ],
+  [
+   20,
+   33
+  ],
+  [
+   20,
+   48
+  ],
+  [
+   20,
+   52
+  ],
+  [
+   20,
+   57
+  ],
+  [
+   20,
+   59
+  ],
+  [
+   20,
+   67
+  ],
+  [
+   20,
+   74
+  ],
+  [
+   20,
+   80
+  ],
+  [
+   21,
+   30
+  ],
+  [
+   21,
+   35
+  ],
+  [
+   21,
+   37
+  ],
+  [
+   21,
+   40
+  ],
+  [
+   21,
+   70
+  ],
+  [
+   21,
+   71
+  ],
+  [
+   21,
+   72
+  ],
+  [
+   22,
+   23
+  ],
+  [
+   22,
+   26
+  ],
+  [
+   22,
+   33
+  ],
+  [
+   22,
+   35
+  ],
+  [
+   22,
+   36
+  ],
+  [
+   22,
+   59
+  ],
+  [
+   22,
+   72
+  ],
+  [
+   23,
+   35
+  ],
+  [
+   23,
+   82
+  ],
+  [
+   23,
+   85
+  ],
+  [
+   24,
+   26
+  ],
+  [
+   24,
+   32
+  ],
+  [
+   24,
+   33
+  ],
+  [
+   24,
+   38
+  ],
+  [
+   24,
+   48
+  ],
+  [
+   24,
+   59
+  ],
+  [
+   24,
+   64
+  ],
+  [
+   24,
+   68
+  ],
+  [
+   25,
+   27
+  ],
+  [
+   25,
+   31
+  ],
+  [
+   25,
+   36
+  ],
+  [
+   25,
+   37
+  ],
+  [
+   25,
+   38
+  ],
+  [
+   26,
+   28
+  ],
+  [
+   26,
+   29
+  ],
+  [
+   26,
+   32
+  ],
+  [
+   26,
+   33
+  ],
+  [
+   26,
+   35
+  ],
+  [
+   26,
+   36
+  ],
+  [
+   26,
+   38
+  ],
+  [
+   26,
+   43
+  ],
+  [
+   26,
+   46
+  ],
+  [
+   26,
+   48
+  ],
+  [
+   26,
+   57
+  ],
+  [
+   26,
+   59
+  ],
+  [
+   26,
+   68
+  ],
+  [
+   26,
+   70
+  ],
+  [
+   26,
+   71
+  ],
+  [
+   27,
+   29
+  ],
+  [
+   27,
+   31
+  ],
+  [
+   27,
+   32
+  ],
+  [
+   27,
+   35
+  ],
+  [
+   27,
+   37
+  ],
+  [
+   27,
+   42
+  ],
+  [
+   27,
+   51
+  ],
+  [
+   27,
+   75
+  ],
+  [
+   28,
+   35
+  ],
+  [
+   28,
+   37
+  ],
+  [
+   28,
+   38
+  ],
+  [
+   28,
+   61
+  ],
+  [
+   28,
+   68
+  ],
+  [
+   28,
+   69
+  ],
+  [
+   28,
+   70
+  ],
+  [
+   28,
+   71
+  ],
+  [
+   28,
+   72
+  ],
+  [
+   28,
+   74
+  ],
+  [
+   28,
+   76
+  ],
+  [
+   28,
+   77
+  ],
+  [
+   29,
+   35
+  ],
+  [
+   29,
+   38
+  ],
+  [
+   29,
+   42
+  ],
+  [
+   29,
+   47
+  ],
+  [
+   29,
+   48
+  ],
+  [
+   29,
+   51
+  ],
+  [
+   29,
+   55
+  ],
+  [
+   29,
+   57
+  ],
+  [
+   29,
+   58
+  ],
+  [
+   29,
+   59
+  ],
+  [
+   29,
+   68
+  ],
+  [
+   29,
+   75
+  ],
+  [
+   30,
+   33
+  ],
+  [
+   30,
+   35
+  ],
+  [
+   30,
+   36
+  ],
+  [
+   30,
+   38
+  ],
+  [
+   30,
+   41
+  ],
+  [
+   30,
+   43
+  ],
+  [
+   30,
+   46
+  ],
+  [
+   30,
+   47
+  ],
+  [
+   30,
+   48
+  ],
+  [
+   30,
+   49
+  ],
+  [
+   30,
+   52
+  ],
+  [
+   30,
+   54
+  ],
+  [
+   30,
+   55
+  ],
+  [
+   30,
+   56
+  ],
+  [
+   30,
+   57
+  ],
+  [
+   30,
+   59
+  ],
+  [
+   30,
+   63
+  ],
+  [
+   30,
+   68
+  ],
+  [
+   31,
+   36
+  ],
+  [
+   31,
+   37
+  ],
+  [
+   32,
+   33
+  ],
+  [
+   32,
+   35
+  ],
+  [
+   32,
+   37
+  ],
+  [
+   32,
+   68
+  ],
+  [
+   33,
+   35
+  ],
+  [
+   33,
+   38
+  ],
+  [
+   33,
+   43
+  ],
+  [
+   33,
+   47
+  ],
+  [
+   33,
+   48
+  ],
+  [
+   33,
+   49
+  ],
+  [
+   33,
+   59
+  ],
+  [
+   33,
+   68
+  ],
+  [
+   34,
+   35
+  ],
+  [
+   34,
+   42
+  ],
+  [
+   34,
+   62
+  ],
+  [
+   34,
+   78
+  ],
+  [
+   34,
+   79
+  ],
+  [
+   34,
+   80
+  ],
+  [
+   34,
+   82
+  ],
+  [
+   35,
+   36
+  ],
+  [
+   35,
+   37
+  ],
+  [
+   35,
+   38
+  ],
+  [
+   35,
+   40
+  ],
+  [
+   35,
+   41
+  ],
+  [
+   35,
+   43
+  ],
+  [
+   35,
+   45
+  ],
+  [
+   35,
+   46
+  ],
+  [
+   35,
+   47
+  ],
+  [
+   35,
+   48
+  ],
+  [
+   35,
+   49
+  ],
+  [
+   35,
+   51
+  ],
+  [
+   35,
+   52
+  ],
+  [
+   35,
+   53
+  ],
+  [
+   35,
+   54
+  ],
+  [
+   35,
+   55
+  ],
+  [
+   35,
+   58
+  ],
+  [
+   35,
+   59
+  ],
+  [
+   35,
+   61
+  ],
+  [
+   35,
+   63
+  ],
+  [
+   35,
+   64
+  ],
+  [
+   35,
+   66
+  ],
+  [
+   35,
+   67
+  ],
+  [
+   35,
+   68
+  ],
+  [
+   35,
+   69
+  ],
+  [
+   35,
+   70
+  ],
+  [
+   35,
+   71
+  ],
+  [
+   35,
+   72
+  ],
+  [
+   35,
+   75
+  ],
+  [
+   35,
+   79
+  ],
+  [
+   35,
+   80
+  ],
+  [
+   35,
+   81
+  ],
+  [
+   35,
+   82
+  ],
+  [
+   35,
+   83
+  ],
+  [
+   35,
+   85
+  ],
+  [
+   35,
+   87
+  ],
+  [
+   35,
+   89
+  ],
+  [
+   35,
+   90
+  ],
+  [
+   35,
+   91
+  ],
+  [
+   36,
+   37
+  ],
+  [
+   37,
+   38
+  ],
+  [
+   37,
+   40
+  ],
+  [
+   37,
+   45
+  ],
+  [
+   37,
+   51
+  ],
+  [
+   37,
+   53
+  ],
+  [
+   37,
+   61
+  ],
+  [
+   37,
+   63
+  ],
+  [
+   37,
+   68
+  ],
+  [
+   38,
+   39
+  ],
+  [
+   38,
+   42
+  ],
+  [
+   38,
+   51
+  ],
+  [
+   38,
+   52
+  ],
+  [
+   38,
+   57
+  ],
+  [
+   38,
+   62
+  ],
+  [
+   38,
+   64
+  ],
+  [
+   38,
+   65
+  ],
+  [
+   38,
+   71
+  ],
+  [
+   38,
+   72
+  ],
+  [
+   38,
+   75
+  ],
+  [
+   38,
+   76
+  ],
+  [
+   38,
+   77
+  ],
+  [
+   38,
+   85
+  ],
+  [
+   40,
+   70
+  ],
+  [
+   40,
+   72
+  ],
+  [
+   41,
+   49
+  ],
+  [
+   42,
+   47
+  ],
+  [
+   42,
+   48
+  ],
+  [
+   42,
+   49
+  ],
+  [
+   42,
+   51
+  ],
+  [
+   42,
+   52
+  ],
+  [
+   42,
+   57
+  ],
+  [
+   42,
+   58
+  ],
+  [
+   42,
+   60
+  ],
+  [
+   42,
+   62
+  ],
+  [
+   42,
+   75
+  ],
+  [
+   43,
+   47
+  ],
+  [
+   43,
+   48
+  ],
+  [
+   43,
+   53
+  ],
+  [
+   43,
+   56
+  ],
+  [
+   43,
+   57
+  ],
+  [
+   44,
+   72
+  ],
+  [
+   44,
+   74
+  ],
+  [
+   44,
+   84
+  ],
+  [
+   44,
+   85
+  ],
+  [
+   44,
+   89
+  ],
+  [
+   45,
+   47
+  ],
+  [
+   45,
+   52
+  ],
+  [
+   45,
+   53
+  ],
+  [
+   45,
+   54
+  ],
+  [
+   45,
+   60
+  ],
+  [
+   45,
+   61
+  ],
+  [
+   45,
+   69
+  ],
+  [
+   45,
+   70
+  ],
+  [
+   45,
+   72
+  ],
+  [
+   45,
+   73
+  ],
+  [
+   46,
+   47
+  ],
+  [
+   46,
+   48
+  ],
+  [
+   47,
+   48
+  ],
+  [
+   47,
+   49
+  ],
+  [
+   47,
+   51
+  ],
+  [
+   47,
+   52
+  ],
+  [
+   47,
+   55
+  ],
+  [
+   47,
+   56
+  ],
+  [
+   47,
+   57
+  ],
+  [
+   47,
+   59
+  ],
+  [
+   47,
+   63
+  ],
+  [
+   47,
+   74
+  ],
+  [
+   47,
+   75
+  ],
+  [
+   47,
+   77
+  ],
+  [
+   48,
+   49
+  ],
+  [
+   48,
+   51
+  ],
+  [
+   48,
+   55
+  ],
+  [
+   48,
+   56
+  ],
+  [
+   48,
+   59
+  ],
+  [
+   48,
+   68
+  ],
+  [
+   48,
+   70
+  ],
+  [
+   48,
+   75
+  ],
+  [
+   49,
+   51
+  ],
+  [
+   49,
+   55
+  ],
+  [
+   49,
+   56
+  ],
+  [
+   50,
+   60
+  ],
+  [
+   51,
+   58
+  ],
+  [
+   51,
+   75
+  ],
+  [
+   52,
+   56
+  ],
+  [
+   52,
+   57
+  ],
+  [
+   52,
+   58
+  ],
+  [
+   52,
+   62
+  ],
+  [
+   52,
+   63
+  ],
+  [
+   52,
+   75
+  ],
+  [
+   53,
+   61
+  ],
+  [
+   54,
+   63
+  ],
+  [
+   54,
+   80
+  ],
+  [
+   54,
+   83
+  ],
+  [
+   57,
+   59
+  ],
+  [
+   57,
+   68
+  ],
+  [
+   57,
+   74
+  ],
+  [
+   58,
+   75
+  ],
+  [
+   59,
+   68
+  ],
+  [
+   61,
+   69
+  ],
+  [
+   61,
+   71
+  ],
+  [
+   62,
+   75
+  ],
+  [
+   62,
+   80
+  ],
+  [
+   62,
+   82
+  ],
+  [
+   62,
+   83
+  ],
+  [
+   63,
+   74
+  ],
+  [
+   64,
+   71
+  ],
+  [
+   64,
+   72
+  ],
+  [
+   64,
+   74
+  ],
+  [
+   64,
+   75
+  ],
+  [
+   64,
+   91
+  ],
+  [
+   65,
+   71
+  ],
+  [
+   65,
+   72
+  ],
+  [
+   65,
+   76
+  ],
+  [
+   65,
+   77
+  ],
+  [
+   66,
+   67
+  ],
+  [
+   66,
+   70
+  ],
+  [
+   66,
+   71
+  ],
+  [
+   66,
+   72
+  ],
+  [
+   66,
+   73
+  ],
+  [
+   67,
+   71
+  ],
+  [
+   67,
+   72
+  ],
+  [
+   67,
+   75
+  ],
+  [
+   68,
+   69
+  ],
+  [
+   68,
+   72
+  ],
+  [
+   69,
+   73
+  ],
+  [
+   69,
+   77
+  ],
+  [
+   70,
+   71
+  ],
+  [
+   70,
+   72
+  ],
+  [
+   71,
+   72
+  ],
+  [
+   71,
+   76
+  ],
+  [
+   71,
+   77
+  ],
+  [
+   71,
+   91
+  ],
+  [
+   72,
+   73
+  ],
+  [
+   72,
+   74
+  ],
+  [
+   72,
+   76
+  ],
+  [
+   72,
+   77
+  ],
+  [
+   72,
+   91
+  ],
+  [
+   74,
+   75
+  ],
+  [
+   74,
+   77
+  ],
+  [
+   74,
+   80
+  ],
+  [
+   74,
+   83
+  ],
+  [
+   74,
+   91
+  ],
+  [
+   75,
+   91
+  ],
+  [
+   76,
+   77
+  ],
+  [
+   78,
+   80
+  ],
+  [
+   78,
+   81
+  ],
+  [
+   78,
+   82
+  ],
+  [
+   78,
+   85
+  ],
+  [
+   79,
+   80
+  ],
+  [
+   79,
+   82
+  ],
+  [
+   80,
+   81
+  ],
+  [
+   80,
+   82
+  ],
+  [
+   80,
+   83
+  ],
+  [
+   80,
+   84
+  ],
+  [
+   81,
+   82
+  ],
+  [
+   82,
+   84
+  ],
+  [
+   82,
+   85
+  ],
+  [
+   83,
+   84
+  ],
+  [
+   83,
+   85
+  ],
+  [
+   84,
+   85
+  ],
+  [
+   86,
+   87
+  ],
+  [
+   86,
+   88
+  ],
+  [
+   86,
+   90
+  ],
+  [
+   87,
+   89
+  ],
+  [
+   87,
+   90
+  ],
+  [
+   88,
+   89
+  ],
+  [
+   88,
+   90
+  ],
+  [
+   89,
+   90
+  ]
+ ]
+}
