@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-07-02T20:04:03Z",
+ "generated_at": "2026-07-03T08:30:39Z",
  "counts": {
-  "raw_files": 710,
-  "wiki_pages": 96,
-  "scheduled_jobs": 8
+  "raw_files": 715,
+  "wiki_pages": 97,
+  "scheduled_jobs": 21
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-07-02 DustinColeData brand-site v6 review pass session",
+   "date": "2026-07-03",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-02 Data Nerve Logo Round-3 Concepts session",
+   "date": "2026-07-03",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-02 Fanbase Weather Vercel CPU optimization session",
+   "date": "2026-07-03",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-03 DataNerve Synapse Mark Approved, Fable Next session",
+   "date": "2026-07-03",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-02 Fanbase Weather fan funnel rollback session",
+   "date": "2026-07-03",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-02 DustinColeData premium redesign v3 review fixes session",
+   "date": "2026-07-02",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-06-26 Brain Hardening and Cleanup session",
+   "date": "2026-07-02",
+   "bucket": "sessions"
+  },
   {
    "title": "2026-07-02 DustinColeData premium redesign build session",
    "date": "2026-07-02",
@@ -21,41 +56,6 @@
    "title": "2026-07-02 Viral LinkedIn Posts With Coding Agents Research",
    "date": "2026-07-02",
    "bucket": "sources"
-  },
-  {
-   "title": "2026-07-02",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 How Kent Beck shapes the software engineering industry",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 Warp CEO Zach Lloyd on why software factories are the next phase of coding",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 \ud83d\udd2c The Coolest Diffusion Research Isn't in LLMs \u2014 Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 How Cursor deploys AI inside the enterprise",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 Autoresearch The feedback loop behind self-improving agents",
-   "date": "2026-07-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-02 AIEWF Daily Dispatch Autoresearch and the tension between AI and human agency",
-   "date": "2026-07-02",
-   "bucket": "signal"
   }
  ],
  "graph": {
@@ -501,6 +501,11 @@
     "recent": true
    },
    {
+    "id": "DustinColeData Site",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Learning News Field Notes Workflow",
     "group": "projects",
     "recent": true
@@ -575,6 +580,10 @@
     66
    ],
    [
+    2,
+    90
+   ],
+   [
     3,
     5
    ],
@@ -608,7 +617,7 @@
    ],
    [
     3,
-    89
+    90
    ],
    [
     4,
@@ -808,7 +817,7 @@
    ],
    [
     5,
-    89
+    90
    ],
    [
     6,
@@ -828,7 +837,7 @@
    ],
    [
     6,
-    89
+    90
    ],
    [
     7,
@@ -856,15 +865,15 @@
    ],
    [
     7,
-    89
-   ],
-   [
-    7,
-    94
+    90
    ],
    [
     7,
     95
+   ],
+   [
+    7,
+    96
    ],
    [
     8,
@@ -1052,7 +1061,7 @@
    ],
    [
     10,
-    89
+    90
    ],
    [
     11,
@@ -1216,7 +1225,7 @@
    ],
    [
     12,
-    95
+    96
    ],
    [
     13,
@@ -1588,7 +1597,7 @@
    ],
    [
     18,
-    95
+    96
    ],
    [
     19,
@@ -1772,7 +1781,7 @@
    ],
    [
     23,
-    89
+    90
    ],
    [
     24,
@@ -2316,15 +2325,11 @@
    ],
    [
     35,
-    89
+    90
    ],
    [
     35,
-    91
-   ],
-   [
-    35,
-    93
+    92
    ],
    [
     35,
@@ -2333,6 +2338,10 @@
    [
     35,
     95
+   ],
+   [
+    35,
+    96
    ],
    [
     36,
@@ -2428,7 +2437,7 @@
    ],
    [
     38,
-    89
+    90
    ],
    [
     40,
@@ -2520,15 +2529,15 @@
    ],
    [
     45,
-    88
-   ],
-   [
-    45,
     89
    ],
    [
     45,
-    93
+    90
+   ],
+   [
+    45,
+    94
    ],
    [
     46,
@@ -2828,7 +2837,7 @@
    ],
    [
     67,
-    95
+    96
    ],
    [
     68,
@@ -2956,7 +2965,7 @@
    ],
    [
     75,
-    95
+    96
    ],
    [
     76,
@@ -2976,7 +2985,11 @@
    ],
    [
     76,
-    95
+    88
+   ],
+   [
+    76,
+    96
    ],
    [
     78,
@@ -2996,11 +3009,11 @@
    ],
    [
     78,
-    95
+    96
    ],
    [
     79,
-    95
+    96
    ],
    [
     80,
@@ -3020,7 +3033,7 @@
    ],
    [
     82,
-    89
+    90
    ],
    [
     83,
@@ -3044,7 +3057,7 @@
    ],
    [
     84,
-    88
+    89
    ],
    [
     85,
@@ -3059,48 +3072,60 @@
     89
    ],
    [
-    87,
-    88
+    86,
+    90
    ],
    [
     87,
     89
+   ],
+   [
+    87,
+    90
    ],
    [
     88,
-    89
+    90
    ],
    [
-    90,
-    91
+    88,
+    96
    ],
    [
-    90,
+    89,
+    90
+   ],
+   [
+    91,
     92
    ],
    [
-    90,
-    94
-   ],
-   [
     91,
     93
    ],
    [
     91,
-    94
-   ],
-   [
-    92,
-    93
+    95
    ],
    [
     92,
     94
+   ],
+   [
+    92,
+    95
    ],
    [
     93,
     94
+   ],
+   [
+    93,
+    95
+   ],
+   [
+    94,
+    95
    ]
   ]
  }
