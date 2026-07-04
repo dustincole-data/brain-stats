@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-03T08:30:39Z",
+ "generated_at": "2026-07-04T08:30:58Z",
  "counts": {
-  "raw_files": 715,
+  "raw_files": 755,
   "wiki_pages": 97,
   "scheduled_jobs": 21
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-02 DustinColeData brand-site v6 review pass session",
+   "title": "2026-07-03 3D Avatar and Logo LinkedIn Post - Drafts and Voice Diff",
+   "date": "2026-07-04",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-03 DustinColeData portrait new-scan and globe-cards session",
+   "date": "2026-07-04",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-03 Build log DustinColeData 3D portrait",
+   "date": "2026-07-03",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-03 DustinColeData 3D portrait and globe-on-load session",
    "date": "2026-07-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-02 Data Nerve Logo Round-3 Concepts session",
+   "title": "2026-07-03 DustinColeData Build Log - Portrait 2-Axis",
+   "date": "2026-07-03",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-03 DustinColeData portrait 2-axis session",
    "date": "2026-07-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-02 Fanbase Weather Vercel CPU optimization session",
+   "title": "2026-07-03 Data Nerve Grid-9 Brand Deploy session",
    "date": "2026-07-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-03 DataNerve Synapse Mark Approved, Fable Next session",
+   "title": "2026-07-03 The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)",
    "date": "2026-07-03",
-   "bucket": "sessions"
+   "bucket": "signal"
   },
   {
-   "title": "2026-07-02 Fanbase Weather fan funnel rollback session",
+   "title": "2026-07-03 5 Tricks to SAVE Your Claude Fable 5 Usage (80% Cheaper!)",
    "date": "2026-07-03",
-   "bucket": "sessions"
+   "bucket": "signal"
   },
   {
-   "title": "2026-07-02 DustinColeData premium redesign v3 review fixes session",
-   "date": "2026-07-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-06-26 Brain Hardening and Cleanup session",
-   "date": "2026-07-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-02 DustinColeData premium redesign build session",
-   "date": "2026-07-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-02 DustinColeData Premium Redesign Spec session",
-   "date": "2026-07-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-02 Viral LinkedIn Posts With Coding Agents Research",
-   "date": "2026-07-02",
-   "bucket": "sources"
+   "title": "2026-07-03 How Claude is Creating a New Generation of Millionaires",
+   "date": "2026-07-03",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -63,12 +63,12 @@
    {
     "id": "Brain Index",
     "group": "root",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Wiki Operating Rules",
     "group": "root",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Automation Agency",
