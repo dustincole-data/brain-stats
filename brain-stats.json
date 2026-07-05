@@ -1,12 +1,27 @@
 {
- "generated_at": "2026-07-05T08:30:04Z",
+ "generated_at": "2026-07-05T12:33:04Z",
  "counts": {
-  "raw_files": 772,
+  "raw_files": 775,
   "wiki_pages": 101,
-  "scheduled_jobs": 21
+  "scheduled_jobs": 22
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-07-05 Hermes Monitoring Digest and Token-Use Gap-Analysis session",
+   "date": "2026-07-05",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-05 Minimizing Hermes Token Use Gap-Analysis Research",
+   "date": "2026-07-05",
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-07-04 Data Nerve Structure and State session",
+   "date": "2026-07-05",
+   "bucket": "sessions"
+  },
   {
    "title": "2026-07-04 Hermes Cost Re-Tier and Drain Fix Executed session",
    "date": "2026-07-05",
@@ -39,21 +54,6 @@
   },
   {
    "title": "2026-07-04 DustinColeData go-live positioning and polish session",
-   "date": "2026-07-04",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 DustinColeData command palette transitions and go-live session",
-   "date": "2026-07-04",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 Writing Skill Self-Improvement System session",
-   "date": "2026-07-04",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 DustinColeData globe interactions and mobile fixes session",
    "date": "2026-07-04",
    "bucket": "sessions"
   }

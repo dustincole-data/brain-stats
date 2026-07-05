@@ -1,0 +1,291 @@
+{
+ "generated_at": "2026-07-05T12:33:04Z",
+ "counts": {
+  "jobs_total": 22,
+  "agents": 3,
+  "runs_today": 0,
+  "runs_7d": 8
+ },
+ "jobs": [
+  {
+   "id": "e9d7df8ccd8a",
+   "label": "Hermes gateway memory watchdog",
+   "desc": "",
+   "cadence": "hourly",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T12:28:51.086514+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "2768ed98063b",
+   "label": "AI + Work/Energy morning brief site updater",
+   "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T09:00:40.921583+00:00",
+   "last_status": "error",
+   "active": false
+  },
+  {
+   "id": "d4ce08de2c8f",
+   "label": "Mission Control backlog review",
+   "desc": "You are Scout doing Dustin's weekly Mission Control backlog review",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-29T14:02:38.727128+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "70407e2b6f3b",
+   "label": "Daily AI briefing source for morning site/email",
+   "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T08:45:28.554420+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "099cb2d19082",
+   "label": "Fanbase Bluesky account deep audit completion notifier",
+   "desc": "Run the Fanbase Weather Bluesky account deep-audit tick script",
+   "cadence": "hourly",
+   "owner": "Hermes",
+   "last_run": "2026-06-13T21:25:32.424835+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "aa83ec8a28fa",
+   "label": "AI Homeroom 5:15 AM daily refresh",
+   "desc": "Run the AI Homeroom refresh script",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T12:30:51.165662+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "2f37c14a6cb6",
+   "label": "Hermes continuity digest snapshot",
+   "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
+   "cadence": "hourly",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T11:29:48.148883+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "badfe66ea70d",
+   "label": "Dustin brand weekly intelligence brief",
+   "desc": "You are Reach, Dustin Cole's marketing and distribution agent",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-19T00:03:34.795468+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "3003533d11b0",
+   "label": "Dustin brand monthly site and tech strategy scan",
+   "desc": "You are Reach, Dustin Cole's marketing and distribution agent",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
+   "active": false
+  },
+  {
+   "id": "5b256f2682c0",
+   "label": "Brain Librarian",
+   "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T08:00:00.989178+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "b82a34233004",
+   "label": "Brain Weekly Lint",
+   "desc": "Script-only weekly Brain wiki lint for /home/hermes/brain live vault",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-29T07:02:31.113968+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "902e44de45e6",
+   "label": "Brain Syncthing watchdog",
+   "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
+   "cadence": "hourly",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T12:28:51.143980+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "51cff0cbc3da",
+   "label": "Brain Daily YouTube Ingest",
+   "desc": "Script-only deterministic Brain YouTube ingest",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-28T09:06:02.286745+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "a8880e1e94fb",
+   "label": "Brain Daily News Ingest",
+   "desc": "Script-only deterministic Brain news/RSS ingest",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-04T09:15:34.965364+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "80824fffeb5d",
+   "label": "Brain Daily AI Radar",
+   "desc": "Script-only deterministic Brain AI Radar discovery lane",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-04T09:26:06.494853+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "ac0f9f8d2255",
+   "label": "Brain Weekly Concept Discovery",
+   "desc": "Script-only weekly Brain concept discovery for /home/hermes/brain",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-29T07:30:35.797907+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "c845daad70ad",
+   "label": "Brain Weekly Source-Tier Audit",
+   "desc": "Script-only weekly Brain source-tier audit for /home/hermes/brain",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-06-29T07:40:36.096670+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "00b2bc57177c",
+   "label": "Brain Weekly Retrieval Eval",
+   "desc": "Script-only weekly Brain retrieval eval for /home/hermes/brain",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
+   "active": false
+  },
+  {
+   "id": "13347d1eac08",
+   "label": "Brain Weekly Source Catalog",
+   "desc": "Script-only weekly Brain source catalog for /home/hermes/brain",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
+   "active": false
+  },
+  {
+   "id": "c1537b5e1de4",
+   "label": "Brain Weekly Advisor",
+   "desc": "Script-only weekly Brain advisor + leverage + briefing loop for /home/hermes/brain live vault",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
+   "active": false
+  },
+  {
+   "id": "39efaafa488e",
+   "label": "Brain Librarian - Signal",
+   "desc": "",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
+   "active": false
+  },
+  {
+   "id": "600118d14d72",
+   "label": "Brain stats site snapshots",
+   "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T08:30:06.826850+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "a11beab4ee44",
+   "label": "Hermes Daily Cost+Health Digest",
+   "desc": "",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-05T10:55:46.368369+00:00",
+   "last_status": "ok",
+   "active": false
+  }
+ ],
+ "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "responded to user",
+   "at": "2026-07-02T21:42:07.335439Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "investigating morning brief site lag",
+   "at": "2026-07-02T21:39:56.068308Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "responded to user",
+   "at": "2026-07-02T21:37:09.332478Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "extended brain stats cron outputs",
+   "at": "2026-07-02T20:06:40.625540Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "drafted Data Nerve LinkedIn post and card",
+   "at": "2026-07-02T18:00:33.349756Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "completed LinkedIn graphics brain research",
+   "at": "2026-07-02T06:45:11.302030Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "saved Kleo scrape to brain raw",
+   "at": "2026-07-02T06:18:18.641465Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "verified scrape of Kleo article",
+   "at": "2026-07-02T06:14:57.462856Z",
+   "status": "ok"
+  }
+ ]
+}
