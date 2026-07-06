@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-05T12:33:04Z",
+ "generated_at": "2026-07-06T08:30:56Z",
  "counts": {
-  "raw_files": 775,
+  "raw_files": 815,
   "wiki_pages": 101,
-  "scheduled_jobs": 22
+  "scheduled_jobs": 23
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-05 Hermes Monitoring Digest and Token-Use Gap-Analysis session",
-   "date": "2026-07-05",
-   "bucket": "sessions"
+   "title": "2026-07-06 AI-Resilient White-Collar Research",
+   "date": "2026-07-06",
+   "bucket": "sources"
   },
   {
-   "title": "2026-07-05 Minimizing Hermes Token Use Gap-Analysis Research",
+   "title": "2026-07-05 Data Nerve Issue Production System Research",
    "date": "2026-07-05",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-04 Data Nerve Structure and State session",
-   "date": "2026-07-05",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 Hermes Cost Re-Tier and Drain Fix Executed session",
-   "date": "2026-07-05",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 DustinColeData premium features and decode fix session",
-   "date": "2026-07-05",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-04 Hermes Cost Re-Tier and Codex Drain Forensics Research",
+   "title": "2026-07-05 Data Nerve Source Brief And Voice Eval Research",
    "date": "2026-07-05",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-04 Writing Skill System Ship and Public Release session",
+   "title": "2026-07-05 Codex vs Claude Code Benchmark Research",
    "date": "2026-07-05",
-   "bucket": "sessions"
+   "bucket": "sources"
   },
   {
-   "title": "2026-07-04 Transparency Post - Drafts and Voice Diff",
+   "title": "2026-07-05 Model Routing For Private Data Research",
    "date": "2026-07-05",
-   "bucket": "captures"
+   "bucket": "sources"
   },
   {
-   "title": "2026-07-04 Hermes Model Cost and Codex Drain session",
+   "title": "2026-07-05 Fragile Skill Steps To Scripts Research",
    "date": "2026-07-05",
-   "bucket": "sessions"
+   "bucket": "sources"
   },
   {
-   "title": "2026-07-04 DustinColeData go-live positioning and polish session",
-   "date": "2026-07-04",
-   "bucket": "sessions"
+   "title": "2026-07-05 MCP Allowlist And Registry Trust Research",
+   "date": "2026-07-05",
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-07-05 Data Nerve Render Lane Research",
+   "date": "2026-07-05",
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-07-05 Brain Security Eval Implementation Research",
+   "date": "2026-07-05",
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-07-05 Mission Control Access Surface Research",
+   "date": "2026-07-05",
+   "bucket": "sources"
   }
  ],
  "graph": {
@@ -73,12 +73,12 @@
    {
     "id": "AI Automation Agency",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Era Skill Stack",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Evaluation And Reliability",
@@ -88,12 +88,12 @@
    {
     "id": "AI Industry Economics",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Media And Model Governance",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Product Design Workflow",
@@ -103,7 +103,7 @@
    {
     "id": "AI Safety And Security",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Second Brain",
@@ -113,12 +113,12 @@
    {
     "id": "AI Work Transformation",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent And AI Protocols",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Coding Workflow",
@@ -158,12 +158,12 @@
    {
     "id": "Agentic System Patterns",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Approval-Gated Autonomy",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Security Eval Suite",
@@ -183,12 +183,12 @@
    {
     "id": "Cross-Tool Orchestration",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fine-Tuning And Preference Optimization",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Harness & Loop Engineering",
@@ -198,37 +198,37 @@
    {
     "id": "LLM Research And Architecture",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "LLM Wiki",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Local & Self-Hosted Agent Stacks",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "MCP & Tool Interfaces",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Mechanistic Interpretability And Steering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Multi-Agent Debate & Adversarial Dev",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Multi-Agent Orchestration",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Newsletter Visual Generation",
@@ -243,7 +243,7 @@
    {
     "id": "Prompt And Context Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "RAG & Long-Context Retrieval",
@@ -258,7 +258,7 @@
    {
     "id": "Software Engineering Career",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Source Scoring Rubric",
@@ -268,7 +268,7 @@
    {
     "id": "AI App Builders",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Model And Tooling Landscape",
@@ -278,7 +278,7 @@
    {
     "id": "Agent Frameworks Compared",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Reach Scraping Playbook",
@@ -288,17 +288,17 @@
    {
     "id": "Agent Reach",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Basic Memory",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Browser And Computer-Use Automation",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Claude Code Tool Stack",
@@ -313,7 +313,7 @@
    {
     "id": "Codex",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Coding-Assistant Landscape",
@@ -343,22 +343,22 @@
    {
     "id": "LlamaIndex Vs LangChain",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Notion",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Open-Source Coding Agents",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "OpenAI Agent Stack",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "OpenClaw And Agent Loops",
@@ -368,17 +368,17 @@
    {
     "id": "OpenClaw",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "OpenRouter",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Pi Coding Agent",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "SQLite Utils",
@@ -388,17 +388,17 @@
    {
     "id": "Vector Databases & Retrieval Stack",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Voice And Transcription Stack",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "n8n",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agentic OS",
@@ -413,7 +413,7 @@
    {
     "id": "AI Radar Discovery Lane",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Advisor",
@@ -428,7 +428,7 @@
    {
     "id": "Brain Concept Discovery",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Current Architecture",
@@ -438,7 +438,7 @@
    {
     "id": "Brain Process And Obsidian Setup",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Research OS",
@@ -473,12 +473,12 @@
    {
     "id": "News Ingestion Pipeline",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "YouTube Ingestion Pipeline",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Brand System",
@@ -773,6 +773,10 @@
    ],
    [
     4,
+    51
+   ],
+   [
+    4,
     53
    ],
    [
@@ -1056,10 +1060,6 @@
     77
    ],
    [
-    9,
-    78
-   ],
-   [
     10,
     12
    ],
@@ -1314,10 +1314,6 @@
    [
     13,
     50
-   ],
-   [
-    13,
-    51
    ],
    [
     13,
@@ -1700,10 +1696,6 @@
     77
    ],
    [
-    21,
-    78
-   ],
-   [
     22,
     23
    ],
@@ -1725,6 +1717,10 @@
    ],
    [
     22,
+    51
+   ],
+   [
+    22,
     63
    ],
    [
@@ -1734,6 +1730,10 @@
    [
     23,
     35
+   ],
+   [
+    23,
+    68
    ],
    [
     23,
@@ -1933,10 +1933,6 @@
    ],
    [
     28,
-    78
-   ],
-   [
-    28,
     80
    ],
    [
@@ -2033,10 +2029,6 @@
    ],
    [
     30,
-    51
-   ],
-   [
-    30,
     55
    ],
    [
@@ -2110,10 +2102,6 @@
    [
     33,
     50
-   ],
-   [
-    33,
-    51
    ],
    [
     33,
@@ -2393,10 +2381,6 @@
    ],
    [
     38,
-    78
-   ],
-   [
-    38,
     81
    ],
    [
@@ -2418,10 +2402,6 @@
    [
     40,
     76
-   ],
-   [
-    40,
-    78
    ],
    [
     41,
@@ -2497,10 +2477,6 @@
    ],
    [
     45,
-    78
-   ],
-   [
-    45,
     80
    ],
    [
@@ -2553,11 +2529,11 @@
    ],
    [
     46,
-    78
+    79
    ],
    [
     46,
-    79
+    100
    ],
    [
     47,
@@ -2670,6 +2646,14 @@
    [
     51,
     59
+   ],
+   [
+    51,
+    68
+   ],
+   [
+    51,
+    81
    ],
    [
     52,
@@ -2817,14 +2801,6 @@
    ],
    [
     68,
-    75
-   ],
-   [
-    68,
-    78
-   ],
-   [
-    68,
     80
    ],
    [
@@ -2838,6 +2814,10 @@
    [
     68,
     83
+   ],
+   [
+    68,
+    86
    ],
    [
     68,
@@ -2882,10 +2862,6 @@
    [
     70,
     77
-   ],
-   [
-    70,
-    78
    ],
    [
     70,
@@ -2936,10 +2912,6 @@
     75
    ],
    [
-    73,
-    78
-   ],
-   [
     74,
     75
    ],
@@ -2972,8 +2944,8 @@
     83
    ],
    [
-    74,
-    91
+    75,
+    78
    ],
    [
     75,
@@ -3021,18 +2993,10 @@
    ],
    [
     78,
-    82
-   ],
-   [
-    78,
-    83
-   ],
-   [
-    78,
     92
    ],
    [
-    78,
+    79,
     100
    ],
    [
@@ -3050,6 +3014,10 @@
    [
     80,
     90
+   ],
+   [
+    80,
+    91
    ],
    [
     80,
@@ -3077,6 +3045,10 @@
    ],
    [
     84,
+    89
+   ],
+   [
+    84,
     94
    ],
    [
@@ -3097,6 +3069,10 @@
    ],
    [
     86,
+    89
+   ],
+   [
+    86,
     90
    ],
    [
@@ -3113,6 +3089,10 @@
    ],
    [
     88,
+    91
+   ],
+   [
+    88,
     92
    ],
    [
@@ -3122,10 +3102,6 @@
    [
     88,
     94
-   ],
-   [
-    89,
-    91
    ],
    [
     89,
@@ -3142,6 +3118,10 @@
    [
     91,
     94
+   ],
+   [
+    91,
+    100
    ],
    [
     92,

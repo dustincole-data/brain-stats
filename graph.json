@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T12:33:04Z",
+ "generated_at": "2026-07-06T08:30:57Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -28,7 +28,7 @@
   {
    "id": "AI Evaluation And Reliability",
    "group": "knowledge",
-   "links": 41,
+   "links": 42,
    "shell": false
   },
   {
@@ -58,7 +58,7 @@
   {
    "id": "AI Second Brain",
    "group": "knowledge",
-   "links": 21,
+   "links": 20,
    "shell": false
   },
   {
@@ -82,7 +82,7 @@
   {
    "id": "Agent Memory & Context Engineering",
    "group": "knowledge",
-   "links": 28,
+   "links": 27,
    "shell": false
   },
   {
@@ -112,7 +112,7 @@
   {
    "id": "Agentic OS",
    "group": "knowledge",
-   "links": 26,
+   "links": 27,
    "shell": false
   },
   {
@@ -130,19 +130,19 @@
   {
    "id": "Brain Security Eval Suite",
    "group": "knowledge",
-   "links": 12,
+   "links": 11,
    "shell": false
   },
   {
    "id": "Coding Agent Project Templates",
    "group": "knowledge",
-   "links": 12,
+   "links": 13,
    "shell": false
   },
   {
    "id": "Coding Agents for Non-Engineers",
    "group": "knowledge",
-   "links": 6,
+   "links": 7,
    "shell": false
   },
   {
@@ -172,7 +172,7 @@
   {
    "id": "LLM Wiki",
    "group": "knowledge",
-   "links": 19,
+   "links": 18,
    "shell": false
   },
   {
@@ -184,7 +184,7 @@
   {
    "id": "MCP & Tool Interfaces",
    "group": "knowledge",
-   "links": 30,
+   "links": 29,
    "shell": false
   },
   {
@@ -202,7 +202,7 @@
   {
    "id": "Multi-Agent Orchestration",
    "group": "knowledge",
-   "links": 20,
+   "links": 19,
    "shell": false
   },
   {
@@ -232,7 +232,7 @@
   {
    "id": "Signal Digest",
    "group": "knowledge",
-   "links": 36,
+   "links": 35,
    "shell": false
   },
   {
@@ -244,7 +244,7 @@
   {
    "id": "Source Scoring Rubric",
    "group": "knowledge",
-   "links": 9,
+   "links": 8,
    "shell": false
   },
   {
@@ -268,7 +268,7 @@
   {
    "id": "Agent Reach",
    "group": "knowledge",
-   "links": 5,
+   "links": 4,
    "shell": false
   },
   {
@@ -298,7 +298,7 @@
   {
    "id": "Coding-Assistant Landscape",
    "group": "knowledge",
-   "links": 12,
+   "links": 13,
    "shell": false
   },
   {
@@ -316,7 +316,7 @@
   {
    "id": "Hermes Agent Cost Routing",
    "group": "knowledge",
-   "links": 19,
+   "links": 20,
    "shell": false
   },
   {
@@ -394,7 +394,7 @@
   {
    "id": "Agentic OS",
    "group": "projects",
-   "links": 26,
+   "links": 27,
    "shell": false
   },
   {
@@ -406,7 +406,7 @@
   {
    "id": "AI Radar Discovery Lane",
    "group": "projects",
-   "links": 8,
+   "links": 7,
    "shell": false
   },
   {
@@ -424,7 +424,7 @@
   {
    "id": "Brain Concept Discovery",
    "group": "projects",
-   "links": 20,
+   "links": 19,
    "shell": false
   },
   {
@@ -448,43 +448,43 @@
   {
    "id": "Brain State",
    "group": "projects",
-   "links": 24,
+   "links": 12,
    "shell": false
   },
   {
    "id": "Brain Sync Process",
    "group": "projects",
-   "links": 4,
+   "links": 5,
    "shell": false
   },
   {
    "id": "Dustin Agent System",
    "group": "projects",
-   "links": 16,
+   "links": 17,
    "shell": false
   },
   {
    "id": "Hermes Agent Cost Routing",
    "group": "projects",
-   "links": 19,
+   "links": 20,
    "shell": false
   },
   {
    "id": "News Ingestion Pipeline",
    "group": "projects",
-   "links": 9,
+   "links": 8,
    "shell": false
   },
   {
    "id": "YouTube Ingestion Pipeline",
    "group": "projects",
-   "links": 13,
+   "links": 12,
    "shell": false
   },
   {
    "id": "Data Nerve Brand System",
    "group": "projects",
-   "links": 5,
+   "links": 6,
    "shell": false
   },
   {
@@ -496,7 +496,7 @@
   {
    "id": "Data Nerve Content Engine",
    "group": "projects",
-   "links": 12,
+   "links": 14,
    "shell": false
   },
   {
@@ -508,13 +508,13 @@
   {
    "id": "Data Nerve Newsletter",
    "group": "projects",
-   "links": 13,
+   "links": 14,
    "shell": false
   },
   {
    "id": "Data Nerve State",
    "group": "projects",
-   "links": 4,
+   "links": 5,
    "shell": false
   },
   {
@@ -526,7 +526,7 @@
   {
    "id": "Dustin Cole Data Site Rebuild",
    "group": "projects",
-   "links": 3,
+   "links": 5,
    "shell": false
   },
   {
@@ -580,7 +580,7 @@
   {
    "id": "Mission Control",
    "group": "projects",
-   "links": 10,
+   "links": 12,
    "shell": false
   }
  ],
@@ -788,6 +788,10 @@
   [
    4,
    48
+  ],
+  [
+   4,
+   49
   ],
   [
    4,
@@ -1070,10 +1074,6 @@
    73
   ],
   [
-   9,
-   74
-  ],
-  [
    10,
    12
   ],
@@ -1328,10 +1328,6 @@
   [
    13,
    48
-  ],
-  [
-   13,
-   49
   ],
   [
    13,
@@ -1698,10 +1694,6 @@
    73
   ],
   [
-   21,
-   74
-  ],
-  [
    22,
    23
   ],
@@ -1723,6 +1715,10 @@
   ],
   [
    22,
+   49
+  ],
+  [
+   22,
    60
   ],
   [
@@ -1732,6 +1728,10 @@
   [
    23,
    35
+  ],
+  [
+   23,
+   65
   ],
   [
    23,
@@ -1927,10 +1927,6 @@
   ],
   [
    28,
-   74
-  ],
-  [
-   28,
    76
   ],
   [
@@ -2027,10 +2023,6 @@
   ],
   [
    30,
-   49
-  ],
-  [
-   30,
    53
   ],
   [
@@ -2104,10 +2096,6 @@
   [
    33,
    48
-  ],
-  [
-   33,
-   49
   ],
   [
    33,
@@ -2379,10 +2367,6 @@
   ],
   [
    38,
-   74
-  ],
-  [
-   38,
    77
   ],
   [
@@ -2400,10 +2384,6 @@
   [
    40,
    72
-  ],
-  [
-   40,
-   74
   ],
   [
    41,
@@ -2475,10 +2455,6 @@
   ],
   [
    44,
-   74
-  ],
-  [
-   44,
    76
   ],
   [
@@ -2527,11 +2503,11 @@
   ],
   [
    45,
-   74
+   75
   ],
   [
    45,
-   75
+   96
   ],
   [
    46,
@@ -2636,6 +2612,14 @@
   [
    49,
    57
+  ],
+  [
+   49,
+   65
+  ],
+  [
+   49,
+   77
   ],
   [
    50,
@@ -2755,14 +2739,6 @@
   ],
   [
    65,
-   71
-  ],
-  [
-   65,
-   74
-  ],
-  [
-   65,
    76
   ],
   [
@@ -2776,6 +2752,10 @@
   [
    65,
    79
+  ],
+  [
+   65,
+   82
   ],
   [
    65,
@@ -2812,10 +2792,6 @@
   [
    67,
    73
-  ],
-  [
-   67,
-   74
   ],
   [
    67,
@@ -2862,7 +2838,7 @@
    71
   ],
   [
-   70,
+   71,
    74
   ],
   [
@@ -2911,18 +2887,10 @@
   ],
   [
    74,
-   78
-  ],
-  [
-   74,
-   79
-  ],
-  [
-   74,
    88
   ],
   [
-   74,
+   75,
    96
   ],
   [
@@ -2940,6 +2908,10 @@
   [
    76,
    86
+  ],
+  [
+   76,
+   87
   ],
   [
    76,
@@ -2967,6 +2939,10 @@
   ],
   [
    80,
+   85
+  ],
+  [
+   80,
    90
   ],
   [
@@ -2987,6 +2963,10 @@
   ],
   [
    82,
+   85
+  ],
+  [
+   82,
    86
   ],
   [
@@ -3003,6 +2983,10 @@
   ],
   [
    84,
+   87
+  ],
+  [
+   84,
    88
   ],
   [
@@ -3012,10 +2996,6 @@
   [
    84,
    90
-  ],
-  [
-   85,
-   87
   ],
   [
    85,
@@ -3032,6 +3012,10 @@
   [
    87,
    90
+  ],
+  [
+   87,
+   96
   ],
   [
    88,

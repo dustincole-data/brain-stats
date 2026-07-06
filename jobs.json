@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-05T12:33:04Z",
+ "generated_at": "2026-07-06T08:30:57Z",
  "counts": {
-  "jobs_total": 22,
+  "jobs_total": 23,
   "agents": 3,
   "runs_today": 0,
   "runs_7d": 8
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-05T12:28:51.086514+00:00",
+   "last_run": "2026-07-06T08:29:55.822020+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-05T12:30:51.165662+00:00",
+   "last_run": "2026-07-06T08:15:55.592722+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-05T11:29:48.148883+00:00",
+   "last_run": "2026-07-06T05:30:49.998121+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-05T08:00:00.989178+00:00",
+   "last_run": "2026-07-06T08:00:55.285472+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -113,8 +113,8 @@
    "desc": "Script-only weekly Brain wiki lint for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-06-29T07:02:31.113968+00:00",
-   "last_status": "ok",
+   "last_run": "2026-07-06T07:00:51.935072+00:00",
+   "last_status": "error",
    "active": false
   },
   {
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-05T12:28:51.143980+00:00",
+   "last_run": "2026-07-06T08:29:55.865049+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -203,8 +203,8 @@
    "desc": "Script-only weekly Brain advisor + leverage + briefing loop for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": null,
-   "last_status": null,
+   "last_run": "2026-07-06T07:27:53.528128+00:00",
+   "last_status": "error",
    "active": false
   },
   {
@@ -233,12 +233,28 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-05T10:55:46.368369+00:00",
+   "last_run": "2026-07-05T13:00:52.725135+00:00",
    "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "c3b16b53c0ae",
+   "label": "Brain Health Watchdog",
+   "desc": "",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": null,
+   "last_status": null,
    "active": false
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "extended brain stats with jobs",
+   "at": "2026-07-05T12:33:22.862972Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "responded to user",
@@ -279,12 +295,6 @@
    "label": "Orchestrator",
    "summary": "saved Kleo scrape to brain raw",
    "at": "2026-07-02T06:18:18.641465Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "verified scrape of Kleo article",
-   "at": "2026-07-02T06:14:57.462856Z",
    "status": "ok"
   }
  ]

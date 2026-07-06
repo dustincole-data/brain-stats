@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-07-05T12:33:04Z",
+ "generated_at": "2026-07-06T08:30:57Z",
  "items": [
   {
    "project": "Data Nerve",
    "line": "Tightening the Beehiiv-first publishing loop, native LinkedIn funnel, and classroom edition workflow.",
-   "date": "2026-07-05"
-  },
-  {
-   "project": "Second Brain",
-   "line": "Hardening the synced Brain into a reliable research, librarian, and briefing layer for daily work.",
-   "date": "2026-07-05"
+   "date": "2026-07-06"
   },
   {
    "project": "dustincoledata.com",
    "line": "Building the public home for Dustin's practical AI work, with the Brain stats feed becoming part of the live site story.",
-   "date": "2026-07-05"
+   "date": "2026-07-06"
+  },
+  {
+   "project": "Second Brain",
+   "line": "Hardening the synced Brain into a reliable research, librarian, and briefing layer for daily work.",
+   "date": "2026-07-06"
   },
   {
    "project": "Mission Control",
    "line": "Converging the work board and agent status view into one pane for todos, routing, and visibility.",
-   "date": "2026-07-05"
+   "date": "2026-07-06"
   }
  ]
 }
