@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-07-06T11:14:09Z",
+ "generated_at": "2026-07-07T08:30:56Z",
  "counts": {
   "jobs_total": 23,
   "agents": 7,
-  "runs_today": 0,
+  "runs_today": 1,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-06T11:11:41.498925+00:00",
+   "last_run": "2026-07-07T08:29:55.273750+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -33,7 +33,7 @@
    "desc": "You are Scout doing Dustin's weekly Mission Control backlog review",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-06-29T14:02:38.727128+00:00",
+   "last_run": "2026-07-06T14:03:21.960833+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-06T11:00:40.261474+00:00",
+   "last_run": "2026-07-07T08:15:55.032789+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-06T05:30:49.998121+00:00",
+   "last_run": "2026-07-07T05:32:51.893910+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-06T08:00:55.285472+00:00",
+   "last_run": "2026-07-07T08:00:54.733891+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-06T11:01:41.339123+00:00",
+   "last_run": "2026-07-07T08:19:55.147019+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-05T13:00:52.725135+00:00",
+   "last_run": "2026-07-06T13:00:46.735287+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -249,6 +249,30 @@
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "saved YouTube transcript to brain raw",
+   "at": "2026-07-07T03:14:19.398664Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "provided list of 31 teams from fanbase_weather_sources",
+   "at": "2026-07-06T13:29:25.921803Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "checked for team X accounts in repo/brain",
+   "at": "2026-07-06T13:27:50.510651Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "published 7 agents on brain-stats and mapped Fanbase Weather sources into a table",
+   "at": "2026-07-06T13:05:43.864097Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "extended brain stats with jobs",
@@ -271,30 +295,6 @@
    "label": "Orchestrator",
    "summary": "responded to user",
    "at": "2026-07-02T21:37:09.332478Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "extended brain stats cron outputs",
-   "at": "2026-07-02T20:06:40.625540Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "drafted Data Nerve LinkedIn post and card",
-   "at": "2026-07-02T18:00:33.349756Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "completed LinkedIn graphics brain research",
-   "at": "2026-07-02T06:45:11.302030Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "saved Kleo scrape to brain raw",
-   "at": "2026-07-02T06:18:18.641465Z",
    "status": "ok"
   }
  ]
