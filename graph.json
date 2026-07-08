@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T08:30:56Z",
+ "generated_at": "2026-07-08T08:30:38Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -112,7 +112,7 @@
   {
    "id": "Agentic OS",
    "group": "knowledge",
-   "links": 27,
+   "links": 28,
    "shell": false
   },
   {
@@ -394,7 +394,7 @@
   {
    "id": "Agentic OS",
    "group": "projects",
-   "links": 27,
+   "links": 28,
    "shell": false
   },
   {
@@ -442,7 +442,7 @@
   {
    "id": "Brain Roadmap",
    "group": "projects",
-   "links": 18,
+   "links": 19,
    "shell": false
   },
   {
@@ -514,14 +514,14 @@
   {
    "id": "Data Nerve State",
    "group": "projects",
-   "links": 5,
+   "links": 6,
    "shell": false
   },
   {
    "id": "Dustin Career Transition State",
    "group": "projects",
-   "links": 0,
-   "shell": true
+   "links": 2,
+   "shell": false
   },
   {
    "id": "Dustin Brand Research OS",
@@ -538,7 +538,7 @@
   {
    "id": "DustinColeData Site",
    "group": "projects",
-   "links": 4,
+   "links": 5,
    "shell": false
   },
   {
@@ -2737,6 +2737,10 @@
   ],
   [
    65,
+   73
+  ],
+  [
+   65,
    76
   ],
   [
@@ -2997,7 +3001,15 @@
   ],
   [
    85,
+   86
+  ],
+  [
+   85,
    91
+  ],
+  [
+   86,
+   89
   ],
   [
    87,

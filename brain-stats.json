@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-07T08:30:56Z",
+ "generated_at": "2026-07-08T08:30:38Z",
  "counts": {
-  "raw_files": 834,
+  "raw_files": 861,
   "wiki_pages": 102,
   "scheduled_jobs": 23
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-07 Don't Start an AI Automation Agency in 2026 (Do This Instead)",
+   "title": "2026-07-07 Career 10-20yr hireability research session",
+   "date": "2026-07-08",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-07 Dustin 10-20 Year Hireability And Future Value Research",
    "date": "2026-07-07",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-06 Career direction research session",
+   "title": "2026-07-07 Career leverage plan and North Star session",
    "date": "2026-07-07",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-06 Dustin Career Direction Options Research",
-   "date": "2026-07-07",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-07-06 Data Nerve Logo Build-Log",
+   "title": "2026-07-07 Career Roadmap v1",
    "date": "2026-07-07",
    "bucket": "captures"
   },
   {
-   "title": "2026-07-06 Data Nerve Logo Build session",
+   "title": "2026-07-07 LinkedIn Profile Overhaul Kit",
    "date": "2026-07-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-06 Dustin verified profile grilling session",
-   "date": "2026-07-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-06 Mission Control Tier 0 session",
-   "date": "2026-07-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-06 Claude Fable LinkedIn Post - Drafts and Voice Diff",
-   "date": "2026-07-06",
    "bucket": "captures"
   },
   {
-   "title": "2026-07-06 Dustin Skill Gap And Market Positioning Research",
-   "date": "2026-07-06",
+   "title": "2026-07-07 Outreach And Scripts Kit",
+   "date": "2026-07-07",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-07 Flagship Skeleton Spec",
+   "date": "2026-07-07",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-07 Why Humans Are Obsessed With Miniatures Research",
+   "date": "2026-07-07",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-06 DustinColeData Formspree live and closeout session",
-   "date": "2026-07-06",
-   "bucket": "sessions"
+   "title": "2026-07-07 Field Guide to Fable \u2014 Thariq Shihipar, Anthropic",
+   "date": "2026-07-07",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-07-07 SWE-Marathon Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI",
+   "date": "2026-07-07",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -83,7 +83,7 @@
    {
     "id": "AI Evaluation And Reliability",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Industry Economics",
@@ -123,22 +123,22 @@
    {
     "id": "Agent Coding Workflow",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Memory & Context Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Research Methods",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Scheduling & Background Automation",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Security In Practice",
@@ -148,7 +148,7 @@
    {
     "id": "Agent Skill Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agentic OS",
@@ -168,7 +168,7 @@
    {
     "id": "Brain Security Eval Suite",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Coding Agent Project Templates",
@@ -178,7 +178,7 @@
    {
     "id": "Coding Agents for Non-Engineers",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Cross-Tool Orchestration",
@@ -328,7 +328,7 @@
    {
     "id": "Frontier Model Landscape",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Hermes Agent Cost Routing",
@@ -338,7 +338,7 @@
    {
     "id": "Hermes Agent Ecosystem",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "LlamaIndex Vs LangChain",
@@ -408,7 +408,7 @@
    {
     "id": "Agentic OS Project",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Radar Discovery Lane",
@@ -418,12 +418,12 @@
    {
     "id": "Brain Advisor",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Briefing Loop",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Concept Discovery",
@@ -433,7 +433,7 @@
    {
     "id": "Brain Current Architecture",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Process And Obsidian Setup",
@@ -443,7 +443,7 @@
    {
     "id": "Brain Research OS",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Roadmap",
@@ -463,12 +463,12 @@
    {
     "id": "Dustin Agent System",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Hermes Agent Cost Routing",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "News Ingestion Pipeline",
@@ -488,7 +488,7 @@
    {
     "id": "Data Nerve Classroom Edition",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Content Engine",
@@ -498,7 +498,7 @@
    {
     "id": "Data Nerve Growth Partners",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Newsletter",
@@ -518,7 +518,7 @@
    {
     "id": "Dustin Brand Research OS",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Cole Data Site Rebuild",
@@ -2798,6 +2798,10 @@
    ],
    [
     68,
+    77
+   ],
+   [
+    68,
     80
    ],
    [
@@ -3102,7 +3106,15 @@
    ],
    [
     89,
+    90
+   ],
+   [
+    89,
     95
+   ],
+   [
+    90,
+    93
    ],
    [
     91,
