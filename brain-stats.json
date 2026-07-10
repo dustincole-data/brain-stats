@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-09T08:30:09Z",
+ "generated_at": "2026-07-10T08:30:27Z",
  "counts": {
-  "raw_files": 890,
+  "raw_files": 899,
   "wiki_pages": 107,
-  "scheduled_jobs": 23
+  "scheduled_jobs": 25
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-08 Louisville Bats 2026 Research",
-   "date": "2026-07-08",
+   "title": "2026-07-09 Resumes That Get Interviews Research",
+   "date": "2026-07-10",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-08 Data Nerve Evals Voice Tune Before-After",
-   "date": "2026-07-08",
+   "title": "2026-07-09 Mission Control Tier 1 session",
+   "date": "2026-07-10",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-09 Fanbase Weather Non-Generic OG Copy session",
+   "date": "2026-07-10",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-09 Barnabas Report spurious engine session",
+   "date": "2026-07-10",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-09 Barnabas Report build log",
+   "date": "2026-07-10",
    "bucket": "captures"
   },
   {
-   "title": "2026-07-08 Career resume-Workday-kit session",
-   "date": "2026-07-08",
+   "title": "2026-07-09 Data Nerve Wordmark and Site Logo Sync session",
+   "date": "2026-07-09",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-08 Career publish-gate Block A session",
-   "date": "2026-07-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-08 Career Plan Audit session",
-   "date": "2026-07-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-08 Career Roadmap v2 session",
-   "date": "2026-07-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-08 Workday ATS Screening Mechanics Research",
-   "date": "2026-07-08",
+   "title": "2026-07-09 The Great Emu War Research",
+   "date": "2026-07-09",
    "bucket": "sources"
   },
   {
-   "title": "2026-07-08 Career drop-order and JD corpus session",
-   "date": "2026-07-08",
+   "title": "2026-07-09 Process Review Map session",
+   "date": "2026-07-09",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-08 Respect The Process - Andrew Dumit, Watershed Technology Inc",
-   "date": "2026-07-08",
-   "bucket": "signal"
+   "title": "2026-07-09 Matt Pocock Skills Sync session",
+   "date": "2026-07-09",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-07-08 Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo",
+   "title": "2026-07-08 Louisville Bats 2026 Research",
    "date": "2026-07-08",
-   "bucket": "signal"
+   "bucket": "sources"
   }
  ],
  "graph": {
@@ -178,7 +178,7 @@
    {
     "id": "Coding Agent Project Templates",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Coding Agents for Non-Engineers",
@@ -198,7 +198,7 @@
    {
     "id": "Harness & Loop Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "LLM Research And Architecture",
@@ -243,7 +243,7 @@
    {
     "id": "Newsletter Visual Generation",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Open Questions",
@@ -318,7 +318,7 @@
    {
     "id": "Claude Code",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Codex",
@@ -458,7 +458,7 @@
    {
     "id": "Brain Roadmap",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain State",
@@ -468,7 +468,7 @@
    {
     "id": "Brain Sync Process",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Agent System",
@@ -498,7 +498,7 @@
    {
     "id": "Data Nerve Brand System",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Classroom Edition",
@@ -518,7 +518,7 @@
    {
     "id": "Data Nerve Newsletter",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve State",
@@ -548,7 +548,7 @@
    {
     "id": "DustinColeData Site",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Learning News Field Notes Workflow",
@@ -558,7 +558,7 @@
    {
     "id": "Practical AI Brand",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Site Rebuild",
@@ -573,7 +573,7 @@
    {
     "id": "Fanbase Weather Fan Comment Source Pipeline",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather Growth",
@@ -583,7 +583,7 @@
    {
     "id": "Fanbase Weather Technical Architecture",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather",

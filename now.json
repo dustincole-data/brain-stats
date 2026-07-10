@@ -1,6 +1,11 @@
 {
- "generated_at": "2026-07-09T08:30:09Z",
+ "generated_at": "2026-07-10T08:30:27Z",
  "items": [
+  {
+   "project": "Fanbase Misery Index",
+   "line": "Scouting reusable public school-tied sources while keeping prototypes isolated from the live pipeline.",
+   "date": "2026-07-10"
+  },
   {
    "project": "Data Nerve",
    "line": "Tightening the Beehiiv-first publishing loop, native LinkedIn funnel, and classroom edition workflow.",
@@ -14,11 +19,6 @@
   {
    "project": "Mission Control",
    "line": "Converging the work board and agent status view into one pane for todos, routing, and visibility.",
-   "date": "2026-07-09"
-  },
-  {
-   "project": "dustincoledata.com",
-   "line": "Building the public home for Dustin's practical AI work, with the Brain stats feed becoming part of the live site story.",
    "date": "2026-07-09"
   }
  ]
