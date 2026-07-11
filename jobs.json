@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T08:30:27Z",
+ "generated_at": "2026-07-11T08:30:10Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-10T08:26:26.520582+00:00",
+   "last_run": "2026-07-11T08:29:09.892578+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-09T09:00:42.341551+00:00",
+   "last_run": "2026-07-10T09:01:14.702694+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-09T08:45:28.449597+00:00",
+   "last_run": "2026-07-10T08:45:55.063435+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-10T08:15:26.254487+00:00",
+   "last_run": "2026-07-11T08:15:09.581956+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-10T05:38:23.186392+00:00",
+   "last_run": "2026-07-11T05:40:06.363419+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-10T08:00:25.967467+00:00",
+   "last_run": "2026-07-11T08:00:09.288845+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-10T08:16:26.357007+00:00",
+   "last_run": "2026-07-11T08:19:09.722504+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-09T08:30:12.285433+00:00",
+   "last_run": "2026-07-10T08:30:30.196351+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-09T13:00:50.728226+00:00",
+   "last_run": "2026-07-10T13:00:24.735501+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,12 +243,30 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-09T11:00:47.037186+00:00",
+   "last_run": "2026-07-10T11:00:19.939527+00:00",
    "last_status": "ok",
    "active": false
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "saved Grok Hermes setup video scrape to Brain raw",
+   "at": "2026-07-11T03:55:24.598440Z",
+   "status": "ok"
+  },
+  {
+   "label": "Dev",
+   "summary": "diagnosed stale YouTube feed",
+   "at": "2026-07-10T19:28:59.339390Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "fixed weekly advisor receipt cost lookup",
+   "at": "2026-07-10T11:51:59.118469Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "fixed Hermes health cron false reds",
@@ -277,24 +295,6 @@
    "label": "Orchestrator",
    "summary": "finalized scribe description on fleet page",
    "at": "2026-07-09T01:52:44.902205Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "fixed plural in Dev description on fleet page",
-   "at": "2026-07-09T01:52:03.336615Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "updated fleet page hero text",
-   "at": "2026-07-09T01:50:59.967367Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "updated Scribe description on fleet page",
-   "at": "2026-07-09T01:49:11.595498Z",
    "status": "ok"
   }
  ]
