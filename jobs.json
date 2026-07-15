@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-07-14T08:30:34Z",
+ "generated_at": "2026-07-15T08:30:05Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
-  "runs_today": 0,
+  "runs_today": 3,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:29:33.053696+00:00",
+   "last_run": "2026-07-15T08:25:04.390648+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-13T09:00:38.146595+00:00",
+   "last_run": "2026-07-14T09:00:35.459957+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-13T08:49:12.144926+00:00",
+   "last_run": "2026-07-14T08:57:17.469676+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:15:32.470079+00:00",
+   "last_run": "2026-07-15T08:15:03.933277+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-14T05:44:24.966660+00:00",
+   "last_run": "2026-07-15T05:45:58.270006+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:00:30.970529+00:00",
+   "last_run": "2026-07-15T08:00:03.302058+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:15:32.560845+00:00",
+   "last_run": "2026-07-15T08:18:04.083446+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-13T08:30:19.644080+00:00",
+   "last_run": "2026-07-14T08:30:36.809779+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-13T13:00:03.481458+00:00",
+   "last_run": "2026-07-14T13:00:52.098105+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-13T11:00:32.899548+00:00",
+   "last_run": "2026-07-14T11:00:45.474793+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,7 +283,7 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:26:32.987055+00:00",
+   "last_run": "2026-07-15T08:25:04.347055+00:00",
    "last_status": "ok",
    "active": false
   }
@@ -291,50 +291,50 @@
  "runs": [
   {
    "label": "Orchestrator",
-   "summary": "rewrote scorecard and fixed spend accounting",
-   "at": "2026-07-13T15:22:05.567475Z",
+   "summary": "installed HyperFrames and rendered Dustin Cole Data showcase MP4",
+   "at": "2026-07-15T02:31:30.913314Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "triggered daily scorecard and verified Discord Telegram delivery",
-   "at": "2026-07-13T15:01:23.331326Z",
+   "summary": "created HyperFrames prompt for coding agents article",
+   "at": "2026-07-15T01:47:56.905359Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "reinitiated report delivery approval; verified AI Homeroom already deployed",
-   "at": "2026-07-13T14:44:16.412999Z",
+   "summary": "recommended highest-leverage HyperFrames video",
+   "at": "2026-07-15T01:43:12.242469Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "built Advisor v2 and Daily Scorecard",
-   "at": "2026-07-13T14:40:59.501909Z",
+   "summary": "resent rewrite as phone-readable text attachment",
+   "at": "2026-07-14T17:37:37.424801Z",
    "status": "ok"
   },
   {
-   "label": "Orchestrator",
-   "summary": "resent pending approvals to Telegram",
-   "at": "2026-07-13T14:31:38.846077Z",
+   "label": "Scout",
+   "summary": "Named literal-agent misunderstanding concepts",
+   "at": "2026-07-14T17:26:01.034677Z",
    "status": "ok"
   },
   {
-   "label": "Orchestrator",
-   "summary": "built durable dual-channel report notifier; delivery awaits terminal approval",
-   "at": "2026-07-13T13:04:00.265112Z",
-   "status": "fail"
-  },
-  {
-   "label": "Dev",
-   "summary": "Fixed AI Homeroom deploy and durable published-story deduplication; deployed successfully and verifi",
-   "at": "2026-07-13T12:30:09.680097Z",
+   "label": "Scout",
+   "summary": "Corrected image prompt to literal agent example",
+   "at": "2026-07-14T17:24:48.271184Z",
    "status": "ok"
   },
   {
-   "label": "Orchestrator",
-   "summary": "fixed Brain lint, raw pointers, and YouTube health check",
-   "at": "2026-07-13T12:20:14.229006Z",
+   "label": "Scout",
+   "summary": "Corrected image prompt to show test-gaming wiki scenario",
+   "at": "2026-07-14T17:24:22.626141Z",
+   "status": "ok"
+  },
+  {
+   "label": "Scout",
+   "summary": "Provided simple image-generation prompt",
+   "at": "2026-07-14T17:21:37.989943Z",
    "status": "ok"
   }
  ]
