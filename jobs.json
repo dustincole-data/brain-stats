@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-07-15T08:30:05Z",
+ "generated_at": "2026-07-16T08:30:25Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
-  "runs_today": 3,
+  "runs_today": 1,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:25:04.390648+00:00",
+   "last_run": "2026-07-16T08:29:24.793486+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T09:00:35.459957+00:00",
+   "last_run": "2026-07-15T09:00:26.326323+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:57:17.469676+00:00",
+   "last_run": "2026-07-15T08:51:02.258700+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:15:03.933277+00:00",
+   "last_run": "2026-07-16T08:15:23.430129+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-15T05:45:58.270006+00:00",
+   "last_run": "2026-07-16T05:47:17.706450+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:00:03.302058+00:00",
+   "last_run": "2026-07-16T08:00:22.914598+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:18:04.083446+00:00",
+   "last_run": "2026-07-16T08:24:24.669836+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T08:30:36.809779+00:00",
+   "last_run": "2026-07-15T08:30:08.212146+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T13:00:52.098105+00:00",
+   "last_run": "2026-07-15T13:00:17.949594+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-14T11:00:45.474793+00:00",
+   "last_run": "2026-07-15T11:00:33.962306+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -263,8 +263,8 @@
    "desc": "Create the compiled weekly signal shortlist before the Advisor",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": null,
-   "last_status": null,
+   "last_run": "2026-07-15T12:32:15.408226+00:00",
+   "last_status": "ok",
    "active": false
   },
   {
@@ -273,8 +273,8 @@
    "desc": "Judge fidelity of three recently processed raw files",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": null,
-   "last_status": null,
+   "last_run": "2026-07-15T12:32:15.501558+00:00",
+   "last_status": "ok",
    "active": false
   },
   {
@@ -283,7 +283,7 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:25:04.347055+00:00",
+   "last_run": "2026-07-16T08:29:24.764543+00:00",
    "last_status": "ok",
    "active": false
   }
@@ -291,50 +291,50 @@
  "runs": [
   {
    "label": "Orchestrator",
-   "summary": "installed HyperFrames and rendered Dustin Cole Data showcase MP4",
-   "at": "2026-07-15T02:31:30.913314Z",
+   "summary": "drafted brief AI coding dictionary post",
+   "at": "2026-07-16T02:36:56.233228Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "created HyperFrames prompt for coding agents article",
-   "at": "2026-07-15T01:47:56.905359Z",
+   "summary": "researched ai-job-search benefits for Dustin",
+   "at": "2026-07-15T22:44:38.968397Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "recommended highest-leverage HyperFrames video",
-   "at": "2026-07-15T01:43:12.242469Z",
+   "summary": "deployed Power of One site to GitHub Pages",
+   "at": "2026-07-15T20:30:12.945847Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "resent rewrite as phone-readable text attachment",
-   "at": "2026-07-14T17:37:37.424801Z",
+   "summary": "resent standalone site file after localhost link issue",
+   "at": "2026-07-15T20:28:29.936803Z",
    "status": "ok"
   },
   {
-   "label": "Scout",
-   "summary": "Named literal-agent misunderstanding concepts",
-   "at": "2026-07-14T17:26:01.034677Z",
+   "label": "Orchestrator",
+   "summary": "checking public site delivery options",
+   "at": "2026-07-15T20:26:55.857848Z",
    "status": "ok"
   },
   {
-   "label": "Scout",
-   "summary": "Corrected image prompt to literal agent example",
-   "at": "2026-07-14T17:24:48.271184Z",
+   "label": "Orchestrator",
+   "summary": "built and verified Power of One scramble site",
+   "at": "2026-07-15T14:07:43.518115Z",
    "status": "ok"
   },
   {
-   "label": "Scout",
-   "summary": "Corrected image prompt to show test-gaming wiki scenario",
-   "at": "2026-07-14T17:24:22.626141Z",
+   "label": "Orchestrator",
+   "summary": "updated current Mission Control with latest cron output and Brain change evidence",
+   "at": "2026-07-15T13:32:24.853849Z",
    "status": "ok"
   },
   {
-   "label": "Scout",
-   "summary": "Provided simple image-generation prompt",
-   "at": "2026-07-14T17:21:37.989943Z",
+   "label": "Orchestrator",
+   "summary": "added verified cron last-runs view to Mission Control",
+   "at": "2026-07-15T13:21:23.816096Z",
    "status": "ok"
   }
  ]
