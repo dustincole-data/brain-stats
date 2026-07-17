@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-07-16T08:30:25Z",
+ "generated_at": "2026-07-17T08:30:25Z",
  "counts": {
-  "jobs_total": 25,
+  "jobs_total": 27,
   "agents": 7,
-  "runs_today": 1,
+  "runs_today": 0,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-16T08:29:24.793486+00:00",
+   "last_run": "2026-07-17T08:27:24.640213+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T09:00:26.326323+00:00",
+   "last_run": "2026-07-16T09:01:13.666314+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:51:02.258700+00:00",
+   "last_run": "2026-07-16T08:58:52.136550+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-16T08:15:23.430129+00:00",
+   "last_run": "2026-07-17T08:15:24.145122+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-16T05:47:17.706450+00:00",
+   "last_run": "2026-07-17T05:48:19.144661+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-16T08:00:22.914598+00:00",
+   "last_run": "2026-07-17T08:00:23.613470+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-16T08:24:24.669836+00:00",
+   "last_run": "2026-07-17T08:17:24.310932+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T08:30:08.212146+00:00",
+   "last_run": "2026-07-16T08:30:28.314534+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T13:00:17.949594+00:00",
+   "last_run": "2026-07-16T13:00:27.432943+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-15T11:00:33.962306+00:00",
+   "last_run": "2026-07-16T11:00:20.409048+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,12 +283,68 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-07-16T08:29:24.764543+00:00",
+   "last_run": "2026-07-17T08:27:24.609973+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "9f266959051f",
+   "label": "Brain Daily Thought",
+   "desc": "",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-16T23:00:02.957485+00:00",
+   "last_status": "ok",
+   "active": false
+  },
+  {
+   "id": "6dfc77d9f914",
+   "label": "Brain Daily Thought Watchdog",
+   "desc": "",
+   "cadence": "daily",
+   "owner": "Hermes",
+   "last_run": "2026-07-16T23:30:05.469480+00:00",
    "last_status": "ok",
    "active": false
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "responded to user",
+   "at": "2026-07-16T16:25:01.654137Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "resent lesson as Telegram ZIP attachment after HTML failed",
+   "at": "2026-07-16T11:54:46.516648Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "sent mobile lesson as Telegram document",
+   "at": "2026-07-16T11:44:18.330037Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "created and verified first semantic data product lesson",
+   "at": "2026-07-16T11:29:54.520103Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "verified teach skill is installed and current",
+   "at": "2026-07-16T11:20:44.743312Z",
+   "status": "ok"
+  },
+  {
+   "label": "Orchestrator",
+   "summary": "reviewed career path docs and identified key learning priority",
+   "at": "2026-07-16T11:18:13.429099Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "drafted brief AI coding dictionary post",
@@ -299,42 +355,6 @@
    "label": "Orchestrator",
    "summary": "researched ai-job-search benefits for Dustin",
    "at": "2026-07-15T22:44:38.968397Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "deployed Power of One site to GitHub Pages",
-   "at": "2026-07-15T20:30:12.945847Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "resent standalone site file after localhost link issue",
-   "at": "2026-07-15T20:28:29.936803Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "checking public site delivery options",
-   "at": "2026-07-15T20:26:55.857848Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "built and verified Power of One scramble site",
-   "at": "2026-07-15T14:07:43.518115Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "updated current Mission Control with latest cron output and Brain change evidence",
-   "at": "2026-07-15T13:32:24.853849Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "added verified cron last-runs view to Mission Control",
-   "at": "2026-07-15T13:21:23.816096Z",
    "status": "ok"
   }
  ]
