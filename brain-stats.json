@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-17T08:30:25Z",
+ "generated_at": "2026-07-18T08:30:22Z",
  "counts": {
-  "raw_files": 1076,
-  "wiki_pages": 112,
-  "scheduled_jobs": 27
+  "raw_files": 1103,
+  "wiki_pages": 113,
+  "scheduled_jobs": 25
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-16 AI Homeroom Design Variants session",
-   "date": "2026-07-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-16 Playground Newsroom Editions session",
-   "date": "2026-07-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-16 Retrieval rerank lane session",
-   "date": "2026-07-16",
-   "bucket": "sessions"
-  },
-  {
    "title": "2026-07-16 Daily Thoughts pipeline repair session",
-   "date": "2026-07-16",
+   "date": "2026-07-18",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-16 Fanbase Weather collector T24 coral sport-trust session",
-   "date": "2026-07-16",
+   "title": "2026-07-17 Fanbase Weather collector T22 land T23 decision session",
+   "date": "2026-07-18",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-16 DCD variants Fable showcase session",
-   "date": "2026-07-16",
+   "title": "2026-07-17 Fanbase Weather collector T22 forums cron session",
+   "date": "2026-07-18",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-16 Fanbase Weather collector T21 shadow write session",
-   "date": "2026-07-16",
-   "bucket": "sessions"
+   "title": "2026-07-17 Public Data Project Selection for dustincoledata Research",
+   "date": "2026-07-18",
+   "bucket": "sources"
   },
   {
-   "title": "2026-07-16 Build log DCD showcase variants",
-   "date": "2026-07-16",
+   "title": "2026-07-17 DCD Round-3 Variants Build Log",
+   "date": "2026-07-18",
    "bucket": "captures"
   },
   {
-   "title": "2026-07-16 DCD showcase variants session",
-   "date": "2026-07-16",
+   "title": "2026-07-17 DCD round-3 Fable variants session",
+   "date": "2026-07-18",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-16 Scramble privacy lockdown session",
-   "date": "2026-07-16",
+   "title": "2026-07-17 DCD three new Fable variants session",
+   "date": "2026-07-17",
    "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-17 Playground LLM Pipeline and Three Editions session",
+   "date": "2026-07-17",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-17 An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge \u2014 Zhengyao Jiang, Weco",
+   "date": "2026-07-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-07-17 Imagination Engineering \u2014 Eve Bouffard, Head of Design, Y Combinator",
+   "date": "2026-07-17",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -581,6 +581,11 @@
     "recent": true
    },
    {
+    "id": "Sensor Data-Quality Monitor",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Fanbase Weather Content Playbook",
     "group": "projects",
     "recent": false
@@ -972,11 +977,11 @@
    ],
    [
     7,
-    109
+    110
    ],
    [
     7,
-    111
+    112
    ],
    [
     8,
@@ -1352,7 +1357,7 @@
    ],
    [
     13,
-    111
+    112
    ],
    [
     14,
@@ -1512,7 +1517,7 @@
    ],
    [
     16,
-    105
+    106
    ],
    [
     17,
@@ -1844,7 +1849,7 @@
    ],
    [
     23,
-    111
+    112
    ],
    [
     24,
@@ -2016,7 +2021,7 @@
    ],
    [
     28,
-    111
+    112
    ],
    [
     29,
@@ -2464,11 +2469,11 @@
    ],
    [
     38,
-    105
+    104
    ],
    [
     38,
-    108
+    106
    ],
    [
     38,
@@ -2476,7 +2481,11 @@
    ],
    [
     38,
-    111
+    110
+   ],
+   [
+    38,
+    112
    ],
    [
     40,
@@ -2668,7 +2677,7 @@
    ],
    [
     50,
-    108
+    109
    ],
    [
     51,
@@ -2980,7 +2989,7 @@
    ],
    [
     74,
-    110
+    111
    ],
    [
     75,
@@ -3020,11 +3029,11 @@
    ],
    [
     75,
-    110
+    111
    ],
    [
     75,
-    111
+    112
    ],
    [
     76,
@@ -3144,7 +3153,7 @@
    ],
    [
     83,
-    111
+    112
    ],
    [
     84,
@@ -3168,11 +3177,11 @@
    ],
    [
     84,
-    110
+    111
    ],
    [
     84,
-    111
+    112
    ],
    [
     86,
@@ -3192,7 +3201,7 @@
    ],
    [
     86,
-    111
+    112
    ],
    [
     88,
@@ -3295,28 +3304,32 @@
     103
    ],
    [
+    99,
+    104
+   ],
+   [
     100,
     103
    ],
    [
     100,
-    111
+    112
    ],
    [
     101,
     103
    ],
    [
+    101,
+    104
+   ],
+   [
     102,
     103
    ],
    [
-    104,
-    106
-   ],
-   [
-    104,
-    109
+    103,
+    104
    ],
    [
     105,
@@ -3324,11 +3337,7 @@
    ],
    [
     105,
-    108
-   ],
-   [
-    105,
-    109
+    110
    ],
    [
     106,
@@ -3339,20 +3348,32 @@
     109
    ],
    [
-    107,
-    108
+    106,
+    110
    ],
    [
     107,
     109
+   ],
+   [
+    107,
+    110
    ],
    [
     108,
     109
    ],
    [
-    110,
-    111
+    108,
+    110
+   ],
+   [
+    109,
+    110
+   ],
+   [
+    111,
+    112
    ]
   ]
  }
