@@ -1,14 +1,40 @@
 {
- "generated_at": "2026-07-18T08:30:22Z",
+ "generated_at": "2026-07-18T11:58:08Z",
  "counts": {
-  "raw_files": 1103,
+  "raw_files": 1108,
   "wiki_pages": 113,
-  "scheduled_jobs": 25
+  "scheduled_jobs": 25,
+  "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
+   "title": "2026-07-18 Retrieval mxbai adoption session",
+   "date": "2026-07-18",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Mission Control redesign handoff session",
+   "date": "2026-07-18",
+   "bucket": "sessions"
+  },
+  {
    "title": "2026-07-16 Daily Thoughts pipeline repair session",
+   "date": "2026-07-18",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18",
+   "date": "2026-07-18",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-07-18 [AINews] not much happened today",
+   "date": "2026-07-18",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-07-18 Laptop Disk Cleanup session",
    "date": "2026-07-18",
    "bucket": "sessions"
   },
@@ -31,31 +57,6 @@
    "title": "2026-07-17 DCD Round-3 Variants Build Log",
    "date": "2026-07-18",
    "bucket": "captures"
-  },
-  {
-   "title": "2026-07-17 DCD round-3 Fable variants session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 DCD three new Fable variants session",
-   "date": "2026-07-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 Playground LLM Pipeline and Three Editions session",
-   "date": "2026-07-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge \u2014 Zhengyao Jiang, Weco",
-   "date": "2026-07-17",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-17 Imagination Engineering \u2014 Eve Bouffard, Head of Design, Y Combinator",
-   "date": "2026-07-17",
-   "bucket": "signal"
   }
  ],
  "graph": {

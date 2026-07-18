@@ -1,21 +1,30 @@
 {
- "generated_at": "2026-07-18T08:30:22Z",
+ "generated_at": "2026-07-18T11:58:09Z",
  "leader": {
-  "team": "Ohio State",
-  "score": 8.4
+  "team": "Michigan",
+  "score": 76
  },
  "top": [
   {
-   "team": "Ohio State",
-   "score": 8.4
-  },
-  {
    "team": "Michigan",
-   "score": 7.1
+   "score": 76
   },
   {
-   "team": "Alabama",
-   "score": 6.8
+   "team": "Colorado",
+   "score": 49
+  },
+  {
+   "team": "LSU",
+   "score": 42
+  },
+  {
+   "team": "Miami",
+   "score": 41
+  },
+  {
+   "team": "Notre Dame",
+   "score": 41
   }
- ]
+ ],
+ "date": "2026-07-15"
 }
