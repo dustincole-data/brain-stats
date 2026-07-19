@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-18T11:58:08Z",
+ "generated_at": "2026-07-19T08:30:24Z",
  "counts": {
-  "raw_files": 1108,
+  "raw_files": 1118,
   "wiki_pages": 113,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,12 +9,47 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-18 Retrieval mxbai adoption session",
+   "title": "2026-07-18 Sensor Data-Quality T4 session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Brain Retrieval HyDE Deploy session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Fanbase Weather collector T25 silent-dead-source guard session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Mission Control cockpit redesign session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Fanbase Weather collector T23 flip session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Sensor Data-Quality Monitor T3 session",
+   "date": "2026-07-19",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Retrieval HyDE paraphrase lever session",
    "date": "2026-07-18",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Mission Control redesign handoff session",
+   "title": "2026-07-18 dustincoledata 3 design variations session",
+   "date": "2026-07-18",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-18 Sensor Data-Quality T1 spike session",
    "date": "2026-07-18",
    "bucket": "sessions"
   },
@@ -22,41 +57,6 @@
    "title": "2026-07-16 Daily Thoughts pipeline repair session",
    "date": "2026-07-18",
    "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-18",
-   "date": "2026-07-18",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-18 [AINews] not much happened today",
-   "date": "2026-07-18",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-07-18 Laptop Disk Cleanup session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 Fanbase Weather collector T22 land T23 decision session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 Fanbase Weather collector T22 forums cron session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-17 Public Data Project Selection for dustincoledata Research",
-   "date": "2026-07-18",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-07-17 DCD Round-3 Variants Build Log",
-   "date": "2026-07-18",
-   "bucket": "captures"
   }
  ],
  "graph": {
@@ -204,7 +204,7 @@
    {
     "id": "Harness & Loop Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "LLM Research And Architecture",
@@ -404,7 +404,7 @@
    {
     "id": "Orgo",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Pi Coding Agent",
@@ -549,7 +549,7 @@
    {
     "id": "Resume Writing 2026",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Brand Research OS",
