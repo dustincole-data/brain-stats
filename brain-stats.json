@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-19T08:30:24Z",
+ "generated_at": "2026-07-20T08:30:03Z",
  "counts": {
-  "raw_files": 1118,
-  "wiki_pages": 113,
+  "raw_files": 1171,
+  "wiki_pages": 114,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-18 Sensor Data-Quality T4 session",
-   "date": "2026-07-19",
+   "title": "2026-07-20 Concept-Discovery Candidate Topics Report",
+   "date": "2026-07-20",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-19 Fanbase Weather collector T33 rival taunt session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Brain Retrieval HyDE Deploy session",
-   "date": "2026-07-19",
+   "title": "2026-07-19 Retrieval Eval Tier-2 T7 LLM-Judge session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Fanbase Weather collector T25 silent-dead-source guard session",
-   "date": "2026-07-19",
+   "title": "2026-07-19 Sensor Trust full-panel session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Mission Control cockpit redesign session",
-   "date": "2026-07-19",
+   "title": "2026-07-19 Sensor Trust Index shipped build-log",
+   "date": "2026-07-20",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-19 Sensor Data-Quality T7 ship session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Fanbase Weather collector T23 flip session",
-   "date": "2026-07-19",
+   "title": "2026-07-19 Sensor Data-Quality T6 session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Sensor Data-Quality Monitor T3 session",
-   "date": "2026-07-19",
+   "title": "2026-07-19 Barnabas Thoughts build-log",
+   "date": "2026-07-20",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-19 Barnabas Thoughts ship session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-18 Retrieval HyDE paraphrase lever session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-18 dustincoledata 3 design variations session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-18 Sensor Data-Quality T1 spike session",
-   "date": "2026-07-18",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-16 Daily Thoughts pipeline repair session",
-   "date": "2026-07-18",
+   "title": "2026-07-19 Fanbase Weather collector T32 staff-blurb detector session",
+   "date": "2026-07-20",
    "bucket": "sessions"
   }
  ],
@@ -119,7 +119,7 @@
    {
     "id": "AI-Era Opportunity Map 2026",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent And AI Protocols",
@@ -459,7 +459,7 @@
    {
     "id": "Brain Concept Discovery",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Current Architecture",
@@ -534,7 +534,7 @@
    {
     "id": "Data Nerve Newsletter",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve State",
@@ -544,7 +544,7 @@
    {
     "id": "Dustin Career Transition State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Resume Writing 2026",
@@ -579,7 +579,7 @@
    {
     "id": "Practical AI Brand",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Sensor Data-Quality Monitor",
@@ -613,6 +613,11 @@
    },
    {
     "id": "Fanbase Weather",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Fantasy Football Draft System",
     "group": "projects",
     "recent": true
    },
@@ -877,6 +882,10 @@
     87
    ],
    [
+    4,
+    111
+   ],
+   [
     5,
     6
    ],
@@ -982,7 +991,7 @@
    ],
    [
     7,
-    112
+    113
    ],
    [
     8,
@@ -1358,7 +1367,11 @@
    ],
    [
     13,
-    112
+    111
+   ],
+   [
+    13,
+    113
    ],
    [
     14,
@@ -1850,7 +1863,7 @@
    ],
    [
     23,
-    112
+    113
    ],
    [
     24,
@@ -2022,7 +2035,7 @@
    ],
    [
     28,
-    112
+    113
    ],
    [
     29,
@@ -2486,7 +2499,7 @@
    ],
    [
     38,
-    112
+    113
    ],
    [
     40,
@@ -2990,7 +3003,7 @@
    ],
    [
     74,
-    111
+    112
    ],
    [
     75,
@@ -3030,11 +3043,11 @@
    ],
    [
     75,
-    111
+    112
    ],
    [
     75,
-    112
+    113
    ],
    [
     76,
@@ -3154,7 +3167,7 @@
    ],
    [
     83,
-    112
+    113
    ],
    [
     84,
@@ -3185,6 +3198,10 @@
     112
    ],
    [
+    84,
+    113
+   ],
+   [
     86,
     87
    ],
@@ -3202,7 +3219,7 @@
    ],
    [
     86,
-    112
+    113
    ],
    [
     88,
@@ -3314,7 +3331,7 @@
    ],
    [
     100,
-    112
+    113
    ],
    [
     101,
@@ -3373,8 +3390,8 @@
     110
    ],
    [
-    111,
-    112
+    112,
+    113
    ]
   ]
  }
