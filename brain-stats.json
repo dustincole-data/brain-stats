@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-20T08:30:03Z",
+ "generated_at": "2026-07-21T08:30:12Z",
  "counts": {
-  "raw_files": 1171,
+  "raw_files": 1210,
   "wiki_pages": 114,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,52 +9,52 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-20 Concept-Discovery Candidate Topics Report",
-   "date": "2026-07-20",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-07-19 Fanbase Weather collector T33 rival taunt session",
+   "title": "2026-07-20 Sensor Trust A5b pipeline robustness session",
    "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-19 Retrieval Eval Tier-2 T7 LLM-Judge session",
+   "title": "2026-07-20 Fantasy Football #12 alias-review session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Sensor Trust A5 correctness-core session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Fantasy Football #11 ESPN kona ADP session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Fanbase Weather T42 roster-lexicon rebuild session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Sensor Trust A4 v2-checks decision session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Fanbase Weather Arkansas Hogville SMF adapter session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Fantasy Football #05b active-universe session",
+   "date": "2026-07-20",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-20 Fanbase Weather collector T40 florida next-coral session",
    "date": "2026-07-20",
    "bucket": "sessions"
   },
   {
    "title": "2026-07-19 Sensor Trust full-panel session",
-   "date": "2026-07-20",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-19 Sensor Trust Index shipped build-log",
-   "date": "2026-07-20",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-07-19 Sensor Data-Quality T7 ship session",
-   "date": "2026-07-20",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-19 Sensor Data-Quality T6 session",
-   "date": "2026-07-20",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-19 Barnabas Thoughts build-log",
-   "date": "2026-07-20",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-07-19 Barnabas Thoughts ship session",
-   "date": "2026-07-20",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-19 Fanbase Weather collector T32 staff-blurb detector session",
    "date": "2026-07-20",
    "bucket": "sessions"
   }
@@ -129,22 +129,22 @@
    {
     "id": "Agent Coding Workflow",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Memory & Context Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Observability & Analytics",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Research Methods",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Scheduling & Background Automation",
@@ -159,7 +159,7 @@
    {
     "id": "Agent Skill Engineering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agentic System Patterns",
@@ -179,7 +179,7 @@
    {
     "id": "Career Transition 2026-2027",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Coding Agent Project Templates",
@@ -229,7 +229,7 @@
    {
     "id": "Mechanistic Interpretability And Steering",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Model Routing Matrix",
@@ -239,7 +239,7 @@
    {
     "id": "Multi-Agent Debate & Adversarial Dev",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Multi-Agent Orchestration",
@@ -259,7 +259,7 @@
    {
     "id": "Plan Mode Spec-First Planning",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Power of One Golf Scramble",
@@ -334,12 +334,12 @@
    {
     "id": "Claude Code",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Codex",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Coding-Assistant Landscape",
@@ -354,12 +354,12 @@
    {
     "id": "Frontier Model Landscape",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Hermes Agent Ecosystem",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "HyperFrames",
@@ -394,12 +394,12 @@
    {
     "id": "OpenClaw",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "OpenRouter",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Orgo",
@@ -439,7 +439,7 @@
    {
     "id": "Agentic OS",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Radar Discovery Lane",
@@ -464,12 +464,12 @@
    {
     "id": "Brain Current Architecture",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Process And Obsidian Setup",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Research OS",
@@ -479,7 +479,7 @@
    {
     "id": "Brain Roadmap",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain State",
@@ -494,7 +494,7 @@
    {
     "id": "Dustin Agent System",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Hermes Agent Cost Routing",
@@ -524,7 +524,7 @@
    {
     "id": "Data Nerve Content Engine",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Growth Partners",
@@ -539,12 +539,12 @@
    {
     "id": "Data Nerve State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Career Transition State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Resume Writing 2026",
@@ -1512,6 +1512,10 @@
    [
     16,
     42
+   ],
+   [
+    16,
+    43
    ],
    [
     16,

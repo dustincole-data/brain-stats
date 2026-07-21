@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T08:30:03Z",
+ "generated_at": "2026-07-21T08:30:12Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -100,7 +100,7 @@
   {
    "id": "Agent Research Methods",
    "group": "knowledge",
-   "links": 16,
+   "links": 17,
    "shell": false
   },
   {
@@ -262,7 +262,7 @@
   {
    "id": "Signal Digest",
    "group": "knowledge",
-   "links": 31,
+   "links": 32,
    "shell": false
   },
   {
@@ -1534,6 +1534,10 @@
   [
    16,
    42
+  ],
+  [
+   16,
+   43
   ],
   [
    16,
