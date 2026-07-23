@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T08:30:46Z",
+ "generated_at": "2026-07-23T08:30:41Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -16,7 +16,7 @@
   {
    "id": "AI Automation Agency",
    "group": "knowledge",
-   "links": 8,
+   "links": 7,
    "shell": false
   },
   {
@@ -64,7 +64,7 @@
   {
    "id": "AI Services and Product Wedges",
    "group": "knowledge",
-   "links": 6,
+   "links": 7,
    "shell": false
   },
   {
@@ -496,7 +496,7 @@
   {
    "id": "Brain State",
    "group": "projects",
-   "links": 18,
+   "links": 17,
    "shell": false
   },
   {
@@ -532,7 +532,7 @@
   {
    "id": "Data Nerve Brand System",
    "group": "projects",
-   "links": 6,
+   "links": 5,
    "shell": false
   },
   {
@@ -586,7 +586,7 @@
   {
    "id": "Dustin Cole Data Site Rebuild",
    "group": "projects",
-   "links": 5,
+   "links": 4,
    "shell": false
   },
   {
@@ -616,7 +616,7 @@
   {
    "id": "Sensor Data-Quality Monitor",
    "group": "projects",
-   "links": 4,
+   "links": 5,
    "shell": false
   },
   {
@@ -712,10 +712,6 @@
   [
    2,
    74
-  ],
-  [
-   2,
-   101
   ],
   [
    3,
@@ -1220,6 +1216,10 @@
   [
    10,
    94
+  ],
+  [
+   10,
+   101
   ],
   [
    11,
@@ -3155,10 +3155,6 @@
   ],
   [
    82,
-   99
-  ],
-  [
-   82,
    109
   ],
   [
@@ -3204,10 +3200,6 @@
   [
    88,
    92
-  ],
-  [
-   88,
-   93
   ],
   [
    88,
@@ -3263,11 +3255,15 @@
   ],
   [
    93,
-   97
+   99
   ],
   [
    93,
    101
+  ],
+  [
+   93,
+   102
   ],
   [
    94,

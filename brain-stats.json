@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-22T08:30:46Z",
+ "generated_at": "2026-07-23T08:30:41Z",
  "counts": {
-  "raw_files": 1245,
+  "raw_files": 1288,
   "wiki_pages": 117,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-21 Fantasy Football Plan 2 T04 reach guardrail session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 Sensor Trust ship-gate build-log",
+   "date": "2026-07-23",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-07-22 Sensor Trust ship-gate session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Mission Control P3 Hermes Disk session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 Dustin Brand Merge session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 Strange Fact card prototype session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 Sensor Trust statistical rigor session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 Prisma Edition Quality Fixes session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 Dustin Cole Brand Anchor session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 DustinColeData Premium Redesign Direction session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 DustinColeData Design Direction session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 Sensor Trust A6 correctness-lock session",
-   "date": "2026-07-22",
+   "title": "2026-07-22 Fantasy Football OPS-1 backtest dataset session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 DCD logo refresh session",
-   "date": "2026-07-21",
+   "title": "2026-07-22 Fantasy Football OPS-1 feasibility session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 Mission Control P2 Close session",
-   "date": "2026-07-21",
+   "title": "2026-07-22 Sensor Trust next-phase session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-21 MC Insurance Advisors and Ben St Clair Research",
-   "date": "2026-07-21",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-07-21 Latent portfolio toy session",
-   "date": "2026-07-21",
+   "title": "2026-07-22 Fantasy Football T11 K-DST defer session",
+   "date": "2026-07-23",
    "bucket": "sessions"
   }
  ],
@@ -549,7 +549,7 @@
    {
     "id": "Data Nerve State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Dustin Career Transition State",
@@ -589,7 +589,7 @@
    {
     "id": "Practical AI Brand",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Sensor Data-Quality Monitor",
@@ -679,10 +679,6 @@
    [
     2,
     77
-   ],
-   [
-    2,
-    105
    ],
    [
     3,
@@ -1191,6 +1187,10 @@
    [
     10,
     98
+   ],
+   [
+    10,
+    105
    ],
    [
     11,
@@ -3250,10 +3250,6 @@
    ],
    [
     86,
-    103
-   ],
-   [
-    86,
     113
    ],
    [
@@ -3299,10 +3295,6 @@
    [
     92,
     96
-   ],
-   [
-    92,
-    97
    ],
    [
     92,
@@ -3358,11 +3350,15 @@
    ],
    [
     97,
-    101
+    103
    ],
    [
     97,
     105
+   ],
+   [
+    97,
+    106
    ],
    [
     98,
