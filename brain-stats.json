@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-07-23T08:30:41Z",
+ "generated_at": "2026-07-24T08:30:32Z",
  "counts": {
-  "raw_files": 1288,
-  "wiki_pages": 117,
+  "raw_files": 1363,
+  "wiki_pages": 124,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-22 Sensor Trust ship-gate build-log",
-   "date": "2026-07-23",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-07-22 Sensor Trust ship-gate session",
-   "date": "2026-07-23",
+   "title": "2026-07-24 Climate Fingerprint slice 2 session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Dustin Brand Merge session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 Climate Fingerprint slice 1 session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Sensor Trust statistical rigor session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 Cascade on-ramp choreography session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Dustin Cole Brand Anchor session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 Statistical Illusions design-map ticket 02 session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 DustinColeData Design Direction session",
-   "date": "2026-07-23",
+   "title": "2026-07-24 Retrieval Eval HyDE grow lane session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Fantasy Football OPS-1 backtest dataset session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 Meaning Map wayfinder ticket 06 session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Fantasy Football OPS-1 feasibility session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 How Data Fools You design charting session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Sensor Trust next-phase session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 DustinColeData Redesign Build and North Star session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-22 Fantasy Football T11 K-DST defer session",
-   "date": "2026-07-23",
+   "title": "2026-07-23 Cascade wayfinder charting session",
+   "date": "2026-07-24",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-23 Where America Moves build session",
+   "date": "2026-07-24",
    "bucket": "sessions"
   }
  ],
@@ -274,7 +274,7 @@
    {
     "id": "Power of One Golf Scramble",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Prompt And Context Engineering",
@@ -429,7 +429,7 @@
    {
     "id": "Vector Databases & Retrieval Stack",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Voice And Transcription Stack",
@@ -444,7 +444,7 @@
    {
     "id": "Agentic OS State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agentic OS",
@@ -522,6 +522,16 @@
     "recent": false
    },
    {
+    "id": "Cascade State",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Climate Fingerprint State",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Data Nerve Brand System",
     "group": "projects",
     "recent": false
@@ -529,7 +539,7 @@
    {
     "id": "Data Nerve Classroom Edition",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Content Engine",
@@ -637,12 +647,37 @@
     "recent": true
    },
    {
+    "id": "Meaning Map State",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Mission Control State",
     "group": "projects",
     "recent": true
    },
    {
     "id": "Mission Control",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Namesake State",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Real Price of Everything State",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Statistical Illusions State",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Where America Moves State",
     "group": "projects",
     "recent": true
    }
@@ -706,15 +741,15 @@
    ],
    [
     3,
-    93
+    95
    ],
    [
     3,
-    100
+    102
    ],
    [
     3,
-    105
+    107
    ],
    [
     4,
@@ -894,11 +929,11 @@
    ],
    [
     4,
-    89
+    86
    ],
    [
     4,
-    113
+    89
    ],
    [
     5,
@@ -934,7 +969,7 @@
    ],
    [
     5,
-    105
+    107
    ],
    [
     6,
@@ -958,7 +993,7 @@
    ],
    [
     6,
-    105
+    107
    ],
    [
     7,
@@ -994,19 +1029,19 @@
    ],
    [
     7,
-    101
+    103
    ],
    [
     7,
-    105
+    107
    ],
    [
     7,
-    112
+    114
    ],
    [
     7,
-    116
+    119
    ],
    [
     8,
@@ -1186,11 +1221,11 @@
    ],
    [
     10,
-    98
+    100
    ],
    [
     10,
-    105
+    107
    ],
    [
     11,
@@ -1218,11 +1253,7 @@
    ],
    [
     11,
-    105
-   ],
-   [
-    12,
-    96
+    107
    ],
    [
     12,
@@ -1230,7 +1261,11 @@
    ],
    [
     12,
-    105
+    100
+   ],
+   [
+    12,
+    107
    ],
    [
     13,
@@ -1402,15 +1437,15 @@
    ],
    [
     14,
-    93
+    95
    ],
    [
     14,
-    113
+    115
    ],
    [
     14,
-    116
+    119
    ],
    [
     15,
@@ -1574,11 +1609,7 @@
    ],
    [
     17,
-    86
-   ],
-   [
-    17,
-    108
+    110
    ],
    [
     18,
@@ -1742,7 +1773,7 @@
    ],
    [
     20,
-    96
+    98
    ],
    [
     21,
@@ -1806,7 +1837,7 @@
    ],
    [
     21,
-    93
+    95
    ],
    [
     22,
@@ -1866,7 +1897,7 @@
    ],
    [
     22,
-    94
+    96
    ],
    [
     23,
@@ -1898,23 +1929,23 @@
    ],
    [
     24,
-    96
-   ],
-   [
-    24,
     98
    ],
    [
     24,
-    99
+    100
    ],
    [
     24,
-    105
+    101
    ],
    [
     24,
-    116
+    107
+   ],
+   [
+    24,
+    119
    ],
    [
     25,
@@ -1962,11 +1993,11 @@
    ],
    [
     26,
-    96
+    98
    ],
    [
     26,
-    105
+    107
    ],
    [
     27,
@@ -2082,11 +2113,7 @@
    ],
    [
     29,
-    86
-   ],
-   [
-    29,
-    116
+    119
    ],
    [
     30,
@@ -2226,7 +2253,7 @@
    ],
    [
     33,
-    98
+    100
    ],
    [
     34,
@@ -2378,19 +2405,19 @@
    ],
    [
     39,
-    92
-   ],
-   [
-    39,
-    93
-   ],
-   [
-    39,
     94
    ],
    [
     39,
+    95
+   ],
+   [
+    39,
     96
+   ],
+   [
+    39,
+    98
    ],
    [
     40,
@@ -2518,14 +2545,6 @@
    ],
    [
     40,
-    93
-   ],
-   [
-    40,
-    94
-   ],
-   [
-    40,
     95
    ],
    [
@@ -2534,15 +2553,19 @@
    ],
    [
     40,
-    100
+    97
    ],
    [
     40,
-    105
+    98
    ],
    [
     40,
-    106
+    102
+   ],
+   [
+    40,
+    107
    ],
    [
     40,
@@ -2550,15 +2573,19 @@
    ],
    [
     40,
-    111
+    110
    ],
    [
     40,
-    112
+    113
    ],
    [
     40,
-    116
+    114
+   ],
+   [
+    40,
+    119
    ],
    [
     42,
@@ -2598,7 +2625,11 @@
    ],
    [
     44,
-    114
+    86
+   ],
+   [
+    44,
+    116
    ],
    [
     45,
@@ -2654,11 +2685,11 @@
    ],
    [
     46,
-    98
+    100
    ],
    [
     46,
-    99
+    101
    ],
    [
     47,
@@ -2746,15 +2777,15 @@
    ],
    [
     52,
-    104
+    106
    ],
    [
     52,
-    105
+    107
    ],
    [
     52,
-    111
+    113
    ],
    [
     53,
@@ -2974,11 +3005,11 @@
    ],
    [
     64,
-    94
+    96
    ],
    [
     64,
-    100
+    102
    ],
    [
     67,
@@ -3042,15 +3073,15 @@
    ],
    [
     74,
-    94
-   ],
-   [
-    74,
     96
    ],
    [
     74,
-    100
+    98
+   ],
+   [
+    74,
+    102
    ],
    [
     75,
@@ -3066,7 +3097,7 @@
    ],
    [
     76,
-    115
+    118
    ],
    [
     77,
@@ -3102,15 +3133,15 @@
    ],
    [
     77,
-    94
+    96
    ],
    [
     77,
-    115
+    118
    ],
    [
     77,
-    116
+    119
    ],
    [
     78,
@@ -3230,7 +3261,7 @@
    ],
    [
     85,
-    116
+    119
    ],
    [
     86,
@@ -3246,11 +3277,7 @@
    ],
    [
     86,
-    102
-   ],
-   [
-    86,
-    113
+    104
    ],
    [
     86,
@@ -3258,7 +3285,11 @@
    ],
    [
     86,
-    116
+    118
+   ],
+   [
+    86,
+    119
    ],
    [
     88,
@@ -3270,15 +3301,15 @@
    ],
    [
     88,
-    94
+    96
    ],
    [
     88,
-    100
+    102
    ],
    [
     88,
-    116
+    119
    ],
    [
     90,
@@ -3286,31 +3317,19 @@
    ],
    [
     92,
-    94
+    105
    ],
    [
     92,
-    95
+    122
    ],
    [
-    92,
-    96
-   ],
-   [
-    92,
+    93,
     105
    ],
    [
     93,
-    94
-   ],
-   [
-    93,
-    96
-   ],
-   [
-    94,
-    95
+    120
    ],
    [
     94,
@@ -3322,19 +3341,31 @@
    ],
    [
     94,
-    100
+    98
    ],
    [
     94,
-    104
+    107
    ],
    [
     95,
     96
    ],
    [
+    95,
+    98
+   ],
+   [
     96,
     97
+   ],
+   [
+    96,
+    98
+   ],
+   [
+    96,
+    99
    ],
    [
     96,
@@ -3342,23 +3373,11 @@
    ],
    [
     96,
-    104
-   ],
-   [
-    96,
-    105
-   ],
-   [
-    97,
-    103
-   ],
-   [
-    97,
-    105
-   ],
-   [
-    97,
     106
+   ],
+   [
+    97,
+    98
    ],
    [
     98,
@@ -3366,75 +3385,99 @@
    ],
    [
     98,
-    114
-   ],
-   [
-    100,
     104
    ],
    [
-    100,
-    105
-   ],
-   [
-    101,
-    103
-   ],
-   [
-    101,
-    105
-   ],
-   [
-    101,
+    98,
     106
    ],
    [
-    102,
-    105
+    98,
+    107
    ],
    [
-    102,
+    99,
+    107
+   ],
+   [
+    99,
+    108
+   ],
+   [
+    100,
+    101
+   ],
+   [
+    100,
     116
    ],
    [
+    102,
+    106
+   ],
+   [
+    102,
+    107
+   ],
+   [
     103,
     105
    ],
    [
     103,
-    106
+    107
    ],
    [
     103,
-    114
+    108
+   ],
+   [
+    103,
+    120
    ],
    [
     104,
-    105
+    107
+   ],
+   [
+    104,
+    119
    ],
    [
     105,
-    106
+    107
    ],
    [
-    107,
-    109
+    105,
+    108
    ],
    [
-    107,
-    112
+    105,
+    116
    ],
    [
-    108,
-    110
+    105,
+    117
    ],
    [
-    108,
-    111
+    105,
+    120
    ],
    [
-    108,
-    112
+    105,
+    121
+   ],
+   [
+    105,
+    122
+   ],
+   [
+    105,
+    123
+   ],
+   [
+    106,
+    107
    ],
    [
     109,
@@ -3442,23 +3485,55 @@
    ],
    [
     109,
-    112
-   ],
-   [
-    110,
-    111
+    114
    ],
    [
     110,
     112
+   ],
+   [
+    110,
+    113
+   ],
+   [
+    110,
+    114
    ],
    [
     111,
-    112
+    113
    ],
    [
-    115,
-    116
+    111,
+    114
+   ],
+   [
+    112,
+    113
+   ],
+   [
+    112,
+    114
+   ],
+   [
+    113,
+    114
+   ],
+   [
+    117,
+    120
+   ],
+   [
+    118,
+    119
+   ],
+   [
+    120,
+    121
+   ],
+   [
+    120,
+    123
    ]
   ]
  }
