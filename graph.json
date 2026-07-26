@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T08:30:45Z",
+ "generated_at": "2026-07-26T08:30:32Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -28,7 +28,7 @@
   {
    "id": "AI Evaluation And Reliability",
    "group": "knowledge",
-   "links": 46,
+   "links": 47,
    "shell": false
   },
   {
@@ -46,7 +46,7 @@
   {
    "id": "AI Product Design Workflow",
    "group": "knowledge",
-   "links": 12,
+   "links": 15,
    "shell": false
   },
   {
@@ -616,7 +616,7 @@
   {
    "id": "DustinColeData State",
    "group": "projects",
-   "links": 13,
+   "links": 15,
    "shell": false
   },
   {
@@ -676,7 +676,7 @@
   {
    "id": "Fantasy Football Draft System",
    "group": "projects",
-   "links": 2,
+   "links": 4,
    "shell": false
   },
   {
@@ -706,11 +706,17 @@
   {
    "id": "Namesake State",
    "group": "projects",
-   "links": 6,
+   "links": 5,
    "shell": false
   },
   {
    "id": "Real Price of Everything State",
+   "group": "projects",
+   "links": 2,
+   "shell": false
+  },
+  {
+   "id": "Redraft State",
    "group": "projects",
    "links": 2,
    "shell": false
@@ -730,8 +736,8 @@
   {
    "id": "Why Do They State",
    "group": "projects",
-   "links": 1,
-   "shell": true
+   "links": 2,
+   "shell": false
   }
  ],
  "edges": [
@@ -988,6 +994,10 @@
    85
   ],
   [
+   4,
+   112
+  ],
+  [
    5,
    6
   ],
@@ -1094,6 +1104,18 @@
   [
    7,
    116
+  ],
+  [
+   7,
+   118
+  ],
+  [
+   7,
+   119
+  ],
+  [
+   7,
+   122
   ],
   [
    8,
@@ -3253,7 +3275,7 @@
   ],
   [
    89,
-   119
+   120
   ],
   [
    90,
@@ -3385,6 +3407,10 @@
   ],
   [
    102,
+   112
+  ],
+  [
+   102,
    113
   ],
   [
@@ -3410,6 +3436,10 @@
   [
    102,
    121
+  ],
+  [
+   102,
+   122
   ],
   [
    103,
@@ -3465,11 +3495,7 @@
   ],
   [
    117,
-   118
-  ],
-  [
-   117,
-   120
+   121
   ]
  ]
 }
