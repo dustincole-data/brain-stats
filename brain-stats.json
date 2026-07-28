@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-27T08:30:12Z",
+ "generated_at": "2026-07-28T08:30:21Z",
  "counts": {
-  "raw_files": 1559,
+  "raw_files": 1577,
   "wiki_pages": 128,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-27 Concept-Discovery Candidate Topics Report",
-   "date": "2026-07-27",
-   "bucket": "captures"
+   "title": "2026-07-27 Why Do They v2 spec-v2 reached session",
+   "date": "2026-07-28",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-07-27 Fantasy Football Tier 1 draft cockpit session",
+   "title": "2026-07-27 Meaning Map distance-claim cleanup session",
+   "date": "2026-07-28",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-27 Why Do They v2 spec assembly session",
+   "date": "2026-07-28",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-07-27 Fantasy Football carried-items verification session",
    "date": "2026-07-27",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-26 By Example Build Log - Three Reviewers One Root Cause",
-   "date": "2026-07-27",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-07-26 By Example adversarial review session",
+   "title": "2026-07-27 Why Do They v2 ticket 10 resolution session",
    "date": "2026-07-27",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-27 Directed Phase 2 four-row close session",
+   "title": "2026-07-27 By Example redesign spec and ticket map session",
    "date": "2026-07-27",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-27 Fantasy Football shrink guard session",
+   "title": "2026-07-27 State of Data \u2014 Sean Cai, Independent  State of Data",
    "date": "2026-07-27",
-   "bucket": "sessions"
+   "bucket": "signal"
   },
   {
-   "title": "2026-07-26 Where America Moves Lighthouse pass session",
+   "title": "2026-07-27 DeepSWE A Contamination-Resistant Coding Benchmark \u2014 James Shi, Datacurve",
    "date": "2026-07-27",
-   "bucket": "sessions"
+   "bucket": "signal"
   },
   {
-   "title": "2026-07-26 Meaning Map leader line similarity encoding session",
+   "title": "2026-07-27 Is Anthropic STEALING Your Data (While You PAY FOR IT)",
    "date": "2026-07-27",
-   "bucket": "sessions"
+   "bucket": "signal"
   },
   {
-   "title": "2026-07-26 dustincoledata structure map ticket 04 session",
+   "title": "2026-07-27 L8 Principal Building a Full Stack App From Scratch",
    "date": "2026-07-27",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-07-27 Directed design pass and Phase 2 open session",
-   "date": "2026-07-27",
-   "bucket": "sessions"
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -84,7 +84,7 @@
    {
     "id": "AI Evaluation And Reliability",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Industry Economics",
@@ -284,7 +284,7 @@
    {
     "id": "RAG & Long-Context Retrieval",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Signal Digest",
@@ -624,7 +624,7 @@
    {
     "id": "Fanbase Weather Fan Comment Source Pipeline",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather Growth",
@@ -634,12 +634,12 @@
    {
     "id": "Fanbase Weather State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather Technical Architecture",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather",
