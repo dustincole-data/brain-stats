@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T08:30:26Z",
+ "generated_at": "2026-07-31T08:30:58Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -148,7 +148,7 @@
   {
    "id": "Canvas Resync From Its Box",
    "group": "knowledge",
-   "links": 3,
+   "links": 4,
    "shell": false
   },
   {
@@ -646,7 +646,7 @@
   {
    "id": "DustinColeData State",
    "group": "projects",
-   "links": 18,
+   "links": 19,
    "shell": false
   },
   {
@@ -2050,6 +2050,10 @@
   [
    24,
    105
+  ],
+  [
+   24,
+   107
   ],
   [
    25,

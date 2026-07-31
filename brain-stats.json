@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T08:30:26Z",
+ "generated_at": "2026-07-31T08:30:58Z",
  "counts": {
-  "raw_files": 1608,
+  "raw_files": 1658,
   "wiki_pages": 132,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-07-30 Fantasy Football B1 curve plateaus session",
-   "date": "2026-07-30",
+   "title": "2026-07-31 Deep Time accessibility and spec assembly session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-30 dustincoledata homepage build approved session",
-   "date": "2026-07-30",
+   "title": "2026-07-31 Design Inspo tenth principle session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-30 Atelier Rigor ticket 10 package stage session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Fantasy Football ticket 11 draft-day guards session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-30 Atelier Rigor ticket 01 package contract session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Fantasy Football ticket 12 ruling session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-29 dustincoledata homepage mockup picks built session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Deep Time tech stack session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-29 Deep Time visual identity session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Design Inspo ticket 07 evidence session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-29 dustincoledata homepage Direction A build session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Fantasy Football contrarian engine review session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-30 Atelier Rigor ticket 09 engine build session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 dustincoledata about closer and subscribe form session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-29 Design Inspo principles written session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Why Do They v2 launch session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-07-29 Design Inspo pilot teardowns session",
-   "date": "2026-07-30",
+   "title": "2026-07-30 Design Inspo ticket 10 evidence session",
+   "date": "2026-07-31",
    "bucket": "sessions"
   }
  ],
@@ -634,7 +634,7 @@
    {
     "id": "Sensor Data-Quality Monitor",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fanbase Weather Content Playbook",
@@ -2022,6 +2022,10 @@
    [
     24,
     109
+   ],
+   [
+    24,
+    111
    ],
    [
     25,
