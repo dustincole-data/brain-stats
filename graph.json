@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T08:30:28Z",
+ "generated_at": "2026-08-02T08:30:24Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -136,7 +136,7 @@
   {
    "id": "Approval-Gated Autonomy",
    "group": "knowledge",
-   "links": 23,
+   "links": 24,
    "shell": false
   },
   {
@@ -250,7 +250,7 @@
   {
    "id": "Open Questions",
    "group": "knowledge",
-   "links": 64,
+   "links": 65,
    "shell": false
   },
   {
@@ -1992,6 +1992,10 @@
   [
    22,
    39
+  ],
+  [
+   22,
+   41
   ],
   [
    22,
