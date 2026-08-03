@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-02T08:30:24Z",
+ "generated_at": "2026-08-03T08:30:36Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
-  "runs_today": 0,
+  "runs_today": 8,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-02T08:26:22.382087+00:00",
+   "last_run": "2026-08-03T08:25:34.635084+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T09:08:20.200520+00:00",
+   "last_run": "2026-08-02T09:06:24.697789+00:00",
    "last_status": "error",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T08:54:08.636226+00:00",
+   "last_run": "2026-08-02T08:52:27.050946+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-02T08:15:21.831183+00:00",
+   "last_run": "2026-08-03T08:15:34.343058+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-02T06:18:17.321484+00:00",
+   "last_run": "2026-08-03T06:20:23.611817+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-02T08:00:21.202332+00:00",
+   "last_run": "2026-08-03T08:00:33.685284+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -113,7 +113,7 @@
    "desc": "Script-only weekly deterministic Brain wiki lint for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:00:37.117083+00:00",
+   "last_run": "2026-08-03T07:00:25.459543+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-02T08:17:22.105884+00:00",
+   "last_run": "2026-08-03T08:27:34.731765+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -143,7 +143,7 @@
    "desc": "Script-only deterministic Brain news/RSS ingest",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T09:15:31.650235+00:00",
+   "last_run": "2026-08-02T09:15:34.900133+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -153,7 +153,7 @@
    "desc": "Script-only deterministic Brain AI Radar discovery lane",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T09:25:55.393676+00:00",
+   "last_run": "2026-08-02T09:26:02.451378+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -163,7 +163,7 @@
    "desc": "Script-only weekly Brain concept discovery for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:30:08.257401+00:00",
+   "last_run": "2026-08-03T07:30:32.427165+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -173,7 +173,7 @@
    "desc": "Script-only weekly Brain source-tier audit for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:40:08.612564+00:00",
+   "last_run": "2026-08-03T07:40:32.791542+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -183,7 +183,7 @@
    "desc": "Script-only weekly Brain retrieval eval for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:15:38.079452+00:00",
+   "last_run": "2026-08-03T07:15:08.492512+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -193,7 +193,7 @@
    "desc": "Script-only weekly Brain source catalog for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:20:38.890395+00:00",
+   "last_run": "2026-08-03T07:20:09.230604+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -203,7 +203,7 @@
    "desc": "Script-only weekly Brain advisor + leverage + briefing loop for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:26:01.438889+00:00",
+   "last_run": "2026-08-03T07:25:25.409069+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T08:30:31.817798+00:00",
+   "last_run": "2026-08-02T08:30:27.782357+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T13:00:05.605866+00:00",
+   "last_run": "2026-08-02T13:00:13.451728+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-01T11:00:59.975645+00:00",
+   "last_run": "2026-08-02T11:00:07.441183+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -263,8 +263,8 @@
    "desc": "Create the compiled weekly signal shortlist before the Advisor",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:05:37.463610+00:00",
-   "last_status": "error",
+   "last_run": "2026-08-03T07:08:08.034488+00:00",
+   "last_status": "ok",
    "active": false
   },
   {
@@ -273,7 +273,7 @@
    "desc": "Judge fidelity of three recently processed raw files",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-07-27T07:10:37.742560+00:00",
+   "last_run": "2026-08-03T07:10:08.121313+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,7 +283,7 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-02T08:26:22.353333+00:00",
+   "last_run": "2026-08-03T08:25:34.607789+00:00",
    "last_status": "ok",
    "active": false
   }
@@ -291,50 +291,50 @@
  "runs": [
   {
    "label": "Orchestrator",
-   "summary": "located fantasy ranking artifacts status",
-   "at": "2026-07-29T00:29:55.491239Z",
+   "summary": "added Yahoo expert ranks to Ron tab",
+   "at": "2026-08-03T03:58:09.790094Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "reported verified fantasy football project status",
-   "at": "2026-07-29T00:27:42.333344Z",
+   "summary": "added Draft Tips worksheet",
+   "at": "2026-08-03T03:51:20.723014Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "repaired signal skim and started Google reauth",
-   "at": "2026-07-28T13:57:07.684069Z",
+   "summary": "corrected ESPN ranks from board order",
+   "at": "2026-08-03T03:41:34.063750Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "diagnosed brain health cron failures",
-   "at": "2026-07-28T12:15:01.525113Z",
+   "summary": "added ESPN draft order to Ron rankings",
+   "at": "2026-08-03T03:37:26.195178Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "prepared phone-copy article in Telegram-sized chunks",
-   "at": "2026-07-27T14:48:40.446929Z",
+   "summary": "corrected BDGE Loveland ranking",
+   "at": "2026-08-03T03:30:14.644607Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "resent LinkedIn-ready article as Telegram file",
-   "at": "2026-07-27T14:45:32.671997Z",
+   "summary": "added BDGE QB TE ranking comparison",
+   "at": "2026-08-03T03:28:40.566913Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "formatted LinkedIn article as copy-ready document",
-   "at": "2026-07-27T14:43:05.931511Z",
+   "summary": "retrieved video episode outline and summary",
+   "at": "2026-08-03T02:17:30.120882Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "generated mobile Google OAuth link",
-   "at": "2026-07-26T13:09:55.405751Z",
+   "summary": "Fetched available YouTube episode timestamp outline; captions blocked",
+   "at": "2026-08-03T02:17:04.099685Z",
    "status": "ok"
   }
  ]

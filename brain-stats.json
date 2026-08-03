@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-02T08:30:24Z",
+ "generated_at": "2026-08-03T08:30:36Z",
  "counts": {
-  "raw_files": 1774,
+  "raw_files": 1785,
   "wiki_pages": 133,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-01 Fantasy Football ticket 17 Phase A GUI shakedown session",
-   "date": "2026-08-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-01 dustincoledata Namesake thumbnail reframe session",
-   "date": "2026-08-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-01 Design Inspo state symbols run 3 rejected session",
-   "date": "2026-08-02",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-01 Classroom Edition 4 - Hallucinations Draft",
-   "date": "2026-08-02",
+   "title": "2026-08-03 Concept-Discovery Candidate Topics Report",
+   "date": "2026-08-03",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-01 AI Hallucinations Research",
-   "date": "2026-08-02",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-08-01 Fantasy Football ticket 21 need-first SHEET order session",
+   "title": "2026-08-02 Fantasy Football ticket 15 third-league cost ruling session",
    "date": "2026-08-02",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-01 Build Log - The Humblebrag Was the Sales Pitch",
-   "date": "2026-08-02",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-01 dustincoledata subscribe band tickets 03-04-05 session",
+   "title": "2026-08-02 Fantasy Football ticket 07 platform rankings session",
    "date": "2026-08-02",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-01 Deep Time art generation pipeline session",
+   "title": "2026-08-02 Hidden Codex Setting",
+   "date": "2026-08-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-02 My Biggest AI Mistake",
+   "date": "2026-08-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-02 18 Months of Pricing AI Automations in 21 Mins",
+   "date": "2026-08-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-02 I Stopped Installing Claude Skills. Here's What I Do Instead",
+   "date": "2026-08-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-02 ChatGPT 5.6 is a dumber model. I love it",
+   "date": "2026-08-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-02 Deep Time art completion and mobile fixes session",
    "date": "2026-08-02",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-01 Atelier Beauty ticket 09 hero mark session",
-   "date": "2026-08-01",
+   "title": "2026-08-01 Namesake visual language session",
+   "date": "2026-08-02",
    "bucket": "sessions"
   }
  ],
@@ -99,7 +99,7 @@
    {
     "id": "AI Product Design Workflow",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Safety And Security",
@@ -134,7 +134,7 @@
    {
     "id": "Agent Coding Workflow",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Agent Memory & Context Engineering",
@@ -479,7 +479,7 @@
    {
     "id": "Brain Concept Discovery",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Current Architecture",
@@ -504,7 +504,7 @@
    {
     "id": "Brain State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Sync Process",
@@ -589,7 +589,7 @@
    {
     "id": "Directed State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Career Transition State",
@@ -699,17 +699,17 @@
    {
     "id": "Namesake State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Real Price of Everything State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Redraft State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Statistical Illusions State",
