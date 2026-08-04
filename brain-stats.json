@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-03T08:30:36Z",
+ "generated_at": "2026-08-04T08:30:44Z",
  "counts": {
-  "raw_files": 1785,
+  "raw_files": 1799,
   "wiki_pages": 133,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-03 Concept-Discovery Candidate Topics Report",
+   "title": "2026-08-01 Classroom Edition 4 - Hallucinations Draft",
    "date": "2026-08-03",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-02 Fantasy Football ticket 15 third-league cost ruling session",
-   "date": "2026-08-02",
+   "title": "2026-08-03 Fantasy Football tickets 29 and 28 third-league build session",
+   "date": "2026-08-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-02 Fantasy Football ticket 07 platform rankings session",
-   "date": "2026-08-02",
+   "title": "2026-08-03 Fantasy Football three-league material and contrarian pass session",
+   "date": "2026-08-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-02 Hidden Codex Setting",
-   "date": "2026-08-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-08-02 My Biggest AI Mistake",
-   "date": "2026-08-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-08-02 18 Months of Pricing AI Automations in 21 Mins",
-   "date": "2026-08-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-08-02 I Stopped Installing Claude Skills. Here's What I Do Instead",
-   "date": "2026-08-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-08-02 ChatGPT 5.6 is a dumber model. I love it",
-   "date": "2026-08-02",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-08-02 Deep Time art completion and mobile fixes session",
-   "date": "2026-08-02",
+   "title": "2026-08-02 dustincoledata thumbnail reframe and Namesake scrap session",
+   "date": "2026-08-03",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-01 Namesake visual language session",
-   "date": "2026-08-02",
-   "bucket": "sessions"
+   "title": "2026-08-03 When Will The Benchmaxxing Plague End \u2014 Nick Heiner, Surge AI",
+   "date": "2026-08-03",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-03 MCP Tasks (async) Why Aren't Any Agents Supporting Them \u2014 Cornelia Davis, Temporal",
+   "date": "2026-08-03",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-03 MCP Apps Extending the Frontier \u2014 Ido Salomon & Liad Yosef",
+   "date": "2026-08-03",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-03 My Super Simple Software Factory (For Agentic Engineers)",
+   "date": "2026-08-03",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-03 I open-sourced my Agent Skills repo (it went viral)",
+   "date": "2026-08-03",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-03 The Most Important Paper in AI History",
+   "date": "2026-08-03",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -534,7 +534,7 @@
    {
     "id": "By Example State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Cascade State",
@@ -684,7 +684,7 @@
    {
     "id": "Meaning Map State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Mission Control State",
