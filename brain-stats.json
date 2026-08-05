@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-04T08:30:44Z",
+ "generated_at": "2026-08-05T08:30:45Z",
  "counts": {
-  "raw_files": 1799,
+  "raw_files": 1836,
   "wiki_pages": 133,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-01 Classroom Edition 4 - Hallucinations Draft",
-   "date": "2026-08-03",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-03 Fantasy Football tickets 29 and 28 third-league build session",
-   "date": "2026-08-03",
+   "title": "2026-08-04 Fantasy Football ceiling-rankings ticket 01 metric ruling session",
+   "date": "2026-08-05",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 Fantasy Football three-league material and contrarian pass session",
-   "date": "2026-08-03",
+   "title": "2026-08-04 dustincoledata tickets 03-05 close and share-image fix session",
+   "date": "2026-08-05",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-02 dustincoledata thumbnail reframe and Namesake scrap session",
-   "date": "2026-08-03",
+   "title": "2026-08-04 Atelier Beauty rebuild graduated session",
+   "date": "2026-08-05",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 When Will The Benchmaxxing Plague End \u2014 Nick Heiner, Surge AI",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 dustincoledata project thumbnails session",
+   "date": "2026-08-05",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 MCP Tasks (async) Why Aren't Any Agents Supporting Them \u2014 Cornelia Davis, Temporal",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 Fantasy Football ticket 34 runbook and B4 session",
+   "date": "2026-08-05",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 MCP Apps Extending the Frontier \u2014 Ido Salomon & Liad Yosef",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 Atelier Beauty ticket 04 package portability session",
+   "date": "2026-08-05",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 My Super Simple Software Factory (For Agentic Engineers)",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 Fantasy Football ceiling rankings map charted session",
+   "date": "2026-08-05",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 I open-sourced my Agent Skills repo (it went viral)",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 Namesake portrait field ship session",
+   "date": "2026-08-04",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-03 The Most Important Paper in AI History",
-   "date": "2026-08-03",
-   "bucket": "signal"
+   "title": "2026-08-04 Fantasy Football ticket 33 Tiers 2 and 3 session",
+   "date": "2026-08-04",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-04 Deep Time finale redesign and plan session",
+   "date": "2026-08-04",
+   "bucket": "sessions"
   }
  ],
  "graph": {

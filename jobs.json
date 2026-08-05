@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-04T08:30:44Z",
+ "generated_at": "2026-08-05T08:30:45Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
-  "runs_today": 0,
+  "runs_today": 1,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-04T08:28:42.870083+00:00",
+   "last_run": "2026-08-05T08:26:43.591715+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T09:10:28.135042+00:00",
+   "last_run": "2026-08-04T09:08:50.149721+00:00",
    "last_status": "error",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T09:02:27.020004+00:00",
+   "last_run": "2026-08-04T08:54:54.131753+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-04T08:15:41.297307+00:00",
+   "last_run": "2026-08-05T08:15:43.148962+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-04T06:22:36.854246+00:00",
+   "last_run": "2026-08-05T06:23:38.908505+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-04T08:00:40.703978+00:00",
+   "last_run": "2026-08-05T08:00:42.583408+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-04T08:20:42.606006+00:00",
+   "last_run": "2026-08-05T08:28:43.716959+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -143,7 +143,7 @@
    "desc": "Script-only deterministic Brain news/RSS ingest",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T09:15:38.364630+00:00",
+   "last_run": "2026-08-04T09:16:10.520458+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -153,7 +153,7 @@
    "desc": "Script-only deterministic Brain AI Radar discovery lane",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T09:26:08.666356+00:00",
+   "last_run": "2026-08-04T09:25:40.049398+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T08:30:56.050820+00:00",
+   "last_run": "2026-08-04T08:30:48.378770+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T13:00:19.794323+00:00",
+   "last_run": "2026-08-04T13:00:52.105026+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-03T11:00:13.665385+00:00",
+   "last_run": "2026-08-04T11:00:45.127947+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,12 +283,18 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-04T08:28:42.842438+00:00",
+   "last_run": "2026-08-05T08:26:43.558910+00:00",
    "last_status": "ok",
    "active": false
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "removed project cards and fixed fanbase logo; pushed",
+   "at": "2026-08-05T00:19:45.245051Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "added Yahoo expert ranks to Ron tab",
@@ -329,12 +335,6 @@
    "label": "Orchestrator",
    "summary": "retrieved video episode outline and summary",
    "at": "2026-08-03T02:17:30.120882Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "Fetched available YouTube episode timestamp outline; captions blocked",
-   "at": "2026-08-03T02:17:04.099685Z",
    "status": "ok"
   }
  ]
