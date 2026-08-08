@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-08-07T08:30:17Z",
+ "generated_at": "2026-08-08T08:30:42Z",
  "counts": {
-  "raw_files": 1911,
-  "wiki_pages": 133,
+  "raw_files": 1954,
+  "wiki_pages": 134,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-06 Deep Time visual audit and art sizing session",
+   "title": "2026-08-07 Fantasy Football draft guide builder session",
+   "date": "2026-08-08",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-07 Human History wayfinder ticket 01 session",
+   "date": "2026-08-08",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-07 Fantasy Football runbook and practice-draft acceptance session",
+   "date": "2026-08-08",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-07 Deep Time share card clock and art review session",
+   "date": "2026-08-08",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-07 Fantasy Football draft-board-site rulings session",
    "date": "2026-08-07",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-06 Fantasy Football draft-guide ticket 11 PPL band 10-12 session",
-   "date": "2026-08-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-06 dustincoledata share card and favicon session",
-   "date": "2026-08-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-06 Build Log - The One Element Wider Than the Phone",
+   "title": "2026-08-07 WAM Form Re-anchor Build Log",
    "date": "2026-08-07",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-06 dustincoledata mobile subscribe band session",
+   "title": "2026-08-07 Atelier Beauty ticket 13 form re-anchor session",
    "date": "2026-08-07",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-06 Fantasy Football draft-guide ticket 10 PPL band 7-9 session",
+   "title": "2026-08-07 Fantasy Football ticket 36 league value on the board session",
    "date": "2026-08-07",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-06 Fantasy Football draft-guide ticket 09 PPL band 4-6 session",
+   "title": "2026-08-07 Fantasy Football draft guide ticket 15 session-2",
    "date": "2026-08-07",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-06 Deep Time mobile black-blink fix session",
-   "date": "2026-08-06",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-06 Fantasy Football ticket 35 week 4 session",
-   "date": "2026-08-06",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-06 Fantasy Football draft guide contrarian protocol session",
-   "date": "2026-08-06",
+   "title": "2026-08-07 Fantasy Football draft board site A6 rehearsal session",
+   "date": "2026-08-07",
    "bucket": "sessions"
   }
  ],
@@ -544,7 +544,7 @@
    {
     "id": "Climate Fingerprint State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Data Nerve Brand System",
@@ -624,7 +624,7 @@
    {
     "id": "Half The Shelf",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Learning News Field Notes Workflow",
@@ -673,6 +673,11 @@
    },
    {
     "id": "Fantasy Football Draft System",
+    "group": "projects",
+    "recent": true
+   },
+   {
+    "id": "Human History State",
     "group": "projects",
     "recent": true
    },
@@ -1114,11 +1119,7 @@
    ],
    [
     7,
-    126
-   ],
-   [
-    7,
-    128
+    127
    ],
    [
     7,
@@ -1126,7 +1127,11 @@
    ],
    [
     7,
-    132
+    130
+   ],
+   [
+    7,
+    133
    ],
    [
     8,
@@ -1534,7 +1539,7 @@
    ],
    [
     14,
-    126
+    127
    ],
    [
     15,
@@ -2050,7 +2055,7 @@
    ],
    [
     25,
-    126
+    127
    ],
    [
     26,
@@ -2218,7 +2223,7 @@
    ],
    [
     30,
-    126
+    127
    ],
    [
     31,
@@ -2690,7 +2695,7 @@
    ],
    [
     41,
-    126
+    127
    ],
    [
     43,
@@ -2734,7 +2739,7 @@
    ],
    [
     45,
-    123
+    124
    ],
    [
     46,
@@ -3202,7 +3207,7 @@
    ],
    [
     77,
-    125
+    126
    ],
    [
     78,
@@ -3242,15 +3247,15 @@
    ],
    [
     78,
-    125
-   ],
-   [
-    78,
     126
    ],
    [
+    78,
+    127
+   ],
+   [
     79,
-    131
+    132
    ],
    [
     80,
@@ -3370,7 +3375,7 @@
    ],
    [
     87,
-    126
+    127
    ],
    [
     88,
@@ -3394,11 +3399,11 @@
    ],
    [
     88,
-    125
+    126
    ],
    [
     88,
-    126
+    127
    ],
    [
     90,
@@ -3418,7 +3423,7 @@
    ],
    [
     90,
-    126
+    127
    ],
    [
     92,
@@ -3438,7 +3443,7 @@
    ],
    [
     95,
-    130
+    131
    ],
    [
     96,
@@ -3446,7 +3451,7 @@
    ],
    [
     96,
-    127
+    128
    ],
    [
     97,
@@ -3525,6 +3530,10 @@
     111
    ],
    [
+    103,
+    123
+   ],
+   [
     104,
     111
    ],
@@ -3534,7 +3543,7 @@
    ],
    [
     104,
-    127
+    128
    ],
    [
     105,
@@ -3546,7 +3555,7 @@
    ],
    [
     106,
-    123
+    124
    ],
    [
     108,
@@ -3570,7 +3579,7 @@
    ],
    [
     109,
-    127
+    128
    ],
    [
     110,
@@ -3578,7 +3587,7 @@
    ],
    [
     110,
-    126
+    127
    ],
    [
     111,
@@ -3606,7 +3615,7 @@
    ],
    [
     111,
-    127
+    125
    ],
    [
     111,
@@ -3627,6 +3636,10 @@
    [
     111,
     132
+   ],
+   [
+    111,
+    133
    ],
    [
     113,
@@ -3673,16 +3686,16 @@
     121
    ],
    [
-    124,
+    125,
+    128
+   ],
+   [
+    126,
     127
    ],
    [
-    125,
-    126
-   ],
-   [
-    127,
-    131
+    128,
+    132
    ]
   ]
  }
