@@ -1,61 +1,61 @@
 {
- "generated_at": "2026-08-08T08:30:42Z",
+ "generated_at": "2026-08-09T08:30:24Z",
  "counts": {
-  "raw_files": 1954,
-  "wiki_pages": 134,
+  "raw_files": 1997,
+  "wiki_pages": 137,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-07 Fantasy Football draft guide builder session",
-   "date": "2026-08-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-07 Human History wayfinder ticket 01 session",
-   "date": "2026-08-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-07 Fantasy Football runbook and practice-draft acceptance session",
-   "date": "2026-08-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-07 Deep Time share card clock and art review session",
-   "date": "2026-08-08",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-07 Fantasy Football draft-board-site rulings session",
-   "date": "2026-08-07",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-07 WAM Form Re-anchor Build Log",
-   "date": "2026-08-07",
+   "title": "2026-08-09 Build log - the constant that cancels",
+   "date": "2026-08-09",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-07 Atelier Beauty ticket 13 form re-anchor session",
-   "date": "2026-08-07",
+   "title": "2026-08-09 Fantasy Football draft-board VOR and tier-break rulings session",
+   "date": "2026-08-09",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-07 Fantasy Football ticket 36 league value on the board session",
-   "date": "2026-08-07",
+   "title": "2026-08-08 PPL bench depth and replacement level session",
+   "date": "2026-08-09",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-07 Fantasy Football draft guide ticket 15 session-2",
-   "date": "2026-08-07",
+   "title": "2026-08-08 PPL 14-Round Roster and Replacement Level Research",
+   "date": "2026-08-09",
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-08-08 Draft board QB-TE tiers open items closed session",
+   "date": "2026-08-09",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-07 Fantasy Football draft board site A6 rehearsal session",
-   "date": "2026-08-07",
+   "title": "2026-08-08 Where America Moves hero mark session",
+   "date": "2026-08-09",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-08 One Day in America ticket 02 ATUS source session",
+   "date": "2026-08-09",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-08 Human History ticket 05 arrival set session",
+   "date": "2026-08-09",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-08 Job Autopsy ticket 06 reconcile session",
+   "date": "2026-08-09",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-08 Draft board QB-TE tiers weight ruling session",
+   "date": "2026-08-09",
    "bucket": "sessions"
   }
  ],
@@ -84,7 +84,7 @@
    {
     "id": "AI Evaluation And Reliability",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Industry Economics",
@@ -159,7 +159,7 @@
    {
     "id": "Agent Security In Practice",
     "group": "knowledge",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Agent Skill Engineering",
@@ -269,7 +269,7 @@
    {
     "id": "Open Questions",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Plan Mode Spec-First Planning",
@@ -627,6 +627,11 @@
     "recent": false
    },
    {
+    "id": "Job Autopsy State",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Learning News Field Notes Workflow",
     "group": "projects",
     "recent": false
@@ -707,6 +712,11 @@
     "recent": true
    },
    {
+    "id": "One Day in America State",
+    "group": "projects",
+    "recent": true
+   },
+   {
     "id": "Real Price of Everything State",
     "group": "projects",
     "recent": false
@@ -720,6 +730,11 @@
     "id": "Statistical Illusions State",
     "group": "projects",
     "recent": false
+   },
+   {
+    "id": "What Actually Kills You State",
+    "group": "projects",
+    "recent": true
    },
    {
     "id": "Where America Moves State",
@@ -799,7 +814,7 @@
    ],
    [
     3,
-    114
+    115
    ],
    [
     4,
@@ -991,7 +1006,7 @@
    ],
    [
     4,
-    122
+    123
    ],
    [
     5,
@@ -1027,7 +1042,7 @@
    ],
    [
     5,
-    114
+    115
    ],
    [
     6,
@@ -1051,7 +1066,7 @@
    ],
    [
     6,
-    114
+    115
    ],
    [
     7,
@@ -1111,27 +1126,31 @@
    ],
    [
     7,
-    114
+    113
    ],
    [
     7,
-    121
+    115
    ],
    [
     7,
-    127
+    122
    ],
    [
     7,
-    129
+    128
    ],
    [
     7,
-    130
+    131
    ],
    [
     7,
-    133
+    132
+   ],
+   [
+    7,
+    136
    ],
    [
     8,
@@ -1315,7 +1334,7 @@
    ],
    [
     10,
-    114
+    115
    ],
    [
     11,
@@ -1343,7 +1362,7 @@
    ],
    [
     11,
-    114
+    115
    ],
    [
     12,
@@ -1355,7 +1374,7 @@
    ],
    [
     12,
-    114
+    115
    ],
    [
     13,
@@ -1535,11 +1554,11 @@
    ],
    [
     14,
-    122
+    123
    ],
    [
     14,
-    127
+    128
    ],
    [
     15,
@@ -1703,7 +1722,7 @@
    ],
    [
     17,
-    117
+    118
    ],
    [
     18,
@@ -2051,11 +2070,11 @@
    ],
    [
     25,
-    114
+    115
    ],
    [
     25,
-    127
+    128
    ],
    [
     26,
@@ -2107,7 +2126,7 @@
    ],
    [
     27,
-    114
+    115
    ],
    [
     28,
@@ -2223,7 +2242,7 @@
    ],
    [
     30,
-    127
+    128
    ],
    [
     31,
@@ -2675,19 +2694,15 @@
    ],
    [
     41,
-    114
-   ],
-   [
-    41,
     115
    ],
    [
     41,
-    117
+    116
    ],
    [
     41,
-    120
+    118
    ],
    [
     41,
@@ -2695,7 +2710,11 @@
    ],
    [
     41,
-    127
+    122
+   ],
+   [
+    41,
+    128
    ],
    [
     43,
@@ -2739,7 +2758,7 @@
    ],
    [
     45,
-    124
+    125
    ],
    [
     46,
@@ -2887,15 +2906,15 @@
    ],
    [
     53,
-    113
-   ],
-   [
-    53,
     114
    ],
    [
     53,
-    120
+    115
+   ],
+   [
+    53,
+    121
    ],
    [
     54,
@@ -3207,7 +3226,7 @@
    ],
    [
     77,
-    126
+    127
    ],
    [
     78,
@@ -3247,15 +3266,19 @@
    ],
    [
     78,
-    126
-   ],
-   [
-    78,
     127
    ],
    [
+    78,
+    128
+   ],
+   [
     79,
-    132
+    130
+   ],
+   [
+    79,
+    135
    ],
    [
     80,
@@ -3375,7 +3398,7 @@
    ],
    [
     87,
-    127
+    128
    ],
    [
     88,
@@ -3395,15 +3418,15 @@
    ],
    [
     88,
-    122
-   ],
-   [
-    88,
-    126
+    123
    ],
    [
     88,
     127
+   ],
+   [
+    88,
+    128
    ],
    [
     90,
@@ -3423,7 +3446,7 @@
    ],
    [
     90,
-    127
+    128
    ],
    [
     92,
@@ -3443,7 +3466,7 @@
    ],
    [
     95,
-    131
+    133
    ],
    [
     96,
@@ -3451,7 +3474,7 @@
    ],
    [
     96,
-    128
+    129
    ],
    [
     97,
@@ -3467,7 +3490,7 @@
    ],
    [
     97,
-    114
+    115
    ],
    [
     98,
@@ -3495,7 +3518,7 @@
    ],
    [
     99,
-    113
+    114
    ],
    [
     100,
@@ -3511,19 +3534,19 @@
    ],
    [
     101,
-    113
+    114
    ],
    [
     101,
-    114
-   ],
-   [
-    102,
-    114
+    115
    ],
    [
     102,
     115
+   ],
+   [
+    102,
+    116
    ],
    [
     103,
@@ -3531,7 +3554,7 @@
    ],
    [
     103,
-    123
+    124
    ],
    [
     104,
@@ -3543,7 +3566,7 @@
    ],
    [
     104,
-    128
+    129
    ],
    [
     105,
@@ -3555,15 +3578,15 @@
    ],
    [
     106,
-    124
-   ],
-   [
-    108,
-    113
+    125
    ],
    [
     108,
     114
+   ],
+   [
+    108,
+    115
    ],
    [
     109,
@@ -3571,23 +3594,23 @@
    ],
    [
     109,
-    114
-   ],
-   [
-    109,
     115
    ],
    [
     109,
+    116
+   ],
+   [
+    109,
+    129
+   ],
+   [
+    110,
+    115
+   ],
+   [
+    110,
     128
-   ],
-   [
-    110,
-    114
-   ],
-   [
-    110,
-    127
    ],
    [
     111,
@@ -3595,7 +3618,7 @@
    ],
    [
     111,
-    114
+    113
    ],
    [
     111,
@@ -3603,7 +3626,7 @@
    ],
    [
     111,
-    122
+    116
    ],
    [
     111,
@@ -3619,7 +3642,7 @@
    ],
    [
     111,
-    128
+    126
    ],
    [
     111,
@@ -3642,16 +3665,32 @@
     133
    ],
    [
+    111,
+    134
+   ],
+   [
+    111,
+    135
+   ],
+   [
+    111,
+    136
+   ],
+   [
     113,
-    114
+    126
    ],
    [
-    116,
-    118
+    113,
+    130
    ],
    [
-    116,
-    121
+    113,
+    134
+   ],
+   [
+    114,
+    115
    ],
    [
     117,
@@ -3659,11 +3698,7 @@
    ],
    [
     117,
-    120
-   ],
-   [
-    117,
-    121
+    122
    ],
    [
     118,
@@ -3674,28 +3709,44 @@
     121
    ],
    [
-    119,
-    120
+    118,
+    122
    ],
    [
     119,
     121
+   ],
+   [
+    119,
+    122
    ],
    [
     120,
     121
    ],
    [
-    125,
-    128
+    120,
+    122
+   ],
+   [
+    121,
+    122
    ],
    [
     126,
-    127
+    129
    ],
    [
-    128,
-    132
+    127,
+    128
+   ],
+   [
+    129,
+    135
+   ],
+   [
+    130,
+    134
    ]
   ]
  }
