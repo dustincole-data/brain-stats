@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-08-10T08:30:42Z",
+ "generated_at": "2026-08-11T08:30:29Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
-  "runs_today": 0,
+  "runs_today": 2,
   "runs_7d": 8
  },
  "jobs": [
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-10T08:26:40.234967+00:00",
+   "last_run": "2026-08-11T08:28:27.250546+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T09:07:30.352083+00:00",
+   "last_run": "2026-08-10T09:30:01.439918+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T08:48:31.712757+00:00",
+   "last_run": "2026-08-10T09:20:15.884845+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-10T08:15:39.776936+00:00",
+   "last_run": "2026-08-11T08:15:26.762163+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-10T06:31:11.870075+00:00",
+   "last_run": "2026-08-11T06:32:23.021928+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-10T08:00:39.168697+00:00",
+   "last_run": "2026-08-11T08:00:26.256155+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-10T08:29:40.370062+00:00",
+   "last_run": "2026-08-11T08:23:27.114509+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -143,7 +143,7 @@
    "desc": "Script-only deterministic Brain news/RSS ingest",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T09:15:43.198647+00:00",
+   "last_run": "2026-08-10T09:21:31.872529+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -153,7 +153,7 @@
    "desc": "Script-only deterministic Brain AI Radar discovery lane",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T09:26:07.977623+00:00",
+   "last_run": "2026-08-10T09:31:25.583124+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -213,7 +213,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-07T12:00:55.871164+00:00",
+   "last_run": "2026-08-10T09:21:31.890709+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T08:30:28.552314+00:00",
+   "last_run": "2026-08-10T08:30:46.060120+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T13:00:18.241101+00:00",
+   "last_run": "2026-08-10T13:00:19.498051+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-09T11:00:12.036664+00:00",
+   "last_run": "2026-08-10T11:00:29.987416+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,7 +283,7 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-10T08:26:40.195459+00:00",
+   "last_run": "2026-08-11T08:28:27.221310+00:00",
    "last_status": "ok",
    "active": false
   }
@@ -291,50 +291,50 @@
  "runs": [
   {
    "label": "Orchestrator",
-   "summary": "restored Google OAuth token",
-   "at": "2026-08-08T17:15:22.316507Z",
+   "summary": "replaced six project thumbnails; awaiting homepage ID clarification",
+   "at": "2026-08-11T05:16:44.782686Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "provided Google OAuth renewal link",
-   "at": "2026-08-08T17:09:28.933972Z",
+   "summary": "rebuilt Half the Shelf as a verified cocktail intelligence tool",
+   "at": "2026-08-11T00:58:24.184368Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "explained morning brief cron failure",
-   "at": "2026-08-08T17:08:06.308672Z",
+   "summary": "swapped four DustinColeData thumbnails and verified production",
+   "at": "2026-08-10T23:10:55.647518Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "verified signal librarian repair",
-   "at": "2026-08-07T12:08:27.114223Z",
+   "summary": "repaired and verified brain integrity",
+   "at": "2026-08-10T12:13:50.839305Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "started signal repair; requested Google reauth",
-   "at": "2026-08-07T12:00:27.511145Z",
+   "summary": "verified weekly lint hard-failure cause",
+   "at": "2026-08-10T12:08:19.378243Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "investigated Brain health failures",
-   "at": "2026-08-07T11:19:26.758899Z",
+   "summary": "explained unrelated lint and xAI alert",
+   "at": "2026-08-10T11:52:07.996120Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "compiled Namesake share card into Brain wiki",
-   "at": "2026-08-05T14:38:35.120839Z",
+   "summary": "traced xAI credit usage to X research",
+   "at": "2026-08-10T11:39:07.717664Z",
    "status": "ok"
   },
   {
    "label": "Orchestrator",
-   "summary": "removed project cards and fixed fanbase logo; pushed",
-   "at": "2026-08-05T00:19:45.245051Z",
+   "summary": "identified xAI credit alert source",
+   "at": "2026-08-10T11:37:21.244668Z",
    "status": "ok"
   }
  ]
