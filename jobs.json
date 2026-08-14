@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T08:30:19Z",
+ "generated_at": "2026-08-14T08:30:44Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-13T08:29:16.103888+00:00",
+   "last_run": "2026-08-14T08:25:42.583301+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T09:11:00.762641+00:00",
+   "last_run": "2026-08-13T09:07:49.545988+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T08:51:58.886974+00:00",
+   "last_run": "2026-08-13T08:52:01.342508+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-13T08:15:15.622120+00:00",
+   "last_run": "2026-08-14T08:15:42.200275+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-13T06:35:12.057342+00:00",
+   "last_run": "2026-08-14T06:36:37.437788+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-13T08:00:15.130133+00:00",
+   "last_run": "2026-08-14T08:00:41.403577+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -113,8 +113,8 @@
    "desc": "Script-only weekly deterministic Brain wiki lint for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-10T07:00:13.083088+00:00",
-   "last_status": "error",
+   "last_run": "2026-08-13T11:04:47.531633+00:00",
+   "last_status": "ok",
    "active": false
   },
   {
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-13T08:29:16.148637+00:00",
+   "last_run": "2026-08-14T08:17:42.309353+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -143,7 +143,7 @@
    "desc": "Script-only deterministic Brain news/RSS ingest",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T09:15:10.704293+00:00",
+   "last_run": "2026-08-13T09:16:24.965674+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -153,7 +153,7 @@
    "desc": "Script-only deterministic Brain AI Radar discovery lane",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T09:25:55.631881+00:00",
+   "last_run": "2026-08-13T09:25:41.923496+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T08:30:34.370339+00:00",
+   "last_run": "2026-08-13T08:30:23.712063+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T13:00:23.507135+00:00",
+   "last_run": "2026-08-13T13:00:53.381172+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-08-12T11:01:00.342322+00:00",
+   "last_run": "2026-08-13T11:00:47.136014+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,12 +283,18 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-08-13T08:29:16.066018+00:00",
+   "last_run": "2026-08-14T08:25:42.554341+00:00",
    "last_status": "ok",
    "active": false
   }
  ],
  "runs": [
+  {
+   "label": "Orchestrator",
+   "summary": "fixed Brain weekly lint pointer and verified",
+   "at": "2026-08-13T11:10:06.008921Z",
+   "status": "ok"
+  },
   {
    "label": "Orchestrator",
    "summary": "identified missing Brain source filename",
@@ -329,12 +335,6 @@
    "label": "Orchestrator",
    "summary": "diagnosed Brain weekly lint alert",
    "at": "2026-08-11T11:04:39.863891Z",
-   "status": "ok"
-  },
-  {
-   "label": "Orchestrator",
-   "summary": "replaced six project thumbnails; awaiting homepage ID clarification",
-   "at": "2026-08-11T05:16:44.782686Z",
    "status": "ok"
   }
  ]

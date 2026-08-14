@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-13T08:30:19Z",
+ "generated_at": "2026-08-14T08:30:44Z",
  "counts": {
-  "raw_files": 2166,
+  "raw_files": 2229,
   "wiki_pages": 141,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-13 Fantasy Analyst FTN wedge audit session",
-   "date": "2026-08-13",
+   "title": "2026-08-13 Fantasy Analyst data spine session",
+   "date": "2026-08-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-13 Fantasy Analyst strategy reset session",
-   "date": "2026-08-13",
+   "title": "2026-08-13 QB-TE projections vs approved board session",
+   "date": "2026-08-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-13 Time Takes All attribution round session",
-   "date": "2026-08-13",
+   "title": "2026-08-13 Fantasy Analyst ADP capture session",
+   "date": "2026-08-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-12 Build Log Two Dots One Ladder",
+   "title": "2026-08-13 Fantasy Football QB-TE approval gap session",
+   "date": "2026-08-14",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-13 Build log ADP capture that had to start today",
    "date": "2026-08-13",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-12 Fantasy Analyst draft generator build session",
-   "date": "2026-08-13",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-12 Draft board tiers tags collision session",
-   "date": "2026-08-13",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-12 Build Log The Permission I Did Not Need",
+   "title": "2026-08-13 Build Log The Gate That Graded Itself",
    "date": "2026-08-13",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-12 Fantasy Analyst draft window series session",
+   "title": "2026-08-13 Fantasy Football draft-board CSV and gate baseline session",
    "date": "2026-08-13",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-12 Draft board regression repair session",
+   "title": "2026-08-13 Fantasy Analyst foundation map charting session",
    "date": "2026-08-13",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-12 Time Takes All ship session",
+   "title": "2026-08-10 NFFC Format Rules and ADP Research",
    "date": "2026-08-13",
-   "bucket": "sessions"
+   "bucket": "sources"
+  },
+  {
+   "title": "2026-08-10 Fantasy Football 2026 Tight End Ranks and Strategy Research",
+   "date": "2026-08-13",
+   "bucket": "sources"
   }
  ],
  "graph": {
@@ -349,7 +349,7 @@
    {
     "id": "Claude Code",
     "group": "knowledge",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Codex",
