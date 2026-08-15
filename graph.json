@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T08:30:44Z",
+ "generated_at": "2026-08-15T08:30:04Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -28,7 +28,7 @@
   {
    "id": "AI Evaluation And Reliability",
    "group": "knowledge",
-   "links": 48,
+   "links": 49,
    "shell": false
   },
   {
@@ -460,7 +460,7 @@
   {
    "id": "Atelier State",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
@@ -652,7 +652,7 @@
   {
    "id": "DustinColeData State",
    "group": "projects",
-   "links": 24,
+   "links": 23,
    "shell": false
   },
   {
@@ -724,7 +724,7 @@
   {
    "id": "Fantasy Analyst",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
@@ -1080,6 +1080,10 @@
   [
    4,
    87
+  ],
+  [
+   4,
+   120
   ],
   [
    4,
@@ -3243,6 +3247,10 @@
   ],
   [
    76,
+   120
+  ],
+  [
+   76,
    135
   ],
   [
@@ -3564,10 +3572,6 @@
   [
    108,
    113
-  ],
-  [
-   108,
-   120
   ],
   [
    108,

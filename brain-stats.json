@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-14T08:30:44Z",
+ "generated_at": "2026-08-15T08:30:04Z",
  "counts": {
-  "raw_files": 2229,
+  "raw_files": 2259,
   "wiki_pages": 141,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-13 Fantasy Analyst data spine session",
-   "date": "2026-08-14",
+   "title": "2026-08-14 Time Takes All image supply lane B session",
+   "date": "2026-08-15",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-13 QB-TE projections vs approved board session",
-   "date": "2026-08-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-13 Fantasy Analyst ADP capture session",
-   "date": "2026-08-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-13 Fantasy Football QB-TE approval gap session",
-   "date": "2026-08-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-13 Build log ADP capture that had to start today",
-   "date": "2026-08-13",
+   "title": "2026-08-14 ffdraft holdout-budget build-log",
+   "date": "2026-08-15",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-13 Build Log The Gate That Graded Itself",
-   "date": "2026-08-13",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-13 Fantasy Football draft-board CSV and gate baseline session",
-   "date": "2026-08-13",
+   "title": "2026-08-14 Fantasy Analyst holdout ruling session",
+   "date": "2026-08-15",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-13 Fantasy Analyst foundation map charting session",
-   "date": "2026-08-13",
+   "title": "2026-08-14 Fantasy Football QB-TE decision engine design session",
+   "date": "2026-08-15",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-10 NFFC Format Rules and ADP Research",
-   "date": "2026-08-13",
-   "bucket": "sources"
+   "title": "2026-08-14 Fantasy Analyst piece killed session",
+   "date": "2026-08-15",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-10 Fantasy Football 2026 Tight End Ranks and Strategy Research",
-   "date": "2026-08-13",
-   "bucket": "sources"
+   "title": "2026-08-14 Draft-day rehearsal and K-DST ruling session",
+   "date": "2026-08-15",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-14 Human History cut-out promotion session",
+   "date": "2026-08-14",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-14 Fantasy Analyst first confirmed claim session",
+   "date": "2026-08-14",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-14 Human History recut review pass session",
+   "date": "2026-08-14",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-14 ffdraft landmine map explore session",
+   "date": "2026-08-14",
+   "bucket": "sessions"
   }
  ],
  "graph": {
@@ -184,7 +184,7 @@
    {
     "id": "Canvas Resync From Its Box",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Career Transition 2026-2027",
@@ -544,7 +544,7 @@
    {
     "id": "Climate Fingerprint State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Data Nerve Brand System",
@@ -764,7 +764,7 @@
    {
     "id": "Why Do They State",
     "group": "projects",
-    "recent": true
+    "recent": false
    }
   ],
   "edges": [
@@ -1023,6 +1023,10 @@
    [
     4,
     91
+   ],
+   [
+    4,
+    124
    ],
    [
     4,
@@ -3274,6 +3278,10 @@
    ],
    [
     79,
+    124
+   ],
+   [
+    79,
     139
    ],
    [
@@ -3635,10 +3643,6 @@
    [
     112,
     117
-   ],
-   [
-    112,
-    124
    ],
    [
     112,
