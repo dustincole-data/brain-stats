@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T08:30:04Z",
+ "generated_at": "2026-08-16T08:30:05Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -688,7 +688,7 @@
   {
    "id": "Fanbase Weather Content Playbook",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
@@ -718,7 +718,7 @@
   {
    "id": "Fanbase Weather",
    "group": "projects",
-   "links": 7,
+   "links": 6,
    "shell": false
   },
   {
@@ -3635,6 +3635,10 @@
   ],
   [
    114,
+   117
+  ],
+  [
+   114,
    119
   ],
   [
@@ -3660,10 +3664,6 @@
   [
    117,
    118
-  ],
-  [
-   117,
-   119
   ],
   [
    118,
