@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-16T08:30:05Z",
+ "generated_at": "2026-08-17T08:30:59Z",
  "counts": {
-  "raw_files": 2314,
+  "raw_files": 2357,
   "wiki_pages": 141,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-15 ffdraft value-horizon exact solver session",
-   "date": "2026-08-16",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-15 Fantasy Analyst draft tools session",
-   "date": "2026-08-16",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-15 Fantasy Analyst role-profile graphics session",
-   "date": "2026-08-16",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-15 ffdraft value-horizon build-log",
-   "date": "2026-08-16",
+   "title": "2026-08-17 Concept-Discovery Candidate Topics Report",
+   "date": "2026-08-17",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-15 ffdraft value-horizon redesign session",
-   "date": "2026-08-16",
+   "title": "2026-08-16 ffdraft draft-day-fixes ticket 10 session",
+   "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-15 ffdraft pick-suggester rehearsal and cutover session",
-   "date": "2026-08-16",
+   "title": "2026-08-16 Time Takes All ticket 02 close session",
+   "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-15 Time Takes All landing blink and item sizing session",
-   "date": "2026-08-16",
+   "title": "2026-08-16 ffdraft board rework close and draft-day defects session",
+   "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-15 ffdraft build-log rehearsal gate",
-   "date": "2026-08-16",
+   "title": "2026-08-16 Fantasy Analyst real-data swap session",
+   "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-15 Fantasy Football K DST Pricing And Strip session",
-   "date": "2026-08-15",
-   "bucket": "sessions"
+   "title": "2026-08-14 Davis Mattek Positional Scoring Curves Vs ADP",
+   "date": "2026-08-17",
+   "bucket": "sources"
   },
   {
-   "title": "2026-08-15 Build Log Stale Tail And Verification By Disagreement",
-   "date": "2026-08-15",
-   "bucket": "captures"
+   "title": "2026-08-16 how to build an agentic claude os system in 3 steps",
+   "date": "2026-08-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-16 This New Obsidian + Claude OS Setup is INSANE",
+   "date": "2026-08-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-16 This Claude Code x Obsidian Agentic OS Will Be The New Meta",
+   "date": "2026-08-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-15 The Rise of CaaS Context-as-a-Service for Agentic AI \u2014 Omer Primor, Bright Data",
+   "date": "2026-08-17",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -579,7 +579,7 @@
    {
     "id": "Deep Time State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Design Inspo",
