@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T08:30:59Z",
+ "generated_at": "2026-08-18T08:30:42Z",
  "counts": {
-  "raw_files": 2357,
+  "raw_files": 2379,
   "wiki_pages": 141,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,52 +9,52 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-17 Concept-Discovery Candidate Topics Report",
+   "title": "2026-08-17 Two Rooms At Once Draft",
+   "date": "2026-08-18",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-08-17 The Co-Manager Went Quiet At Pick Eight Draft",
    "date": "2026-08-17",
    "bucket": "captures"
   },
   {
-   "title": "2026-08-16 ffdraft draft-day-fixes ticket 10 session",
+   "title": "2026-08-17 Build Log Wrong Board Decoded",
+   "date": "2026-08-17",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-08-17 ffdraft ticket 16 cons on the cards session",
    "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-16 Time Takes All ticket 02 close session",
+   "title": "2026-08-17 ffdraft draft-day-fixes ticket 14 session",
    "date": "2026-08-17",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-16 ffdraft board rework close and draft-day defects session",
-   "date": "2026-08-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-16 Fantasy Analyst real-data swap session",
-   "date": "2026-08-17",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-14 Davis Mattek Positional Scoring Curves Vs ADP",
-   "date": "2026-08-17",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-08-16 how to build an agentic claude os system in 3 steps",
+   "title": "2026-08-17 The Ultimate Guide to Making Your Entire Development Cycle AI Native",
    "date": "2026-08-17",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-16 This New Obsidian + Claude OS Setup is INSANE",
+   "title": "2026-08-17 Stop overthinking which AI to use. Do this",
    "date": "2026-08-17",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-16 This Claude Code x Obsidian Agentic OS Will Be The New Meta",
+   "title": "2026-08-17 Does harness matter more than the model",
    "date": "2026-08-17",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-15 The Rise of CaaS Context-as-a-Service for Agentic AI \u2014 Omer Primor, Bright Data",
+   "title": "2026-08-17 AI Isn't A Bubble. That's How NVIDIA's $500 Billion Push Ends Up In Your Retirement",
+   "date": "2026-08-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-17",
    "date": "2026-08-17",
    "bucket": "signal"
   }
@@ -574,7 +574,7 @@
    {
     "id": "Data Nerve State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Deep Time State",
@@ -604,7 +604,7 @@
    {
     "id": "Asked State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Brand Research OS",
@@ -629,12 +629,12 @@
    {
     "id": "Half The Shelf",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Job Autopsy State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Learning News Field Notes Workflow",
@@ -689,7 +689,7 @@
    {
     "id": "2026 Fantasy Football Research",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fantasy Football Draft System",
@@ -754,12 +754,12 @@
    {
     "id": "What Actually Kills You State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Where America Moves State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Why Do They State",
