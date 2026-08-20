@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-19T08:30:14Z",
+ "generated_at": "2026-08-20T08:30:56Z",
  "counts": {
-  "raw_files": 2386,
+  "raw_files": 2425,
   "wiki_pages": 141,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-18 ffdraft ticket 17 injury session",
-   "date": "2026-08-19",
+   "title": "2026-08-19 ffdraft ticket 21 bulk paste session",
+   "date": "2026-08-20",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-18 Fanbase Weather tier-2 art pass session",
+   "title": "2026-08-19 While my guitar gently speaks \u2014 Todd Fisher, Philo Ventures",
    "date": "2026-08-19",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-18 ffdraft master session gate isolation and ticket 12 session",
-   "date": "2026-08-19",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-18 Two Rooms At Once newsletter session",
-   "date": "2026-08-19",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-18",
-   "date": "2026-08-18",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-18 Teaching Everyone to Fish for Tokens",
-   "date": "2026-08-18",
+   "title": "2026-08-19 Voice agents with Realtime Video \u2014 Sidney Primas, LemonSlice",
+   "date": "2026-08-19",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-18 [AINews] Stripe buys OpenRouter for $7B",
-   "date": "2026-08-18",
+   "title": "2026-08-19 Generative Video at the Speed of Light \u2014 Keegan McCallum, uRun",
+   "date": "2026-08-19",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-17 Two Rooms At Once Draft",
-   "date": "2026-08-18",
-   "bucket": "captures"
+   "title": "2026-08-19 Infra behind Krea 2 How to train and serve at scale \u2014 Gabriel Jorge Menezes, Krea.ai",
+   "date": "2026-08-19",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-17 The Co-Manager Went Quiet At Pick Eight Draft",
-   "date": "2026-08-17",
-   "bucket": "captures"
+   "title": "2026-08-19 ffdraft ticket 16 cons on the cards session",
+   "date": "2026-08-19",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-17 Build Log Wrong Board Decoded",
-   "date": "2026-08-17",
-   "bucket": "captures"
+   "title": "2026-08-19 The Next Medium Why Real-Time Interactive Video Changes Everything \u2014 Ahmed Ahres, Reactor",
+   "date": "2026-08-19",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-19 From Ambient Documentation to Clinical Intelligence \u2014 Chaitanya Asawa, Abridge",
+   "date": "2026-08-19",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-19 Guardrails First Engineering Member-Facing Health AI \u2014 Rashi Agrawal, Hinge Health",
+   "date": "2026-08-19",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-08-19 Shipping AI to a Million Patients Without an AB Test \u2014 Jared Joselowitz, Ufonia",
+   "date": "2026-08-19",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -624,7 +624,7 @@
    {
     "id": "DustinColeData State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Half The Shelf",
