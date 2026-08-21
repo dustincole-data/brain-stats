@@ -1,30 +1,30 @@
 {
- "generated_at": "2026-08-20T08:30:57Z",
+ "generated_at": "2026-08-21T08:30:54Z",
  "leader": {
-  "team": "Florida",
-  "score": 47
+  "team": "Auburn",
+  "score": 40
  },
  "top": [
   {
-   "team": "Florida",
-   "score": 47
-  },
-  {
-   "team": "USC",
-   "score": 47
-  },
-  {
-   "team": "Kentucky",
-   "score": 44
+   "team": "Auburn",
+   "score": 40
   },
   {
    "team": "Ole Miss",
-   "score": 44
+   "score": 38
   },
   {
-   "team": "Nebraska",
-   "score": 44
+   "team": "Notre Dame",
+   "score": 38
+  },
+  {
+   "team": "LSU",
+   "score": 37
+  },
+  {
+   "team": "Kentucky",
+   "score": 36
   }
  ],
- "date": "2026-08-19"
+ "date": "2026-08-20"
 }
