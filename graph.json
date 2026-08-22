@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T08:30:53Z",
+ "generated_at": "2026-08-22T08:30:47Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -484,7 +484,7 @@
   {
    "id": "Attention Half-Life",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
@@ -634,13 +634,13 @@
   {
    "id": "Delay Cascade",
    "group": "projects",
-   "links": 1,
-   "shell": true
+   "links": 2,
+   "shell": false
   },
   {
    "id": "Design Inspo",
    "group": "projects",
-   "links": 4,
+   "links": 6,
    "shell": false
   },
   {
@@ -3313,6 +3313,10 @@
   ],
   [
    80,
+   106
+  ],
+  [
+   80,
    114
   ],
   [
@@ -3558,6 +3562,10 @@
   [
    104,
    129
+  ],
+  [
+   105,
+   106
   ],
   [
    105,
