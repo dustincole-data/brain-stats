@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-22T08:30:47Z",
+ "generated_at": "2026-08-23T08:30:13Z",
  "counts": {
-  "raw_files": 2516,
+  "raw_files": 2547,
   "wiki_pages": 148,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,7 +9,32 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-21 ffdraft ticket 28 masthead vintages session-2",
+   "title": "2026-08-22 Fanbase Weather ranking tiebreak session",
+   "date": "2026-08-23",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-22 ffdraft flyers deploy build-log",
+   "date": "2026-08-22",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-22 Fantasy Football flyers deploy and refill ruling session",
+   "date": "2026-08-22",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-22 Government Buys explorable build-log",
+   "date": "2026-08-22",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-22 Government Buys explorable redesign session",
+   "date": "2026-08-22",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-22 Fantasy Football freshness audit session",
    "date": "2026-08-22",
    "bucket": "sessions"
   },
@@ -19,43 +44,18 @@
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-21 Delay Cascade build-log-2",
-   "date": "2026-08-21",
+   "title": "2026-08-22 ffdraft doctrine 24 build-log",
+   "date": "2026-08-22",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-21 Delay Cascade turnaround reframe session",
-   "date": "2026-08-21",
+   "title": "2026-08-22 ffdraft doctrine 24 session",
+   "date": "2026-08-22",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-21 Build Log Attention Half-Life Art Direction",
-   "date": "2026-08-21",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-21 Attention Half-Life art direction session",
-   "date": "2026-08-21",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-21 ffdraft masthead vintages build-log",
-   "date": "2026-08-21",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-21 Wikiwars Build Log",
-   "date": "2026-08-21",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-21 Wikiwars Enwiki Edit-War Ranking session",
-   "date": "2026-08-21",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-21 ffdraft ticket 28 masthead vintages session",
-   "date": "2026-08-21",
+   "title": "2026-08-22 Wikiwars Recovery And Merge session",
+   "date": "2026-08-22",
    "bucket": "sessions"
   }
  ],
@@ -474,7 +474,7 @@
    {
     "id": "Atelier State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Attention Half-Life",
@@ -704,7 +704,7 @@
    {
     "id": "Fanbase Weather Technical Architecture",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Fanbase Weather",
