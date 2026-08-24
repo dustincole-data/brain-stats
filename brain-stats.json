@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-23T08:30:13Z",
+ "generated_at": "2026-08-24T08:30:11Z",
  "counts": {
-  "raw_files": 2547,
+  "raw_files": 2571,
   "wiki_pages": 148,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-22 Fanbase Weather ranking tiebreak session",
+   "title": "2026-08-24 Concept-Discovery Candidate Topics Report",
+   "date": "2026-08-24",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-08-23 Government Buys explorable build session",
+   "date": "2026-08-24",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-23 Fantasy Football ticket 41 pull guards session",
+   "date": "2026-08-24",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-23 Government Buys build-log",
+   "date": "2026-08-23",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-08-23 Government Buys mockups approved session",
    "date": "2026-08-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-22 ffdraft flyers deploy build-log",
-   "date": "2026-08-22",
+   "title": "2026-08-23 ffdraft ticket 39 build-log",
+   "date": "2026-08-23",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-08-23 Fantasy Football ticket 39 plan boundary session",
+   "date": "2026-08-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-22 Fantasy Football flyers deploy and refill ruling session",
-   "date": "2026-08-22",
+   "title": "2026-08-23 Fantasy Football ticket 38 My tiers seed session",
+   "date": "2026-08-23",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-22 Government Buys explorable build-log",
-   "date": "2026-08-22",
-   "bucket": "sessions"
+   "title": "2026-08-23 ffdraft ticket 37 build-log",
+   "date": "2026-08-23",
+   "bucket": "captures"
   },
   {
-   "title": "2026-08-22 Government Buys explorable redesign session",
-   "date": "2026-08-22",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-22 Fantasy Football freshness audit session",
-   "date": "2026-08-22",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-21 Attention Half-Life Orbit rebuild session",
-   "date": "2026-08-22",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-22 ffdraft doctrine 24 build-log",
-   "date": "2026-08-22",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-22 ffdraft doctrine 24 session",
-   "date": "2026-08-22",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-22 Wikiwars Recovery And Merge session",
-   "date": "2026-08-22",
+   "title": "2026-08-23 Fantasy Football ticket 37 build and deploy session",
+   "date": "2026-08-23",
    "bucket": "sessions"
   }
  ],
@@ -729,7 +729,7 @@
    {
     "id": "Human History State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Latent State",
