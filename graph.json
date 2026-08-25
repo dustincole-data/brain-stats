@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T08:30:11Z",
+ "generated_at": "2026-08-25T08:30:05Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -226,7 +226,7 @@
   {
    "id": "Model Routing Matrix",
    "group": "knowledge",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
@@ -292,7 +292,7 @@
   {
    "id": "Signal Digest",
    "group": "knowledge",
-   "links": 32,
+   "links": 33,
    "shell": false
   },
   {
@@ -2554,6 +2554,10 @@
   [
    36,
    46
+  ],
+  [
+   37,
+   48
   ],
   [
    37,
