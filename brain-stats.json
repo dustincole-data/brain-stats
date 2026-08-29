@@ -1,62 +1,62 @@
 {
- "generated_at": "2026-08-28T08:30:55Z",
+ "generated_at": "2026-08-29T08:30:04Z",
  "counts": {
-  "raw_files": 2605,
-  "wiki_pages": 154,
+  "raw_files": 2683,
+  "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-27 Government Buys legibility session",
-   "date": "2026-08-27",
+   "title": "2026-08-29 How We Met theme directions session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 Attention Half-Life anniversary port and art direction session",
-   "date": "2026-08-27",
+   "title": "2026-08-29 How Tall theme and beat 3 session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 What America Eats data and findings session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 Attention Half-Life The Cast marks session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 How We Met data and findings inventory session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 What America Eats share card voice session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 Year of Everything data and findings inventory session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 How We Met art direction session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 How Tall data and findings inventory session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 The Day You Were Born site build session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 Attention Half-Life new premise session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 How Tall words and rigour session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 Attention Half-Life motion and premise rejection session",
-   "date": "2026-08-27",
+   "title": "2026-08-28 What America Eats display type session",
+   "date": "2026-08-29",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-27",
-   "date": "2026-08-27",
-   "bucket": "signal"
+   "title": "2026-08-28 Year of Everything weddings and errata session",
+   "date": "2026-08-29",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-27 Why performant code matters (but gets widely ignored), with Casey Muratori",
-   "date": "2026-08-27",
-   "bucket": "signal"
+   "title": "2026-08-28 How We Met section one rebuild session",
+   "date": "2026-08-29",
+   "bucket": "sessions"
   }
  ],
  "graph": {
@@ -604,7 +604,7 @@
    {
     "id": "Daylight Atlas",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Deep Time State",
@@ -619,7 +619,7 @@
    {
     "id": "Design Inspo",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Directed State",
@@ -795,6 +795,11 @@
     "id": "Statistical Illusions State",
     "group": "projects",
     "recent": false
+   },
+   {
+    "id": "The Day You Were Born State",
+    "group": "projects",
+    "recent": true
    },
    {
     "id": "Cause of Death State",
@@ -1247,7 +1252,7 @@
    ],
    [
     7,
-    152
+    153
    ],
    [
     8,
@@ -2259,11 +2264,15 @@
    ],
    [
     29,
-    149
+    147
    ],
    [
     29,
-    153
+    150
+   ],
+   [
+    29,
+    154
    ],
    [
     30,
@@ -3391,7 +3400,7 @@
    ],
    [
     83,
-    151
+    152
    ],
    [
     84,
@@ -3735,7 +3744,7 @@
    ],
    [
     116,
-    147
+    148
    ],
    [
     117,
@@ -3831,7 +3840,7 @@
    ],
    [
     120,
-    149
+    148
    ],
    [
     120,
@@ -3848,6 +3857,10 @@
    [
     120,
     153
+   ],
+   [
+    120,
+    154
    ],
    [
     121,
@@ -3915,15 +3928,19 @@
    ],
    [
     143,
-    147
-   ],
-   [
-    147,
     148
    ],
    [
     147,
-    153
+    154
+   ],
+   [
+    148,
+    149
+   ],
+   [
+    148,
+    154
    ]
   ]
  }
