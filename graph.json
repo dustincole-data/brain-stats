@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T08:30:55Z",
+ "generated_at": "2026-08-31T08:30:42Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -28,7 +28,7 @@
   {
    "id": "AI Evaluation And Reliability",
    "group": "knowledge",
-   "links": 54,
+   "links": 53,
    "shell": false
   },
   {
@@ -178,7 +178,7 @@
   {
    "id": "Data Story Standards",
    "group": "knowledge",
-   "links": 7,
+   "links": 8,
    "shell": false
   },
   {
@@ -790,13 +790,13 @@
   {
    "id": "How Tall State",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
    "id": "How We Met State",
    "group": "projects",
-   "links": 2,
+   "links": 4,
    "shell": false
   },
   {
@@ -832,7 +832,7 @@
   {
    "id": "Namesake State",
    "group": "projects",
-   "links": 5,
+   "links": 6,
    "shell": false
   },
   {
@@ -1164,10 +1164,6 @@
   [
    4,
    80
-  ],
-  [
-   4,
-   81
   ],
   [
    4,
@@ -2300,6 +2296,10 @@
   [
    28,
    85
+  ],
+  [
+   29,
+   81
   ],
   [
    29,
@@ -3860,6 +3860,14 @@
   [
    129,
    130
+  ],
+  [
+   131,
+   132
+  ],
+  [
+   132,
+   138
   ],
   [
    135,

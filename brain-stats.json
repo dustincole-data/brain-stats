@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-30T08:30:55Z",
+ "generated_at": "2026-08-31T08:30:42Z",
  "counts": {
-  "raw_files": 2716,
+  "raw_files": 2743,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-29 Building the Engine While Flying the Plane Launching the Figma MCP Server \u2014 Jesse Lumarie, Figma",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-31 Concept-Discovery Candidate Topics Report",
+   "date": "2026-08-31",
+   "bucket": "captures"
   },
   {
-   "title": "2026-08-29 Building uReview, Uber\u2019s Multi-Agent Code Review Engine \u2014 Will Bond & Ameya Ketkar, Uber",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 Attention Half-Life theme and plate session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 AI Evals for Cross-Functional Teams \u2014 Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 How Tall second pass session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 Productionizing LLM Gateways Architecture, Tradeoffs and Hard Lessons \u2014 Kanish Manuja, Twilio",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 How We Met theme and first plate session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 How to avoid disaster when vibe-coding a billing engine \u2014 Andrew Garvin, Stripe",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 How Tall rebuild session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 From AI-Assisted to AI-Native Building a Frontier Development Team \u2014 Clare Liguori, AWS",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 Attention Half-Life restart session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 How to Get Your Org to Adopt Coding Agents (Without Shipping Garbage) \u2014 Eyal Blum, Figma",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 Year of Everything re-dress session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 How do you diffuse AI into the real world \u2014 Varun Shenoy, Long Lake",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 How We Met guard session",
+   "date": "2026-08-31",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 Your Code Has Bugs. Lean4 Has Proofs Formal Verification for Engineers \u2014 Varun Pant, AWS",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 How We Met remine session",
+   "date": "2026-08-30",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-08-29 AI-Native Organisations Run on Skills How to Structure and Scale Them \u2014 Imad Touil, QuantumBlack",
-   "date": "2026-08-29",
-   "bucket": "signal"
+   "title": "2026-08-30 Year of Everything walk-close session",
+   "date": "2026-08-30",
+   "bucket": "sessions"
   }
  ],
  "graph": {
@@ -1093,10 +1093,6 @@
    [
     4,
     83
-   ],
-   [
-    4,
-    84
    ],
    [
     4,
@@ -2249,6 +2245,10 @@
    [
     28,
     88
+   ],
+   [
+    29,
+    84
    ],
    [
     29,
@@ -3917,6 +3917,14 @@
    [
     133,
     134
+   ],
+   [
+    135,
+    136
+   ],
+   [
+    136,
+    142
    ],
    [
     139,
