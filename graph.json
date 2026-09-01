@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T08:30:42Z",
+ "generated_at": "2026-09-01T08:30:28Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -616,13 +616,13 @@
   {
    "id": "Data Nerve Newsletter",
    "group": "projects",
-   "links": 15,
+   "links": 14,
    "shell": false
   },
   {
    "id": "Data Nerve State",
    "group": "projects",
-   "links": 4,
+   "links": 5,
    "shell": false
   },
   {
@@ -730,7 +730,7 @@
   {
    "id": "Sensor Data-Quality Monitor",
    "group": "projects",
-   "links": 4,
+   "links": 3,
    "shell": false
   },
   {
@@ -784,7 +784,7 @@
   {
    "id": "Fantasy Football Draft System",
    "group": "projects",
-   "links": 5,
+   "links": 4,
    "shell": false
   },
   {
@@ -880,14 +880,14 @@
   {
    "id": "What America Eats State",
    "group": "projects",
-   "links": 2,
+   "links": 3,
    "shell": false
   },
   {
    "id": "What The Government Bought",
    "group": "projects",
-   "links": 1,
-   "shell": true
+   "links": 2,
+   "shell": false
   },
   {
    "id": "Where America Moves State",
@@ -3603,10 +3603,6 @@
   ],
   [
    102,
-   103
-  ],
-  [
-   102,
    115
   ],
   [
@@ -3619,11 +3615,19 @@
   ],
   [
    103,
+   116
+  ],
+  [
+   103,
    120
   ],
   [
    103,
-   121
+   146
+  ],
+  [
+   103,
+   147
   ],
   [
    104,
@@ -3732,10 +3736,6 @@
   [
    116,
    121
-  ],
-  [
-   116,
-   130
   ],
   [
    116,

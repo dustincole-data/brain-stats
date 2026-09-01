@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-31T08:30:42Z",
+ "generated_at": "2026-09-01T08:30:28Z",
  "counts": {
-  "raw_files": 2743,
+  "raw_files": 2780,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-08-31 Concept-Discovery Candidate Topics Report",
-   "date": "2026-08-31",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-08-30 Attention Half-Life theme and plate session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 How We Met walk finished session",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 How Tall second pass session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 How Tall ship session",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 How We Met theme and first plate session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 Record Days ship session",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 How Tall rebuild session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 Attention Half-Life step 4 closes session",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 Attention Half-Life restart session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 What America Eats closing leaderboard session",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 Year of Everything re-dress session",
-   "date": "2026-08-31",
+   "title": "2026-08-31 How We Met three more sections session-2",
+   "date": "2026-09-01",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 How We Met guard session",
+   "title": "2026-08-31 What America Eats mobile and life pass part 2 session",
    "date": "2026-08-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 How We Met remine session",
-   "date": "2026-08-30",
+   "title": "2026-08-31 How Tall on dustincoledata session",
+   "date": "2026-08-31",
    "bucket": "sessions"
   },
   {
-   "title": "2026-08-30 Year of Everything walk-close session",
-   "date": "2026-08-30",
+   "title": "2026-08-31 What America Eats clarity audit handoff",
+   "date": "2026-08-31",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-08-31 Attention Half-Life F9 F10 and the settle correction session",
+   "date": "2026-08-31",
    "bucket": "sessions"
   }
  ],
@@ -64,7 +64,7 @@
    {
     "id": "Brain Index",
     "group": "root",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Wiki Operating Rules",
@@ -599,7 +599,7 @@
    {
     "id": "Data Nerve State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Daylight Atlas",
@@ -734,7 +734,7 @@
    {
     "id": "Fantasy Football Draft System",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "How Tall State",
@@ -3660,10 +3660,6 @@
    ],
    [
     106,
-    107
-   ],
-   [
-    106,
     119
    ],
    [
@@ -3676,11 +3672,19 @@
    ],
    [
     107,
+    120
+   ],
+   [
+    107,
     124
    ],
    [
     107,
-    125
+    150
+   ],
+   [
+    107,
+    151
    ],
    [
     108,
@@ -3789,10 +3793,6 @@
    [
     120,
     125
-   ],
-   [
-    120,
-    134
    ],
    [
     120,
