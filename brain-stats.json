@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-09-01T08:30:28Z",
+ "generated_at": "2026-09-02T08:30:31Z",
  "counts": {
-  "raw_files": 2780,
+  "raw_files": 2782,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-09-01",
+   "date": "2026-09-01",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-01 [AINews] Fal\u2019s H3 Max Live breaks the infinite videogen barrier",
+   "date": "2026-09-01",
+   "bucket": "signal"
+  },
   {
    "title": "2026-08-31 How We Met walk finished session",
    "date": "2026-09-01",
@@ -45,16 +55,6 @@
   },
   {
    "title": "2026-08-31 How Tall on dustincoledata session",
-   "date": "2026-08-31",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-31 What America Eats clarity audit handoff",
-   "date": "2026-08-31",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-08-31 Attention Half-Life F9 F10 and the settle correction session",
    "date": "2026-08-31",
    "bucket": "sessions"
   }
