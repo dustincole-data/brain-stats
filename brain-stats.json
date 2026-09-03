@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T08:30:31Z",
+ "generated_at": "2026-09-03T08:30:11Z",
  "counts": {
-  "raw_files": 2782,
+  "raw_files": 2816,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-01",
-   "date": "2026-09-01",
+   "title": "2026-09-02 Teaching agents to pay \u2014 Anna Spysz, Stripe",
+   "date": "2026-09-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-01 [AINews] Fal\u2019s H3 Max Live breaks the infinite videogen barrier",
-   "date": "2026-09-01",
+   "title": "2026-09-02 Multimodal Collaborative Agents for Next-Gen Commerce \u2014 Nidhi Kaushik Vyas, Google DeepMind",
+   "date": "2026-09-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-08-31 How We Met walk finished session",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 Why Your AI Agent Needs a Wallet USDC and Nanopayments \u2014 Harshal Bhangale, Circle",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 How Tall ship session",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 When AI Agents Pay and Sellers Monetize Building x402 Apps on AWS \u2014 Anil Nadiminti, AWS",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 Record Days ship session",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 Your Agent Just Authorized What! \u2014 Jay Mok & Ben Coumes, Paypal",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 Attention Half-Life step 4 closes session",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 Agent Spending Without Controls \u2014 Rodrigo Coelho & Pranav Maheshwari, Edge & Node",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 What America Eats closing leaderboard session",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 The End of the Static Screen Architecting Intent-Driven UX \u2014 Gus Iwanaga, commercetools",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 How We Met three more sections session-2",
-   "date": "2026-09-01",
-   "bucket": "sessions"
+   "title": "2026-09-02 Beyond the Lethal Trifecta Agentic Commerce on the Open Internet \u2014 David Levine, Kiduna Club",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 What America Eats mobile and life pass part 2 session",
-   "date": "2026-08-31",
-   "bucket": "sessions"
+   "title": "2026-09-02 Cursor just got BANNED (It's because of Elon...)",
+   "date": "2026-09-02",
+   "bucket": "signal"
   },
   {
-   "title": "2026-08-31 How Tall on dustincoledata session",
-   "date": "2026-08-31",
-   "bucket": "sessions"
+   "title": "2026-09-02 Anthropic went CRAZY (MythosFable 5.1)",
+   "date": "2026-09-02",
+   "bucket": "signal"
   }
  ],
  "graph": {
@@ -629,7 +629,7 @@
    {
     "id": "DSCI-D592 State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Dustin Career Transition State",
