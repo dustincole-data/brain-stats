@@ -1,13 +1,28 @@
 {
- "generated_at": "2026-09-05T08:30:32Z",
+ "generated_at": "2026-09-06T08:30:05Z",
  "counts": {
-  "raw_files": 2831,
+  "raw_files": 2833,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-09-05",
+   "date": "2026-09-05",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-05 OpenAI's rogue agents were caught communicating via public wikis",
+   "date": "2026-09-05",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-05 The Pelican comparison grid for Astra is pretty interesting",
+   "date": "2026-09-05",
+   "bucket": "signal"
+  },
   {
    "title": "2026-09-04",
    "date": "2026-09-04",
@@ -40,21 +55,6 @@
   },
   {
    "title": "2026-09-03 Your company brain will leak secrets how we stopped it for big banks \u2014 Tanmai Gopal, PromptQL",
-   "date": "2026-09-03",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-03 From coding to Knowledge work agents \u2014 Karan Vaidya, Composio",
-   "date": "2026-09-03",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-03 GOOGLE IS BACK! (Gemini 3.8 Flash)",
-   "date": "2026-09-03",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-03 Use Fable 5.1!!",
    "date": "2026-09-03",
    "bucket": "signal"
   }
@@ -624,7 +624,7 @@
    {
     "id": "Directed State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "DSCI-D592 State",
