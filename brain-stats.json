@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-07T08:30:17Z",
+ "generated_at": "2026-09-08T08:30:59Z",
  "counts": {
-  "raw_files": 2837,
+  "raw_files": 2860,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-07 Concept-Discovery Candidate Topics Report",
+   "title": "2026-09-07 ASTRA IS HERE (GPT-6 RELEASED)",
    "date": "2026-09-07",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-09-06",
-   "date": "2026-09-06",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-06 OpenClaw Power, MacBook Simplicity Five Days With Grok Bot",
-   "date": "2026-09-06",
+   "title": "2026-09-07 GPT-6 is HERE!",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-05",
-   "date": "2026-09-05",
+   "title": "2026-09-07 GPT-6 IS HERE!!! (ASTRA)",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-05 OpenAI's rogue agents were caught communicating via public wikis",
-   "date": "2026-09-05",
+   "title": "2026-09-07 What GPT-6 Astra Can Do",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-05 The Pelican comparison grid for Astra is pretty interesting",
-   "date": "2026-09-05",
+   "title": "2026-09-07 3 Things to Try With GPT-6 Astra",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-04",
-   "date": "2026-09-04",
+   "title": "2026-09-07 I've had early access to Astra... it's INSANE",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-04 GPT-6 Astra an automated AI Engineer you can hire for $6 an hour",
-   "date": "2026-09-04",
+   "title": "2026-09-07 NVIDIA Doubles Down on Local AI With PAIR",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-04 [AINews] GPT-6 Astra OpenAI\u2019s biggest LLM launch of all time",
-   "date": "2026-09-04",
+   "title": "2026-09-07 GPT 6 Astra Is Here (And It's Better Than Fable 5.1)",
+   "date": "2026-09-07",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-03 Everyone Gets A Software Company \u2014 Benjamin Guo, Zo Computer",
-   "date": "2026-09-03",
+   "title": "2026-09-07 I Tested GPT 6 Astra vs Fable 5.1 (No Hype Assessment)",
+   "date": "2026-09-07",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-07 AI News in 5 Mins GPT-6 Astra",
+   "date": "2026-09-07",
    "bucket": "signal"
   }
  ],
@@ -209,7 +209,7 @@
    {
     "id": "Data Story Standards",
     "group": "knowledge",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Fine-Tuning And Preference Optimization",
@@ -484,7 +484,7 @@
    {
     "id": "Attention Half-Life",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Radar Discovery Lane",
@@ -599,7 +599,7 @@
    {
     "id": "Data Nerve State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Daylight Atlas",
@@ -664,7 +664,7 @@
    {
     "id": "DustinColeData State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Half The Shelf",
@@ -739,12 +739,12 @@
    {
     "id": "How Tall State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "How We Met State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Human History State",
@@ -814,12 +814,12 @@
    {
     "id": "What America Eats State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "What The Government Bought",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Where America Moves State",
@@ -2081,6 +2081,10 @@
    [
     22,
     43
+   ],
+   [
+    22,
+    49
    ],
    [
     22,

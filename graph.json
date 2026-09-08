@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T08:30:17Z",
+ "generated_at": "2026-09-08T08:30:59Z",
  "nodes": [
   {
    "id": "Brain Index",
@@ -136,7 +136,7 @@
   {
    "id": "Approval-Gated Autonomy",
    "group": "knowledge",
-   "links": 24,
+   "links": 25,
    "shell": false
   },
   {
@@ -298,7 +298,7 @@
   {
    "id": "Signal Digest",
    "group": "knowledge",
-   "links": 33,
+   "links": 34,
    "shell": false
   },
   {
@@ -2136,6 +2136,10 @@
   [
    22,
    43
+  ],
+  [
+   22,
+   49
   ],
   [
    22,
