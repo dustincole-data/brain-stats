@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-08T08:30:59Z",
+ "generated_at": "2026-09-09T08:30:52Z",
  "counts": {
-  "raw_files": 2860,
+  "raw_files": 2875,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-07 ASTRA IS HERE (GPT-6 RELEASED)",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 How Tall crowd variation session",
+   "date": "2026-09-09",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 GPT-6 is HERE!",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 Government Buys goods bay session",
+   "date": "2026-09-09",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 GPT-6 IS HERE!!! (ASTRA)",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 WAE dairy and fats label fixes session",
+   "date": "2026-09-09",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 What GPT-6 Astra Can Do",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 Build Log Fantasy Analyst Rulings",
+   "date": "2026-09-09",
+   "bucket": "captures"
   },
   {
-   "title": "2026-09-07 3 Things to Try With GPT-6 Astra",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 Fantasy Analyst In-Season Rulings session",
+   "date": "2026-09-09",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 I've had early access to Astra... it's INSANE",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 Government Buys briefing rebuild session",
+   "date": "2026-09-08",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 NVIDIA Doubles Down on Local AI With PAIR",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 data-story Gate 3 session",
+   "date": "2026-09-08",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 GPT 6 Astra Is Here (And It's Better Than Fable 5.1)",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 How We Met second mining pass session",
+   "date": "2026-09-08",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 I Tested GPT 6 Astra vs Fable 5.1 (No Hype Assessment)",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 Record Days on dustincoledata session",
+   "date": "2026-09-08",
+   "bucket": "sessions"
   },
   {
-   "title": "2026-09-07 AI News in 5 Mins GPT-6 Astra",
-   "date": "2026-09-07",
-   "bucket": "signal"
+   "title": "2026-09-08 How Tall closure session",
+   "date": "2026-09-08",
+   "bucket": "sessions"
   }
  ],
  "graph": {
@@ -209,7 +209,7 @@
    {
     "id": "Data Story Standards",
     "group": "knowledge",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Fine-Tuning And Preference Optimization",
@@ -484,7 +484,7 @@
    {
     "id": "Attention Half-Life",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "AI Radar Discovery Lane",
@@ -664,7 +664,7 @@
    {
     "id": "DustinColeData State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Half The Shelf",
@@ -724,7 +724,7 @@
    {
     "id": "Fantasy Analyst",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "2026 Fantasy Football Research",
@@ -739,12 +739,12 @@
    {
     "id": "How Tall State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "How We Met State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Human History State",
@@ -814,12 +814,12 @@
    {
     "id": "What America Eats State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "What The Government Bought",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Where America Moves State",
