@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-10T08:30:43Z",
+ "generated_at": "2026-09-11T08:30:10Z",
  "counts": {
-  "raw_files": 2889,
+  "raw_files": 2895,
   "wiki_pages": 155,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-09 Record Days ship completion session",
-   "date": "2026-09-09",
+   "title": "2026-09-10 Fantasy Analyst anchor pass session",
+   "date": "2026-09-10",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-09 Fantasy Analyst metric ranking session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-10 GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 Fantasy Analyst in-season lag audit session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-10 When will average people feel AI\u2019s impact",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 Government Buys tile and share card session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-10",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 How We Met publish and finish session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-10 [AINews] not much happened today",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 Government Buys board approval session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-10 Building Codex with Tibo Sottiaux",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 How Tall publish session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-07 What GPT-6 Astra Can Do",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-09 How We Met night variation session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-07 NVIDIA Doubles Down on Local AI With PAIR",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-08 Record Days redesign session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-07 I've had early access to Astra... it's INSANE",
+   "date": "2026-09-10",
+   "bucket": "signal"
   },
   {
-   "title": "2026-09-08 How Tall crowd variation session",
-   "date": "2026-09-09",
-   "bucket": "sessions"
+   "title": "2026-09-07 I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
+   "date": "2026-09-10",
+   "bucket": "signal"
   }
  ],
  "graph": {
