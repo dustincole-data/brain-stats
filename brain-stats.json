@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T08:30:14Z",
+ "generated_at": "2026-09-15T08:30:37Z",
  "counts": {
-  "raw_files": 2973,
+  "raw_files": 2988,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,54 +9,54 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-14 Concept-Discovery Candidate Topics Report",
-   "date": "2026-09-14",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-09-13 Edge capture clock session",
+   "title": "2026-09-14 The Grid BA footprints session",
    "date": "2026-09-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-13 The Grid geometry interrogation session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-13 US Grid Geometry Source Interrogation Research",
+   "title": "2026-09-14 EIA-861 BA Footprint Source Interrogation Research",
    "date": "2026-09-14",
    "bucket": "sources"
   },
   {
-   "title": "2026-09-13 Fantasy Analyst T13 ship gate session",
+   "title": "2026-09-14 Fantasy Analyst T16-T18 builder truths session",
    "date": "2026-09-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-13 The Derby dataset build session",
+   "title": "2026-09-14 Edge bankroll sizing stop session",
    "date": "2026-09-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-13 Edge repo skeleton and paid-API guardrail session",
-   "date": "2026-09-13",
+   "title": "2026-09-14 The Grid data layers session",
+   "date": "2026-09-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-13 The Grid source interrogation session",
-   "date": "2026-09-13",
+   "title": "2026-09-14 The Derby Fable build session",
+   "date": "2026-09-14",
    "bucket": "sessions"
   },
   {
-   "title": "2026-09-13 EIA-930 Source Interrogation Research",
-   "date": "2026-09-13",
+   "title": "2026-09-14 Fantasy Analyst T15 stale Tuesday session",
+   "date": "2026-09-14",
+   "bucket": "sessions"
+  },
+  {
+   "title": "2026-09-14 DOE OE-417 Source Interrogation Research",
+   "date": "2026-09-14",
    "bucket": "sources"
   },
   {
-   "title": "2026-09-13 Edge anytime TD odds source feasibility session",
-   "date": "2026-09-13",
+   "title": "2026-09-14 Edge proof standard CLV gate session",
+   "date": "2026-09-14",
    "bucket": "sessions"
+  },
+  {
+   "title": "2026-09-14 Census State Boundaries Source Interrogation Research",
+   "date": "2026-09-14",
+   "bucket": "sources"
   }
  ],
  "graph": {
@@ -529,7 +529,7 @@
    {
     "id": "Brain State",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Brain Sync Process",
