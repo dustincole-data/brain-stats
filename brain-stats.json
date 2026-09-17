@@ -1,13 +1,28 @@
 {
- "generated_at": "2026-09-16T08:30:35Z",
+ "generated_at": "2026-09-17T08:30:44Z",
  "counts": {
-  "raw_files": 2990,
+  "raw_files": 2994,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-09-16",
+   "date": "2026-09-16",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-16 Inside OpenAI\u2019s agentic software factory",
+   "date": "2026-09-16",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-16 Can Skills Learned in Games Transfer to Real-World Work",
+   "date": "2026-09-16",
+   "bucket": "signal"
+  },
   {
    "title": "2026-09-15",
    "date": "2026-09-15",
@@ -40,21 +55,6 @@
   },
   {
    "title": "2026-09-14 Edge bankroll sizing stop session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-14 The Grid data layers session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-14 The Derby Fable build session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-14 Fantasy Analyst T15 stale Tuesday session",
    "date": "2026-09-14",
    "bucket": "sessions"
   }
@@ -484,7 +484,7 @@
    {
     "id": "Attention Half-Life",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "AI Radar Discovery Lane",
@@ -664,7 +664,7 @@
    {
     "id": "DustinColeData State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Half The Shelf",
@@ -749,12 +749,12 @@
    {
     "id": "How Tall State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "How We Met State",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Human History State",
@@ -844,7 +844,7 @@
    {
     "id": "What The Government Bought",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Where America Moves State",
