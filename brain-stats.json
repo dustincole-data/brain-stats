@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-09-17T08:30:44Z",
+ "generated_at": "2026-09-18T08:30:18Z",
  "counts": {
-  "raw_files": 2994,
+  "raw_files": 2997,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-09-17",
+   "date": "2026-09-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-17 [AINews] Jev a \u201cSystem One Model\u201d that only decidesclassifiesroutesscores \u2014 100x faster, 200x cheaper than small frontier LLMs",
+   "date": "2026-09-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-17 Underwriting Superintelligence Backing Agents you can Sue \u2014 Rune Kvist, AIUC",
+   "date": "2026-09-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-17 [AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks\u2019 +60% Astra cost)",
+   "date": "2026-09-17",
+   "bucket": "signal"
+  },
   {
    "title": "2026-09-16",
    "date": "2026-09-16",
@@ -37,26 +57,6 @@
    "title": "2026-09-15 [AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
    "date": "2026-09-15",
    "bucket": "signal"
-  },
-  {
-   "title": "2026-09-14 The Grid BA footprints session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-14 EIA-861 BA Footprint Source Interrogation Research",
-   "date": "2026-09-14",
-   "bucket": "sources"
-  },
-  {
-   "title": "2026-09-14 Fantasy Analyst T16-T18 builder truths session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
-  },
-  {
-   "title": "2026-09-14 Edge bankroll sizing stop session",
-   "date": "2026-09-14",
-   "bucket": "sessions"
   }
  ],
  "graph": {
