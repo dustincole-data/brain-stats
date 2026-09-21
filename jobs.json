@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T08:30:35Z",
+ "generated_at": "2026-09-21T08:30:31Z",
  "counts": {
   "jobs_total": 25,
   "agents": 7,
@@ -13,7 +13,7 @@
    "desc": "",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-09-20T08:27:33.210315+00:00",
+   "last_run": "2026-09-21T08:25:30.038310+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -23,7 +23,7 @@
    "desc": "Run the DustinColeData AI + Work/Energy morning brief updater after the standalone Daily AI briefing source job finishes",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T09:00:39.997374+00:00",
+   "last_run": "2026-09-20T09:00:43.424260+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -43,7 +43,7 @@
    "desc": "Daily AI briefing source for Dustin Cole in Louisville, KY",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T08:45:39.117658+00:00",
+   "last_run": "2026-09-20T08:45:42.607347+00:00",
    "last_status": "error",
    "active": false
   },
@@ -63,7 +63,7 @@
    "desc": "Run the AI Homeroom refresh script",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-20T08:15:32.777945+00:00",
+   "last_run": "2026-09-21T08:15:29.703275+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -73,7 +73,7 @@
    "desc": "Generate a compact, token-free continuity digest from Mission Control and agent logs",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-09-20T07:27:31.233643+00:00",
+   "last_run": "2026-09-21T07:30:27.227531+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -103,7 +103,7 @@
    "desc": "Script-only scheduled Brain librarian ingest for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-20T08:00:32.244339+00:00",
+   "last_run": "2026-09-21T08:00:29.108623+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -113,7 +113,7 @@
    "desc": "Script-only weekly deterministic Brain wiki lint for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:00:38.297841+00:00",
+   "last_run": "2026-09-21T07:00:38.655168+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -123,7 +123,7 @@
    "desc": "Script-only watchdog for Dustin's Brain Syncthing folder",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-09-20T08:22:33.082265+00:00",
+   "last_run": "2026-09-21T08:25:30.072438+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -143,7 +143,7 @@
    "desc": "Script-only deterministic Brain news/RSS ingest",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T09:15:49.260826+00:00",
+   "last_run": "2026-09-20T09:15:55.984087+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -153,7 +153,7 @@
    "desc": "Script-only deterministic Brain AI Radar discovery lane",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T09:26:11.930218+00:00",
+   "last_run": "2026-09-20T09:26:17.706363+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -163,7 +163,7 @@
    "desc": "Script-only weekly Brain concept discovery for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:30:09.862564+00:00",
+   "last_run": "2026-09-21T07:30:27.035811+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -173,7 +173,7 @@
    "desc": "Script-only weekly Brain source-tier audit for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:40:10.320670+00:00",
+   "last_run": "2026-09-21T07:40:27.504625+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -183,7 +183,7 @@
    "desc": "Script-only weekly Brain retrieval eval for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:15:45.047130+00:00",
+   "last_run": "2026-09-21T07:15:45.928587+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -193,7 +193,7 @@
    "desc": "Script-only weekly Brain source catalog for /home/hermes/brain",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:20:46.219435+00:00",
+   "last_run": "2026-09-21T07:20:47.086795+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -203,7 +203,7 @@
    "desc": "Script-only weekly Brain advisor + leverage + briefing loop for /home/hermes/brain live vault",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:26:02.307713+00:00",
+   "last_run": "2026-09-21T07:26:19.481716+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -223,7 +223,7 @@
    "desc": "Generate and publish public Brain stats snapshots for dustincoledata",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T08:30:37.217342+00:00",
+   "last_run": "2026-09-20T08:30:39.020584+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -233,7 +233,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T13:00:41.287415+00:00",
+   "last_run": "2026-09-20T13:00:27.295573+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -243,7 +243,7 @@
    "desc": "",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-19T11:00:36.280852+00:00",
+   "last_run": "2026-09-20T11:00:22.229698+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -263,8 +263,8 @@
    "desc": "Create the compiled weekly signal shortlist before the Advisor",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:06:44.551580+00:00",
-   "last_status": "ok",
+   "last_run": "2026-09-21T07:05:43.630073+00:00",
+   "last_status": "error",
    "active": false
   },
   {
@@ -273,7 +273,7 @@
    "desc": "Judge fidelity of three recently processed raw files",
    "cadence": "daily",
    "owner": "Hermes",
-   "last_run": "2026-09-14T07:10:44.752979+00:00",
+   "last_run": "2026-09-21T07:10:45.630249+00:00",
    "last_status": "ok",
    "active": false
   },
@@ -283,7 +283,7 @@
    "desc": "Launch brain-research only after Dustin exact yes-N approval",
    "cadence": "hourly",
    "owner": "Hermes",
-   "last_run": "2026-09-20T08:27:33.182247+00:00",
+   "last_run": "2026-09-21T08:25:29.993901+00:00",
    "last_status": "ok",
    "active": false
   }
