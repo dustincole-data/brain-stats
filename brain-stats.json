@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-09-25T08:30:16Z",
+ "generated_at": "2026-09-30T08:30:25Z",
  "counts": {
-  "raw_files": 3022,
+  "raw_files": 3026,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-09-25",
+   "date": "2026-09-25",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-25 Foundries vs Navigators Lowering the Cost of Science",
+   "date": "2026-09-25",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-25 Runway\u2019s WorldPrompt and the Engineering of Real-Time Worlds",
+   "date": "2026-09-25",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-09-25 [AINews] The Future of Latent Space",
+   "date": "2026-09-25",
+   "bucket": "signal"
+  },
   {
    "title": "2026-09-24",
    "date": "2026-09-24",
@@ -35,26 +55,6 @@
   },
   {
    "title": "2026-09-23 How will AI change operating systems Part 2 Windows",
-   "date": "2026-09-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-23 Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-   "date": "2026-09-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-23 \ud83d\udd2c An Oscar, Two Asteroids, and the Algorithm in Your sklearn John Platt on AI for Science",
-   "date": "2026-09-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-23 [AINews] Claude Opus 5.5, the new default model for AINews \u2014 and everybody cuts prices 40-50%",
-   "date": "2026-09-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-09-23 Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
    "date": "2026-09-23",
    "bucket": "signal"
   }
@@ -504,7 +504,7 @@
    {
     "id": "Brain Concept Discovery",
     "group": "projects",
-    "recent": true
+    "recent": false
    },
    {
     "id": "Brain Current Architecture",
