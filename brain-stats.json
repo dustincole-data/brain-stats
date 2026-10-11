@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-04T08:30:33Z",
+ "generated_at": "2026-10-11T08:30:58Z",
  "counts": {
-  "raw_files": 3036,
+  "raw_files": 3046,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-09-30",
-   "date": "2026-09-30",
+   "title": "2026-10-04",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 Why has Shopify dropped React Native",
-   "date": "2026-09-30",
+   "title": "2026-10-04 Distributed databases with Peter Mattis",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 Language Models for Text Classification From Bag-of-Words to Jev",
-   "date": "2026-09-30",
+   "title": "2026-10-04 Claude\u2019s new auto eval tool",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 OpenRouter from Seed to Stripe \u2014 with OpenRouter\u2019s Alex Atallah & AMP\u2019s Anjney Midha",
-   "date": "2026-09-30",
+   "title": "2026-10-04 Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 Claude Code\u2019s Next Era \u2014 Thariq Shihipar, Anthropic",
-   "date": "2026-09-30",
+   "title": "2026-10-04 [AINews] Gemini 4 Argon GDM\u2019s answer to AstraFable, with 1M output",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 [AINews] Opus 5.5 is good at explainer videos",
-   "date": "2026-09-30",
+   "title": "2026-10-04 Academia is for Ambition \u2014 Alex Zhang, MIT",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 [AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-   "date": "2026-09-30",
+   "title": "2026-10-04 [AINews] Pi 1.0, Pi Durable, and AIE NYC",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 [AINews] OpenAI DevDay 2026 Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-   "date": "2026-09-30",
+   "title": "2026-10-04 Inside-Out AI Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 2026 in LLMs (so far)",
-   "date": "2026-09-30",
+   "title": "2026-10-04 [AINews] not much happened today",
+   "date": "2026-10-04",
    "bucket": "signal"
   },
   {
-   "title": "2026-09-30 OpenAI DevDay 2026 live blog",
-   "date": "2026-09-30",
+   "title": "2026-10-04 We're going to need default hard budget caps on pretty much everything",
+   "date": "2026-10-04",
    "bucket": "signal"
   }
  ],
