@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-11T08:30:58Z",
+ "generated_at": "2026-10-12T08:30:11Z",
  "counts": {
-  "raw_files": 3046,
+  "raw_files": 3063,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-10-04",
-   "date": "2026-10-04",
+   "title": "2026-10-12 Concept-Discovery Candidate Topics Report",
+   "date": "2026-10-12",
+   "bucket": "captures"
+  },
+  {
+   "title": "2026-10-11",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 Distributed databases with Peter Mattis",
-   "date": "2026-10-04",
+   "title": "2026-10-11 The state of the tech industry in 2026",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 Claude\u2019s new auto eval tool",
-   "date": "2026-10-04",
+   "title": "2026-10-11 Building resilient systems with Sam Newman",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-   "date": "2026-10-04",
+   "title": "2026-10-11 The Cyber Risk Discourse is Broken",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 [AINews] Gemini 4 Argon GDM\u2019s answer to AstraFable, with 1M output",
-   "date": "2026-10-04",
+   "title": "2026-10-11 I expect rapid progress but not towards general superintelligence",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 Academia is for Ambition \u2014 Alex Zhang, MIT",
-   "date": "2026-10-04",
+   "title": "2026-10-11 [AINews] Reflection Beam - 501B-A23B American Open Model",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 [AINews] Pi 1.0, Pi Durable, and AIE NYC",
-   "date": "2026-10-04",
+   "title": "2026-10-11 [AINews] Quasi-Riemann-Hypothesis OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; \u201cthe most significant moment\u201d in 100 years of mathematics",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 Inside-Out AI Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-   "date": "2026-10-04",
+   "title": "2026-10-11 Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop",
+   "date": "2026-10-11",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-04 [AINews] not much happened today",
-   "date": "2026-10-04",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-04 We're going to need default hard budget caps on pretty much everything",
-   "date": "2026-10-04",
+   "title": "2026-10-11 [AINews] Claude Haiku 5.5 \u2014 better than GPT-6 Luna at the same pricing",
+   "date": "2026-10-11",
    "bucket": "signal"
   }
  ],
@@ -504,7 +504,7 @@
    {
     "id": "Brain Concept Discovery",
     "group": "projects",
-    "recent": false
+    "recent": true
    },
    {
     "id": "Brain Current Architecture",
