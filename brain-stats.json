@@ -1,13 +1,28 @@
 {
- "generated_at": "2026-10-13T08:30:58Z",
+ "generated_at": "2026-10-14T08:30:13Z",
  "counts": {
-  "raw_files": 3064,
+  "raw_files": 3067,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-10-13",
+   "date": "2026-10-13",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-13 How Anthropic\u2019s Dynamic Workflows Coordinate Claude Agents",
+   "date": "2026-10-13",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-13 Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+   "date": "2026-10-13",
+   "bucket": "signal"
+  },
   {
    "title": "2026-10-12",
    "date": "2026-10-12",
@@ -40,21 +55,6 @@
   },
   {
    "title": "2026-10-11 I expect rapid progress but not towards general superintelligence",
-   "date": "2026-10-11",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-11 [AINews] Reflection Beam - 501B-A23B American Open Model",
-   "date": "2026-10-11",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-11 [AINews] Quasi-Riemann-Hypothesis OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; \u201cthe most significant moment\u201d in 100 years of mathematics",
-   "date": "2026-10-11",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-11 Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop",
    "date": "2026-10-11",
    "bucket": "signal"
   }
