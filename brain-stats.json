@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-10-17T08:30:24Z",
+ "generated_at": "2026-10-18T08:30:50Z",
  "counts": {
-  "raw_files": 3079,
+  "raw_files": 3081,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-10-17",
+   "date": "2026-10-17",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-17 [AINews] High Taste Testers Ep. 1",
+   "date": "2026-10-17",
+   "bucket": "signal"
+  },
   {
    "title": "2026-10-16",
    "date": "2026-10-16",
@@ -45,16 +55,6 @@
   },
   {
    "title": "2026-10-14",
-   "date": "2026-10-14",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-14 Building resilient AI-powered software, and planning for when things go wrong",
-   "date": "2026-10-14",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-14 [AINews] Meta Muse Wonder & Wonder Full MSL\u2019s Claude 5.5-tier Frontier Model",
    "date": "2026-10-14",
    "bucket": "signal"
   }
