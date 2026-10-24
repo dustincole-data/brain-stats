@@ -1,13 +1,28 @@
 {
- "generated_at": "2026-10-23T08:30:36Z",
+ "generated_at": "2026-10-24T08:30:30Z",
  "counts": {
-  "raw_files": 3099,
+  "raw_files": 3102,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-10-23",
+   "date": "2026-10-23",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-23 You are the Team  \u2014 Anekha Sokhal, Moshi",
+   "date": "2026-10-23",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-23 Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+   "date": "2026-10-23",
+   "bucket": "signal"
+  },
   {
    "title": "2026-10-22",
    "date": "2026-10-22",
@@ -40,21 +55,6 @@
   },
   {
    "title": "2026-10-21 Latest open artifacts (#25) DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "date": "2026-10-21",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21 The Programmable Data Center \u2014 Evan Conrad, SF Compute",
-   "date": "2026-10-21",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21 AI for the Fortune 2000 How Tenex Builds an AI-Native SDLC \u2014 Alex Lieberman & CJ Hess",
-   "date": "2026-10-21",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21 [AINews] DeepSeek DeepInfer Open Source SOTA Inference running 155T toksdaycluster making $22mday at ~80% margin for a 81 day payback",
    "date": "2026-10-21",
    "bucket": "signal"
   }
