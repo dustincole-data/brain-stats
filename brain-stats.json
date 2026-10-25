@@ -1,13 +1,33 @@
 {
- "generated_at": "2026-10-24T08:30:30Z",
+ "generated_at": "2026-10-25T08:30:28Z",
  "counts": {
-  "raw_files": 3102,
+  "raw_files": 3106,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-10-24",
+   "date": "2026-10-24",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-24 [AINews] Black October",
+   "date": "2026-10-24",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-24 AI Is Getting Good at Math. Here\u2019s Why",
+   "date": "2026-10-24",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-24 [AINews] Kimi 3.1 Pro 104BA-2.8T Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3\u00d7 speed",
+   "date": "2026-10-24",
+   "bucket": "signal"
+  },
   {
    "title": "2026-10-23",
    "date": "2026-10-23",
@@ -36,26 +56,6 @@
   {
    "title": "2026-10-22 Claude Mods Flipping the Harness Inside Out",
    "date": "2026-10-22",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-22 [AINews] OpenAI\u2019s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-   "date": "2026-10-22",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21",
-   "date": "2026-10-21",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21 What\u2019s the ROI of software engineers\u2019 spending on AI",
-   "date": "2026-10-21",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-21 Latest open artifacts (#25) DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "date": "2026-10-21",
    "bucket": "signal"
   }
  ],
