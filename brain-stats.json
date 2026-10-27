@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-10-26T08:30:47Z",
+ "generated_at": "2026-10-27T08:30:06Z",
  "counts": {
-  "raw_files": 3109,
+  "raw_files": 3111,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
  },
  "recall": 0.79,
  "recent": [
+  {
+   "title": "2026-10-26",
+   "date": "2026-10-26",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-10-26 Podcast Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+   "date": "2026-10-26",
+   "bucket": "signal"
+  },
   {
    "title": "2026-10-26 Concept-Discovery Candidate Topics Report",
    "date": "2026-10-26",
@@ -45,16 +55,6 @@
   },
   {
    "title": "2026-10-23",
-   "date": "2026-10-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-23 You are the Team  \u2014 Anekha Sokhal, Moshi",
-   "date": "2026-10-23",
-   "bucket": "signal"
-  },
-  {
-   "title": "2026-10-23 Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
    "date": "2026-10-23",
    "bucket": "signal"
   }
