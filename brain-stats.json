@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T08:30:44Z",
+ "generated_at": "2026-11-03T08:30:24Z",
  "counts": {
-  "raw_files": 3119,
+  "raw_files": 3131,
   "wiki_pages": 160,
   "scheduled_jobs": 25,
   "subscribers": 3
@@ -9,53 +9,53 @@
  "recall": 0.79,
  "recent": [
   {
-   "title": "2026-11-02 Concept-Discovery Candidate Topics Report",
+   "title": "2026-11-02",
    "date": "2026-11-02",
-   "bucket": "captures"
-  },
-  {
-   "title": "2026-10-28 AI SRE what is it, how could it change on-call \u2013 and does it work",
-   "date": "2026-10-28",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-28 Coding From the Himalayas With an Offline AI Agent",
-   "date": "2026-10-28",
+   "title": "2026-11-02 Software engineering at Google & CS education with Titus Winters",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-28 How Anthropic ships the #1 LLM in the World safely Separating the Brain from the Hands",
-   "date": "2026-10-28",
+   "title": "2026-11-02 The Pulse Anthropic kills the coding interview",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-28 How Anthropic ships Claude with Claude Separating the Brain from the Hands",
-   "date": "2026-10-28",
+   "title": "2026-11-02 Artificial Analysis v5 and the benchmarker's dilemma",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-28 [AINews] Anthropic ends Coding Interviews Hunger beats tenure",
-   "date": "2026-10-28",
+   "title": "2026-11-02 Was I wrong about open models & cyber risks",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-27",
-   "date": "2026-10-27",
+   "title": "2026-11-02 Why Agents Love Supabase",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-27 [AINews] Anthropic files for $2T IPO in 2 weeks 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-   "date": "2026-10-27",
+   "title": "2026-11-02 [AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-26",
-   "date": "2026-10-26",
+   "title": "2026-11-02 Can Frontier Models See Past a Decoy Elorian Tests Visual Reasoning",
+   "date": "2026-11-02",
    "bucket": "signal"
   },
   {
-   "title": "2026-10-26 Podcast Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-   "date": "2026-10-26",
+   "title": "2026-11-02 [AINews] Building AIE CODE The top Coding Agent Conference",
+   "date": "2026-11-02",
+   "bucket": "signal"
+  },
+  {
+   "title": "2026-11-02 [AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming",
+   "date": "2026-11-02",
    "bucket": "signal"
   }
  ],
